@@ -1,0 +1,1113 @@
+{
+  "book_usfm": "JOL",
+  "name": "Joel",
+  "local_title": "Nueva Versión Internacional - Español",
+  "local_abbreviation": "NVI",
+  "version_id": 128,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+    "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "JOL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.14"
+        ],
+        "human": "Oseas 14",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Esta es la palabra del Señor que vino a Joel, hijo de Petuel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La invasión de langostas"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "¡Oigan esto, ancianos del pueblo!",
+            "¡Presten atención, habitantes todos del país!",
+            "¿Alguna vez sucedió cosa semejante",
+            "en su tiempo o en el de sus antepasados?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Cuéntenselo a sus hijos,",
+            "y que ellos se lo cuenten a los suyos,",
+            "y estos a la siguiente generación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Lo que dejó el enjambre de langostas,",
+            "lo comió la langosta grande.",
+            "Lo que dejó la langosta grande,",
+            "lo comió la langosta pequeña.",
+            "Lo que dejó la langosta pequeña,",
+            "lo comió la langosta joven."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "¡Despierten, borrachos, y lloren!",
+            "Giman, todos los que beben vino,",
+            "porque el vino nuevo les fue arrebatado de los labios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Una nación ha invadido mi tierra;",
+            "poderosa e innumerable:",
+            "tiene dientes de león,",
+            "colmillos de leona."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Asoló mis vides,",
+            "desgajó mis higueras.",
+            "Las peló y las derrumbó,",
+            "dejando blancas sus ramas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Gime, pueblo mío, como virgen vestida de luto",
+            "por la muerte de su prometido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Las ofrendas de cereales y las ofrendas líquidas",
+            "no se ofrecen ya en la casa del Señor.",
+            "Hacen duelo los sacerdotes,",
+            "los ministros del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Los campos yacen devastados,",
+            "reseca está la tierra;",
+            "han sido arrasados los cereales,",
+            "se ha secado el vino nuevo",
+            "y agotado el aceite."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Laméntense ustedes, agricultores;",
+            "giman, viñadores,",
+            "por el trigo y la cebada,",
+            "porque se ha perdido la cosecha de los campos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "La vid se secó",
+            "y la higuera se marchitó;",
+            "el granado, la palmera, el manzano",
+            "y todos los árboles del campo se secaron.",
+            "Y hasta la alegría de la gente",
+            "se marchitó."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Llamado al arrepentimiento"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "¡Vístanse de duelo y giman, sacerdotes!",
+            "¡Laméntense, ministros del altar!",
+            "¡Vengan, ministros de mi Dios,",
+            "y pasen la noche vestidos de luto,",
+            "porque las ofrendas de cereales y las ofrendas líquidas",
+            "han sido suspendidas en la casa de su Dios!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Entréguense al ayuno,",
+            "convoquen a una asamblea sagrada.",
+            "Reúnan a los ancianos del pueblo",
+            "en la casa del Señor su Dios;",
+            "reúnan a todos los habitantes del país,",
+            "y clamen al Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "¡Ay de aquel día! Porque el día del Señor está cerca.",
+            "Vendrá como devastación de parte del Todopoderoso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "¿No se nos arrebató el alimento",
+            "ante nuestros propios ojos,",
+            "la alegría y el regocijo",
+            "de la casa de nuestro Dios?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "La semilla se secó",
+            "debajo de los terrones.",
+            "Los silos están en ruinas",
+            "y los graneros derribados",
+            "porque la cosecha se perdió."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "¡Cómo brama el ganado!",
+            "Vagan sin rumbo las vacas",
+            "porque no tienen donde pastar",
+            "y sufren también las ovejas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "A ti clamo, Señor,",
+            "porque el fuego ha devorado los pastizales de la estepa;",
+            "las llamas han consumido todos los árboles del campo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Aun los animales del campo te buscan con ansias,",
+            "porque se han secado los canales de los ríos",
+            "y el fuego ha devorado los pastizales de la estepa."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Un ejército de langostas"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¡Toquen la trompeta en Sión;",
+            "den la voz de alarma en mi santo monte!",
+            "¡Tiemblen todos los habitantes del país!",
+            "Ya viene el día del Señor;",
+            "en realidad, ya está cerca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Día de tinieblas y oscuridad,",
+            "día de nubes y densos nubarrones.",
+            "Como la aurora que se extiende sobre los montes,",
+            "así avanza un pueblo fuerte y numeroso,",
+            "pueblo como nunca lo hubo en la antigüedad",
+            "ni lo habrá en las generaciones futuras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "El fuego devora delante de ellos;",
+            "detrás, las llamas arden.",
+            "Antes de su llegada, el país se parece al jardín del Edén;",
+            "después, queda un desolado desierto.",
+            "¡Nada escapa de su poder!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Tienen aspecto de caballos;",
+            "galopan como corceles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Al saltar sobre las cumbres de los montes,",
+            "producen un estruendo como el de carros de guerra,",
+            "como el crepitar del fuego al consumir la hojarasca.",
+            "¡Son como un ejército poderoso en formación de batalla!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Ante él se estremecen las naciones;",
+            "todo rostro palidece."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Atacan como guerreros,",
+            "escalan muros como soldados.",
+            "Cada uno mantiene la marcha",
+            "sin romper la formación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "No se atropellan entre sí;",
+            "cada uno marcha en línea.",
+            "Se lanzan entre las flechas",
+            "sin romper filas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Se abalanzan contra la ciudad,",
+            "escalan los muros,",
+            "trepan por las casas,",
+            "se meten por las ventanas como ladrones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Ante este ejército tiembla la tierra",
+            "y se estremece el cielo,",
+            "el sol y la luna se oscurecen",
+            "y las estrellas dejan de brillar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Truena la voz del Señor",
+            "al frente de su ejército;",
+            "son innumerables sus tropas",
+            "y poderosos los que ejecutan su palabra.",
+            "El día del Señor es grande y terrible.",
+            "¿Quién lo podrá resistir?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Exhortación al arrepentimiento"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "«Ahora bien», afirma el Señor,",
+            "«vuélvanse a mí de todo corazón,",
+            "con ayuno, llantos y lamentos»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Rásguense el corazón",
+            "y no las vestiduras.",
+            "Vuélvanse al Señor su Dios,",
+            "porque él es misericordioso y compasivo,",
+            "lento para la ira y lleno de amor,",
+            "cambia de parecer y no castiga."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Tal vez Dios reconsidere y cambie de parecer,",
+            "y deje tras de sí una bendición.",
+            "Las ofrendas de cereales y las ofrendas líquidas",
+            "son del Señor su Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "¡Toquen la trompeta en Sión!",
+            "¡Proclamen el ayuno!",
+            "¡Convoquen a una asamblea sagrada!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "¡Congreguen al pueblo;",
+            "consagren la asamblea!",
+            "¡Junten a los ancianos del pueblo,",
+            "reúnan a los pequeños",
+            "y a los niños de pecho!",
+            "¡Que salga de su alcoba el recién casado",
+            "y la recién casada, de su cámara nupcial!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Lloren, sacerdotes, ministros del Señor,",
+            "entre la entrada y el altar;",
+            "y digan: «Compadécete, Señor, de tu pueblo.",
+            "No entregues tu propiedad como objeto de burla,",
+            "para que las naciones no se burlen de ella.",
+            "¿Por qué habrán de decir entre los pueblos:",
+            "“Dónde está su Dios?”»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La respuesta del Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Entonces el Señor se llenó de celos por su tierra",
+            "y mostró piedad a su pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Y respondió el Señor:",
+            "«Miren, enviaré cereales, vino nuevo y aceite,",
+            "hasta dejarlos plenamente satisfechos;",
+            "y nunca más los haré",
+            "objeto de burla de las naciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "»Alejaré de ustedes al que viene del norte,",
+            "arrojándolo hacia una tierra seca y desolada:",
+            "lanzaré su vanguardia hacia el mar oriental,",
+            "y su retaguardia hacia el mar occidental.",
+            "Subirá su hedor",
+            "y se elevará su fetidez».",
+            "¡El Señor ha hecho grandes cosas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "No temas, tierra,",
+            "sino alégrate y regocíjate,",
+            "porque el Señor ha hecho grandes cosas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "No teman, animales del campo,",
+            "porque los pastizales de la estepa ya reverdecen;",
+            "los árboles producen su fruto",
+            "y la higuera y la vid dan su riqueza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "Alégrense, habitantes de Sión,",
+            "regocíjense en el Señor su Dios,",
+            "porque les ha dado las lluvias de otoño.",
+            "Él envía la lluvia,",
+            "la de otoño y la de primavera,",
+            "como en tiempos pasados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "Las parcelas se llenarán de grano;",
+            "los lagares rebosarán de vino nuevo y de aceite."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "«Yo los compensaré a ustedes",
+            "por los años en que todo lo devoró",
+            "ese gran ejército de langostas",
+            "que envié contra ustedes:",
+            "las grandes, las pequeñas,",
+            "las jóvenes y los saltamontes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "Ustedes comerán en abundancia, hasta saciarse,",
+            "y alabarán el nombre del Señor su Dios,",
+            "que hará maravillas por ustedes.",
+            "¡Nunca más será avergonzado mi pueblo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "Entonces sabrán que yo estoy en medio de Israel,",
+            "que yo soy el Señor su Dios,",
+            "y no hay otro fuera de mí.",
+            "¡Nunca más será avergonzado mi pueblo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "El día del Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            28
+          ],
+          "lines": [
+            "»Después de esto,",
+            "derramaré mi Espíritu sobre todo ser humano.",
+            "Los hijos y las hijas de ustedes profetizarán,",
+            "tendrán sueños los ancianos",
+            "y los jóvenes recibirán visiones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            29
+          ],
+          "lines": [
+            "En esos días derramaré mi Espíritu",
+            "aun sobre los siervos y las siervas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            30
+          ],
+          "lines": [
+            "En el cielo y en la tierra mostraré prodigios:",
+            "sangre, fuego y columnas de humo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            31
+          ],
+          "lines": [
+            "El sol se convertirá en tinieblas",
+            "y la luna en sangre",
+            "antes que llegue el día del Señor,",
+            "día grande y terrible."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            32
+          ],
+          "lines": [
+            "Y todo el que invoque el nombre del Señor será salvo,",
+            "porque en el monte Sión y en Jerusalén",
+            "habrá salvación,",
+            "como lo ha dicho el Señor.",
+            "Y entre los sobrevivientes",
+            "estarán los llamados del Señor."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amós 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "El juicio de las naciones"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "»En aquellos días, en el tiempo señalado,",
+            "cuando restaure yo la fortuna de Judá y de Jerusalén,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "reuniré a todas las naciones",
+            "y las haré bajar al valle de Josafat.",
+            "Allí entraré en juicio contra los pueblos",
+            "por lo que hicieron a Israel, pueblo de mi propiedad,",
+            "pues lo dispersaron entre las naciones",
+            "y se repartieron mi tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Se repartieron a mi pueblo echando suertes,",
+            "cambiaron a niños por prostitutas",
+            "y, para emborracharse,",
+            "vendieron niñas por vino."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "»Ahora bien, ¿qué tienen en contra mía Tiro y Sidón y todas las regiones de Filistea? ¿Quieren acaso vengarse de mí? Si es así, yo haré que muy pronto recaiga sobre ustedes su propia venganza,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "pues se robaron mi plata y mi oro, y se llevaron a sus templos mis valiosos tesoros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "A los griegos les vendieron a los habitantes de Jerusalén y de Judá, para alejarlos de su tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "»Sepan, pues, que voy a sacarlos de los lugares donde fueron vendidos y devolveré sobre sus propias cabezas lo que han hecho."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Venderé a sus hijos e hijas al pueblo de Judá; y ellos a su vez los venderán a los sabeos, una nación lejana». El Señor lo ha dicho."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Proclamen esto entre las naciones:",
+            "¡Prepárense para la batalla!",
+            "¡Movilicen a los soldados!",
+            "¡Alístense para el combate todos los hombres de guerra!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Forjen espadas con los azadones",
+            "y hagan lanzas con las hoces.",
+            "Diga el débil:",
+            "«¡Soy fuerte!»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Dense prisa, naciones vecinas,",
+            "reúnanse en ese lugar.",
+            "¡Haz bajar, Señor, a tus guerreros!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "«Que se movilicen las naciones",
+            "y acudan al valle de Josafat,",
+            "pues allí me sentaré",
+            "para juzgar a todos los pueblos vecinos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Echen mano a la hoz,",
+            "que la mies está madura.",
+            "Vengan a pisar las uvas,",
+            "que está lleno el lagar.",
+            "Sus lagares se desbordan:",
+            "¡tan grande es su maldad!»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "¡Multitud tras multitud",
+            "en el valle de la decisión!",
+            "¡Cercano está el día del Señor",
+            "en el valle de la decisión!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Se oscurecerán el sol y la luna;",
+            "dejarán de brillar las estrellas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Rugirá el Señor desde Sión,",
+            "hará tronar su voz desde Jerusalén",
+            "y el cielo y la tierra temblarán.",
+            "Pero el Señor será un refugio para su pueblo,",
+            "una fortaleza para los israelitas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Bendiciones para el pueblo de Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "«Entonces ustedes sabrán que yo, el Señor su Dios,",
+            "habito en Sión, mi monte santo.",
+            "Santa será Jerusalén,",
+            "y nunca más la invadirán los extranjeros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "»En aquel día las montañas destilarán vino nuevo",
+            "y de las colinas fluirá leche;",
+            "correrá el agua por los canales de los ríos de Judá.",
+            "De la casa del Señor brotará una fuente",
+            "que irrigará el valle de las acacias."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Pero Egipto quedará desolado",
+            "y Edom, convertido en desierto,",
+            "por la violencia cometida contra el pueblo de Judá,",
+            "en cuya tierra derramaron sangre inocente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Judá y Jerusalén serán habitadas para siempre,",
+            "por todas las generaciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "¿Perdonaré la sangre que derramaron?",
+            "¡Claro que no la perdonaré!».",
+            "¡El Señor habita en Sión!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

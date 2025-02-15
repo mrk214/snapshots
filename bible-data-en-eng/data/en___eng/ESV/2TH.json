@@ -1,0 +1,643 @@
+{
+  "book_usfm": "2TH",
+  "name": "2 Thessalonians",
+  "local_title": "English Standard Version 2016",
+  "local_abbreviation": "ESV",
+  "version_id": 59,
+  "publisher": {
+    "name": "Crossway / Good News Publishers"
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+    "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "2TH.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.1"
+        ],
+        "human": "2 Thessalonians 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Thessalonians 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.5"
+        ],
+        "human": "1 Thessalonians 5",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Greeting"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Paul, Silvanus, and Timothy,",
+            "To the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Grace to you and peace from God our Father and the Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Thanksgiving"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "We ought always to give thanks to God for you, brothers, as is right, because your faith is growing abundantly, and the love of every one of you for one another is increasing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Therefore we ourselves boast about you in the churches of God for your steadfastness and faith in all your persecutions and in the afflictions that you are enduring."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Judgment at Christ’s Coming"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "This is evidence of the righteous judgment of God, that you may be considered worthy of the kingdom of God, for which you are also suffering—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "since indeed God considers it just to repay with affliction those who afflict you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "and to grant relief to you who are afflicted as well as to us, when the Lord Jesus is revealed from heaven with his mighty angels"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "in flaming fire, inflicting vengeance on those who do not know God and on those who do not obey the gospel of our Lord Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "They will suffer the punishment of eternal destruction, away from the presence of the Lord and from the glory of his might,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "when he comes on that day to be glorified in his saints, and to be marveled at among all who have believed, because our testimony to you was believed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "To this end we always pray for you, that our God may make you worthy of his calling and may fulfill every resolve for good and every work of faith by his power,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "so that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TH.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Thessalonians 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TH.3"
+        ],
+        "human": "2 Thessalonians 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TH.1"
+        ],
+        "human": "2 Thessalonians 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Man of Lawlessness"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Now concerning the coming of our Lord Jesus Christ and our being gathered together to him, we ask you, brothers,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "not to be quickly shaken in mind or alarmed, either by a spirit or a spoken word, or a letter seeming to be from us, to the effect that the day of the Lord has come."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Let no one deceive you in any way. For that day will not come, unless the rebellion comes first, and the man of lawlessness is revealed, the son of destruction,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "who opposes and exalts himself against every so-called god or object of worship, so that he takes his seat in the temple of God, proclaiming himself to be God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Do you not remember that when I was still with you I told you these things?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "And you know what is restraining him now so that he may be revealed in his time."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "For the mystery of lawlessness is already at work. Only he who now restrains it will do so until he is out of the way."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "And then the lawless one will be revealed, whom the Lord Jesus will kill with the breath of his mouth and bring to nothing by the appearance of his coming."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "The coming of the lawless one is by the activity of Satan with all power and false signs and wonders,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "and with all wicked deception for those who are perishing, because they refused to love the truth and so be saved."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Therefore God sends them a strong delusion, so that they may believe what is false,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "in order that all may be condemned who did not believe the truth but had pleasure in unrighteousness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Stand Firm"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "But we ought always to give thanks to God for you, brothers beloved by the Lord, because God chose you as the firstfruits to be saved, through sanctification by the Spirit and belief in the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "To this he called you through our gospel, so that you may obtain the glory of our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "So then, brothers, stand firm and hold to the traditions that you were taught by us, either by our spoken word or by our letter."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Now may our Lord Jesus Christ himself, and God our Father, who loved us and gave us eternal comfort and good hope through grace,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "comfort your hearts and establish them in every good work and word."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TH.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.3"
+        ],
+        "human": "2 Thessalonians 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.1"
+        ],
+        "human": "1 Timothy 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Thessalonians 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Pray for Us"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Finally, brothers, pray for us, that the word of the Lord may speed ahead and be honored, as happened among you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "and that we may be delivered from wicked and evil men. For not all have faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "But the Lord is faithful. He will establish you and guard you against the evil one."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "And we have confidence in the Lord about you, that you are doing and will do the things that we command."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "May the Lord direct your hearts to the love of God and to the steadfastness of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Warning Against Idleness"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Now we command you, brothers, in the name of our Lord Jesus Christ, that you keep away from any brother who is walking in idleness and not in accord with the tradition that you received from us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "For you yourselves know how you ought to imitate us, because we were not idle when we were with you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "nor did we eat anyone’s bread without paying for it, but with toil and labor we worked night and day, that we might not be a burden to any of you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "It was not because we do not have that right, but to give you in ourselves an example to imitate."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "For even when we were with you, we would give you this command: If anyone is not willing to work, let him not eat."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "For we hear that some among you walk in idleness, not busy at work, but busybodies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Now such persons we command and encourage in the Lord Jesus Christ to do their work quietly and to earn their own living."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "As for you, brothers, do not grow weary in doing good."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "If anyone does not obey what we say in this letter, take note of that person, and have nothing to do with him, that he may be ashamed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Do not regard him as an enemy, but warn him as a brother."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Benediction"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Now may the Lord of peace himself give you peace at all times in every way. The Lord be with you all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "I, Paul, write this greeting with my own hand. This is the sign of genuineness in every letter of mine; it is the way I write."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "The grace of our Lord Jesus Christ be with you all."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1884 @@
+{
+  "book_usfm": "EPH",
+  "name": "Ephesians",
+  "local_title": "Christian Standard Bible",
+  "local_abbreviation": "CSB",
+  "version_id": 1713,
+  "publisher": {
+    "name": "LifeWay Christian Resources"
+  },
+  "copyright": {
+    "html": "<p>© 2017 Holman Bible Publishers</p>",
+    "text": "© 2017 Holman Bible Publishers"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "EPH.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Ephesians 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Ephesians 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.6"
+        ],
+        "human": "Galatians 6",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Greeting"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Paul, an apostle of Christ Jesus by God’s will:",
+            "To the faithful saints in Christ Jesus at Ephesus. ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Grace to you and peace from God our Father and the Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "God’s Rich Blessings"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "to the praise of his glorious grace that he lavished on us in the Beloved One."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "that he richly poured out on us with all wisdom and understanding."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "as a plan for the right time #— #to bring everything together in Christ, both things in heaven and things on earth in him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "so that we who had already put our hope in Christ might bring praise to his glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "In him you also were sealed with the promised Holy Spirit when you heard the word of truth, the gospel of your salvation, and when you believed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "The Holy Spirit is the down payment of our inheritance, until the redemption of the possession, to the praise of his glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Prayer for Spiritual Insight"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "This is why, since I heard about your faith in the Lord Jesus and your love for all the saints,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "I never stop giving thanks for you as I remember you in my prayers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "I pray that the God of our Lord Jesus Christ, the glorious Father, would give you the Spirit , of wisdom and revelation in the knowledge of him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "I pray that the eyes of your heart may be enlightened so that you may know what is the hope of his calling, what is the wealth of his glorious inheritance in the saints,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "and what is the immeasurable greatness of his power toward us who believe, according to the mighty working of his strength."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "God’s Power in Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "He exercised this power in Christ by raising him from the dead and seating him at his right hand in the heavens #— #"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "far above every ruler and authority, power and dominion, and every title given, , not only in this age but also in the one to come."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "And he subjected everything under his feet , and appointed him as head over everything for the church,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "which is his body, the fullness of the one who fills all things in every way."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Ephesians 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Ephesians 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Ephesians 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "From Death to Life"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "And you were dead in your trespasses and sins"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "But God, who is rich in mercy, because of his great love that he had for us,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "made us alive with Christ even though we were dead in trespasses. You are saved by grace!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "He also raised us up with him and seated us with him in the heavens in Christ Jesus,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "so that in the coming ages he might display the immeasurable riches of his grace through his kindness to us in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "For you are saved by grace through faith, and this is not from yourselves; it is God’s gift #— #"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "not from works, so that no one can boast."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Unity in Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "So, then, remember that at one time you were Gentiles in the flesh #— #called “the uncircumcised” by those called “the circumcised,” which is done in the flesh by human hands."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "At that time you were without Christ, excluded from the citizenship of Israel, and foreigners to the covenants of promise, without hope and without God in the world."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "But now in Christ Jesus, you who were far away have been brought near by the blood of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "For he is our peace, who made both groups one and tore down the dividing wall of hostility. In his flesh,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "he made of no effect the law consisting of commands and expressed in regulations, so that he might create in himself one new man from the two, resulting in peace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "He did this so that he might reconcile both to God in one body through the cross by which he put the hostility to death."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "He came and proclaimed the good news of peace to you who were far away and peace to those who were near."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "For through him we both have access in one Spirit to the Father."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "So, then, you are no longer foreigners and strangers, but fellow citizens with the saints, and members of God’s household,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "built on the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "In him the whole building, being put together, grows into a holy temple in the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "In him you are also being built together for God’s dwelling in the Spirit."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Ephesians 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Ephesians 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Ephesians 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Paul’s Ministry to the Gentiles"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "For this reason, I, Paul, the prisoner of Christ Jesus on behalf of you Gentiles #— #"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "assuming you have heard about the administration of God’s grace that he gave me for you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "The mystery was made known to me by revelation, as I have briefly written above."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "By reading this you are able to understand my insight into the mystery of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "This was not made known to people in other generations as it is now revealed to his holy apostles and prophets by the Spirit:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "The Gentiles are coheirs, members of the same body, and partners in the promise in Christ Jesus through the gospel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "I was made a servant of this gospel by the gift of God’s grace that was given to me by the working of his power."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "This grace was given to me #— #the least of all the saints #— #to proclaim to the Gentiles the incalculable riches of Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "and to shed light for all about the administration of the mystery hidden for ages in God who created all things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "This is so that God’s multi-faceted wisdom may now be made known through the church to the rulers and authorities in the heavens."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "This is according to his eternal purpose accomplished in Christ Jesus our Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "In him we have boldness and confident access through faith in him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "So, then, I ask you not to be discouraged over my afflictions on your behalf, for they are your glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Prayer for Spiritual Power"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "For this reason I kneel before the Father"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "from whom every family in heaven and on earth is named."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "I pray that he may grant you, according to the riches of his glory, to be strengthened with power in your inner being through his Spirit,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "and that Christ may dwell in your hearts through faith. I pray that you, being rooted and firmly established in love,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "may be able to comprehend with all the saints what is the length and width, height and depth of God’s love,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "and to know Christ’s love that surpasses knowledge, so that you may be filled with all the fullness of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Now to him who is able to do above and beyond all that we ask or think according to the power that works in us #— #"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "to him be glory in the church and in Christ Jesus to all generations, forever and ever. Amen."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Ephesians 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Ephesians 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Ephesians 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Unity and Diversity in the Body of Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Therefore I, the prisoner in the Lord, urge you to walk worthy of the calling you have received,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "with all humility and gentleness, with patience, bearing with one another in love,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "making every effort to keep the unity of the Spirit through the bond of peace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "There is one body and one Spirit #— #just as you were called to one hope , at your calling #— #"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "one Lord, one faith, one baptism,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "one God and Father of all, who is above all and through all and in all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Now grace was given to each one of us according to the measure of Christ’s gift."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "For it says:",
+            "When he ascended on high,",
+            "he took the captives captive;",
+            "he gave gifts to people. ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "But what does “he ascended” mean except that he also descended to the lower parts of the earth? ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "The one who descended is also the one who ascended far above all the heavens, to fill all things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "And he himself gave some to be apostles, some prophets, some evangelists, some pastors and teachers,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "to equip the saints for the work of ministry, to build up the body of Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "until we all reach unity in the faith and in the knowledge of God’s Son, growing into maturity with a stature measured by Christ’s fullness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Then we will no longer be little children, tossed by the waves and blown around by every wind of teaching, by human cunning with cleverness in the techniques of deceit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "But speaking the truth in love, let us grow in every way into him who is the head #— #Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "From him the whole body, fitted and knit together by every supporting ligament, promotes the growth of the body for building itself up in love by the proper working of each individual part."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Living the New Life"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Therefore, I say this and testify in the Lord: You should no longer walk as the Gentiles do, in the futility of their thoughts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "They are darkened in their understanding, excluded from the life of God, because of the ignorance that is in them and because of the hardness of their hearts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "They became callous and gave themselves over to promiscuity for the practice of every kind of impurity with a desire for more and more."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "But that is not how you came to know Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "assuming you heard about him and were taught by him, as the truth is in Jesus,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "to take off , your former way of life, the old self that is corrupted by deceitful desires,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "to be renewed in the spirit of your minds,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "and to put on , the new self, the one created according to God’s likeness in righteousness and purity of the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "Therefore, putting away lying, speak the truth, each one to his neighbor, , because we are members of one another."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "Be angry and do not sin. , Don’t let the sun go down on your anger,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "and don’t give the devil an opportunity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            28
+          ],
+          "lines": [
+            "Let the thief no longer steal. Instead, he is to do honest work with his own hands, so that he has something to share with anyone in need."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            29
+          ],
+          "lines": [
+            "No foul language should come from your mouth, but only what is good for building up someone in need, so that it gives grace to those who hear."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            30
+          ],
+          "lines": [
+            "And don’t grieve God’s Holy Spirit. You were sealed by him for the day of redemption."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            31
+          ],
+          "lines": [
+            "Let all bitterness, anger and wrath, shouting and slander be removed from you, along with all malice."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            32
+          ],
+          "lines": [
+            "And be kind and compassionate to one another, forgiving one another, just as God also forgave you in Christ."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Ephesians 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.6"
+        ],
+        "human": "Ephesians 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Ephesians 4",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Therefore, be imitators of God, as dearly loved children,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "and walk in love, as Christ also loved us and gave himself for us, a sacrificial and fragrant offering to God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "But sexual immorality and any impurity or greed should not even be heard of among you, as is proper for saints."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Obscene and foolish talking or crude joking are not suitable, but rather giving thanks."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "For know and recognize this: Every sexually immoral or impure or greedy person, who is an idolater, does not have an inheritance in the kingdom of Christ and of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Light versus Darkness"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Let no one deceive you with empty arguments, for God’s wrath is coming on the disobedient because of these things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Therefore, do not become their partners."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "For you were once darkness, but now you are light in the Lord. Walk as children of light #— #"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "for the fruit of the light consists of all goodness, righteousness, and truth #— #"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "testing what is pleasing to the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Don’t participate in the fruitless works of darkness, but instead expose them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "For it is shameful even to mention what is done by them in secret."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Everything exposed by the light is made visible,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "for what makes everything visible is light. Therefore it is said:",
+            "Get up, sleeper, and rise up from the dead,",
+            "and Christ will shine on you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Consistency in the Christian Life"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Pay careful attention, then, to how you walk #— #not as unwise people but as wise #— #"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "making the most of the time, , because the days are evil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "So don’t be foolish, but understand what the Lord’s will is."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "And don’t get drunk with wine, which leads to reckless living, but be filled by the Spirit:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "speaking to one another in psalms, hymns, and spiritual songs, singing and making music with your heart to the Lord,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "giving thanks always for everything to God the Father in the name of our Lord Jesus Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "submitting to one another in the fear of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Wives and Husbands"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Wives, submit , to your husbands as to the Lord,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "because the husband is the head of the wife as Christ is the head of the church. He is the Savior of the body."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "Now as the church submits to Christ, so also wives are to submit to their husbands in everything."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "Husbands, love your wives, just as Christ loved the church and gave himself for her"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "to make her holy, cleansing her with the washing of water by the word."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "He did this to present the church to himself in splendor, without spot or wrinkle or anything like that, but holy and blameless."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            28
+          ],
+          "lines": [
+            "In the same way, husbands are to love their wives as their own bodies. He who loves his wife loves himself."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            29
+          ],
+          "lines": [
+            "For no one ever hates his own flesh but provides and cares for it, just as Christ does for the church,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            30
+          ],
+          "lines": [
+            "since we are members of his body."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            31
+          ],
+          "lines": [
+            "For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh. ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            32
+          ],
+          "lines": [
+            "This mystery is profound, but I am talking about Christ and the church."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            33
+          ],
+          "lines": [
+            "To sum up, each one of you is to love his wife as himself, and the wife is to respect her husband."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.6"
+        ],
+        "human": "Ephesians 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHP.1"
+        ],
+        "human": "Philippians 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Ephesians 5",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Children and Parents"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Children, obey your parents in the Lord, because this is right."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Honor your father and mother, which is the first commandment with a promise,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "so that it may go well with you and that you may have a long life in the land. ,,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Fathers, don’t stir up anger in your children, but bring them up in the training and instruction of the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Slaves and Masters"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Slaves, obey your human masters with fear and trembling, in the sincerity of your heart, as you would Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Don’t work only while being watched, as people-pleasers, but as slaves of Christ, doing God’s will from your heart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Serve with a good attitude, as to the Lord and not to people,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "knowing that whatever good each one does, slave or free, he will receive this back from the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "And masters, treat your slaves the same way, without threatening them, because you know that both their Master and yours is in heaven, and there is no favoritism with him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Christian Warfare"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Finally, be strengthened by the Lord and by his vast strength."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Put on the full armor of God so that you can stand against the schemes of the devil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the cosmic powers of this darkness, against evil, spiritual forces in the heavens."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "For this reason take up the full armor of God, so that you may be able to resist in the evil day, and having prepared everything, to take your stand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Stand, therefore, with truth like a belt around your waist, righteousness like armor on your chest,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "and your feet sandaled with readiness for the gospel of peace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "In every situation take up the shield of faith with which you can extinguish all the flaming arrows of the evil one."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Take the helmet of salvation and the sword of the Spirit #— #which is the word of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Pray at all times in the Spirit with every prayer and request, and stay alert with all perseverance and intercession for all the saints."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Pray also for me, that the message may be given to me when I open my mouth to make known with boldness the mystery of the gospel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "For this I am an ambassador in chains. Pray that I might be bold enough to speak about it as I should."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Paul’s Farewell"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Tychicus, our dearly loved brother and faithful servant in the Lord, will tell you all the news about me so that you may be informed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "I am sending him to you for this very reason, to let you know how we are and to encourage your hearts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "Peace to the brothers and sisters, and love with faith, from God the Father and the Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "Grace be with all who have undying love for our Lord Jesus Christ. ,"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

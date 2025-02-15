@@ -1,0 +1,207 @@
+{
+  "book_usfm": "2JN",
+  "name": "2 John",
+  "local_title": "New Living Translation",
+  "local_abbreviation": "NLT",
+  "version_id": 116,
+  "publisher": {
+    "name": "Tyndale House Publishers Inc."
+  },
+  "copyright": {
+    "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+    "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "2JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 John 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 John 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1JN.5"
+        ],
+        "human": "1 John 5",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Greetings"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "This letter is from John, the elder.",
+            "I am writing to the chosen lady and to her children, whom I love in the truth—as does everyone else who knows the truth—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "because the truth lives in us and will be with us forever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Grace, mercy, and peace, which come from God the Father and from Jesus Christ—the Son of the Father—will continue to be with us who live in truth and love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Live in the Truth"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "How happy I was to meet some of your children and find them living according to the truth, just as the Father commanded."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "I am writing to remind you, dear friends, that we should love one another. This is not a new commandment, but one we have had from the beginning."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Love means doing what God has commanded us, and he has commanded us to love one another, just as you heard from the beginning."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "I say this because many deceivers have gone out into the world. They deny that Jesus Christ came in a real body. Such a person is a deceiver and an antichrist."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Watch out that you do not lose what we have worked so hard to achieve. Be diligent so that you receive your full reward."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Anyone who wanders away from this teaching has no relationship with God. But anyone who remains in the teaching of Christ has a relationship with both the Father and the Son."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "If anyone comes to your meeting and does not teach the truth about Christ, don’t invite that person into your home or give any kind of encouragement."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Anyone who encourages such people becomes a partner in their evil work."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Conclusion"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "I have much more to say to you, but I don’t want to do it with paper and ink. For I hope to visit you soon and talk with you face to face. Then our joy will be complete."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Greetings from the children of your sister, chosen by God."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

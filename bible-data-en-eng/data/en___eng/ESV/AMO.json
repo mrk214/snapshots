@@ -1,0 +1,2195 @@
+{
+  "book_usfm": "AMO",
+  "name": "Amos",
+  "local_title": "English Standard Version 2016",
+  "local_abbreviation": "ESV",
+  "version_id": 59,
+  "publisher": {
+    "name": "Crossway / Good News Publishers"
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+    "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "AMO.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amos 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.2"
+        ],
+        "human": "Amos 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "The words of Amos, who was among the shepherds of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Judgment on Israel’s Neighbors"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "And he said:",
+            "“The Lord roars from Zion",
+            "and utters his voice from Jerusalem;",
+            "the pastures of the shepherds mourn,",
+            "and the top of Carmel withers.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Thus says the Lord:",
+            "“For three transgressions of Damascus,",
+            "and for four, I will not revoke the punishment,",
+            "because they have threshed Gilead",
+            "with threshing sledges of iron."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "So I will send a fire upon the house of Hazael,",
+            "and it shall devour the strongholds of Ben-hadad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "I will break the gate-bar of Damascus,",
+            "and cut off the inhabitants from the Valley of Aven,",
+            "and him who holds the scepter from Beth-eden;",
+            "and the people of Syria shall go into exile to Kir,”",
+            "says the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Thus says the Lord:",
+            "“For three transgressions of Gaza,",
+            "and for four, I will not revoke the punishment,",
+            "because they carried into exile a whole people",
+            "to deliver them up to Edom."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "So I will send a fire upon the wall of Gaza,",
+            "and it shall devour her strongholds."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "I will cut off the inhabitants from Ashdod,",
+            "and him who holds the scepter from Ashkelon;",
+            "I will turn my hand against Ekron,",
+            "and the remnant of the Philistines shall perish,”",
+            "says the Lord God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Thus says the Lord:",
+            "“For three transgressions of Tyre,",
+            "and for four, I will not revoke the punishment,",
+            "because they delivered up a whole people to Edom,",
+            "and did not remember the covenant of brotherhood."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "So I will send a fire upon the wall of Tyre,",
+            "and it shall devour her strongholds.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Thus says the Lord:",
+            "“For three transgressions of Edom,",
+            "and for four, I will not revoke the punishment,",
+            "because he pursued his brother with the sword",
+            "and cast off all pity,",
+            "and his anger tore perpetually,",
+            "and he kept his wrath forever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "So I will send a fire upon Teman,",
+            "and it shall devour the strongholds of Bozrah.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Thus says the Lord:",
+            "“For three transgressions of the Ammonites,",
+            "and for four, I will not revoke the punishment,",
+            "because they have ripped open pregnant women in Gilead,",
+            "that they might enlarge their border."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "So I will kindle a fire in the wall of Rabbah,",
+            "and it shall devour her strongholds,",
+            "with shouting on the day of battle,",
+            "with a tempest in the day of the whirlwind;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "and their king shall go into exile,",
+            "he and his princes together,”",
+            "says the Lord."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.2"
+        ],
+        "human": "Amos 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.3"
+        ],
+        "human": "Amos 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amos 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Thus says the Lord:",
+            "“For three transgressions of Moab,",
+            "and for four, I will not revoke the punishment,",
+            "because he burned to lime",
+            "the bones of the king of Edom."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "So I will send a fire upon Moab,",
+            "and it shall devour the strongholds of Kerioth,",
+            "and Moab shall die amid uproar,",
+            "amid shouting and the sound of the trumpet;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "I will cut off the ruler from its midst,",
+            "and will kill all its princes with him,”",
+            "says the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Judgment on Judah"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Thus says the Lord:",
+            "“For three transgressions of Judah,",
+            "and for four, I will not revoke the punishment,",
+            "because they have rejected the law of the Lord,",
+            "and have not kept his statutes,",
+            "but their lies have led them astray,",
+            "those after which their fathers walked."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "So I will send a fire upon Judah,",
+            "and it shall devour the strongholds of Jerusalem.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Judgment on Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Thus says the Lord:",
+            "“For three transgressions of Israel,",
+            "and for four, I will not revoke the punishment,",
+            "because they sell the righteous for silver,",
+            "and the needy for a pair of sandals—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "those who trample the head of the poor into the dust of the earth",
+            "and turn aside the way of the afflicted;",
+            "a man and his father go in to the same girl,",
+            "so that my holy name is profaned;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "they lay themselves down beside every altar",
+            "on garments taken in pledge,",
+            "and in the house of their God they drink",
+            "the wine of those who have been fined."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "“Yet it was I who destroyed the Amorite before them,",
+            "whose height was like the height of the cedars",
+            "and who was as strong as the oaks;",
+            "I destroyed his fruit above",
+            "and his roots beneath."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Also it was I who brought you up out of the land of Egypt",
+            "and led you forty years in the wilderness,",
+            "to possess the land of the Amorite."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "And I raised up some of your sons for prophets,",
+            "and some of your young men for Nazirites.",
+            "Is it not indeed so, O people of Israel?”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "“But you made the Nazirites drink wine,",
+            "and commanded the prophets,",
+            "saying, ‘You shall not prophesy.’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "“Behold, I will press you down in your place,",
+            "as a cart full of sheaves presses down."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Flight shall perish from the swift,",
+            "and the strong shall not retain his strength,",
+            "nor shall the mighty save his life;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "he who handles the bow shall not stand,",
+            "and he who is swift of foot shall not save himself,",
+            "nor shall he who rides the horse save his life;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "and he who is stout of heart among the mighty",
+            "shall flee away naked in that day,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.3"
+        ],
+        "human": "Amos 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.4"
+        ],
+        "human": "Amos 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.2"
+        ],
+        "human": "Amos 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Israel’s Guilt and Punishment"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Hear this word that the Lord has spoken against you, O people of Israel, against the whole family that I brought up out of the land of Egypt:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "“You only have I known",
+            "of all the families of the earth;",
+            "therefore I will punish you",
+            "for all your iniquities."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "“Do two walk together,",
+            "unless they have agreed to meet?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Does a lion roar in the forest,",
+            "when he has no prey?",
+            "Does a young lion cry out from his den,",
+            "if he has taken nothing?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Does a bird fall in a snare on the earth,",
+            "when there is no trap for it?",
+            "Does a snare spring up from the ground,",
+            "when it has taken nothing?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Is a trumpet blown in a city,",
+            "and the people are not afraid?",
+            "Does disaster come to a city,",
+            "unless the Lord has done it?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "“For the Lord God does nothing",
+            "without revealing his secret",
+            "to his servants the prophets."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "The lion has roared;",
+            "who will not fear?",
+            "The Lord God has spoken;",
+            "who can but prophesy?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Proclaim to the strongholds in Ashdod",
+            "and to the strongholds in the land of Egypt,",
+            "and say, “Assemble yourselves on the mountains of Samaria,",
+            "and see the great tumults within her,",
+            "and the oppressed in her midst.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "“They do not know how to do right,” declares the Lord,",
+            "“those who store up violence and robbery in their strongholds.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Therefore thus says the Lord God:",
+            "“An adversary shall surround the land",
+            "and bring down your defenses from you,",
+            "and your strongholds shall be plundered.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Thus says the Lord: “As the shepherd rescues from the mouth of the lion two legs, or a piece of an ear, so shall the people of Israel who dwell in Samaria be rescued, with the corner of a couch and part of a bed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "“Hear, and testify against the house of Jacob,”",
+            "declares the Lord God, the God of hosts,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "“that on the day I punish Israel for his transgressions,",
+            "I will punish the altars of Bethel,",
+            "and the horns of the altar shall be cut off",
+            "and fall to the ground."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "I will strike the winter house along with the summer house,",
+            "and the houses of ivory shall perish,",
+            "and the great houses shall come to an end,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.4"
+        ],
+        "human": "Amos 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.5"
+        ],
+        "human": "Amos 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.3"
+        ],
+        "human": "Amos 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "“Hear this word, you cows of Bashan,",
+            "who are on the mountain of Samaria,",
+            "who oppress the poor, who crush the needy,",
+            "who say to your husbands, ‘Bring, that we may drink!’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "The Lord God has sworn by his holiness",
+            "that, behold, the days are coming upon you,",
+            "when they shall take you away with hooks,",
+            "even the last of you with fishhooks."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "And you shall go out through the breaches,",
+            "each one straight ahead;",
+            "and you shall be cast out into Harmon,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "“Come to Bethel, and transgress;",
+            "to Gilgal, and multiply transgression;",
+            "bring your sacrifices every morning,",
+            "your tithes every three days;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "offer a sacrifice of thanksgiving of that which is leavened,",
+            "and proclaim freewill offerings, publish them;",
+            "for so you love to do, O people of Israel!”",
+            "declares the Lord God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Israel Has Not Returned to the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "“I gave you cleanness of teeth in all your cities,",
+            "and lack of bread in all your places,",
+            "yet you did not return to me,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "“I also withheld the rain from you",
+            "when there were yet three months to the harvest;",
+            "I would send rain on one city,",
+            "and send no rain on another city;",
+            "one field would have rain,",
+            "and the field on which it did not rain would wither;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "so two or three cities would wander to another city",
+            "to drink water, and would not be satisfied;",
+            "yet you did not return to me,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "“I struck you with blight and mildew;",
+            "your many gardens and your vineyards,",
+            "your fig trees and your olive trees the locust devoured;",
+            "yet you did not return to me,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "“I sent among you a pestilence after the manner of Egypt;",
+            "I killed your young men with the sword,",
+            "and carried away your horses,",
+            "and I made the stench of your camp go up into your nostrils;",
+            "yet you did not return to me,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "“I overthrew some of you,",
+            "as when God overthrew Sodom and Gomorrah,",
+            "and you were as a brand plucked out of the burning;",
+            "yet you did not return to me,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "“Therefore thus I will do to you, O Israel;",
+            "because I will do this to you,",
+            "prepare to meet your God, O Israel!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "For behold, he who forms the mountains and creates the wind,",
+            "and declares to man what is his thought,",
+            "who makes the morning darkness,",
+            "and treads on the heights of the earth—",
+            "the Lord, the God of hosts, is his name!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.5"
+        ],
+        "human": "Amos 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.6"
+        ],
+        "human": "Amos 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.4"
+        ],
+        "human": "Amos 4",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Seek the Lord and Live"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Hear this word that I take up over you in lamentation, O house of Israel:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "“Fallen, no more to rise,",
+            "is the virgin Israel;",
+            "forsaken on her land,",
+            "with none to raise her up.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "For thus says the Lord God:",
+            "“The city that went out a thousand",
+            "shall have a hundred left,",
+            "and that which went out a hundred",
+            "shall have ten left",
+            "to the house of Israel.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "For thus says the Lord to the house of Israel:",
+            "“Seek me and live;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "but do not seek Bethel,",
+            "and do not enter into Gilgal",
+            "or cross over to Beersheba;",
+            "for Gilgal shall surely go into exile,",
+            "and Bethel shall come to nothing.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Seek the Lord and live,",
+            "lest he break out like fire in the house of Joseph,",
+            "and it devour, with none to quench it for Bethel,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "O you who turn justice to wormwood",
+            "and cast down righteousness to the earth!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "He who made the Pleiades and Orion,",
+            "and turns deep darkness into the morning",
+            "and darkens the day into night,",
+            "who calls for the waters of the sea",
+            "and pours them out on the surface of the earth,",
+            "the Lord is his name;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "who makes destruction flash forth against the strong,",
+            "so that destruction comes upon the fortress."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "They hate him who reproves in the gate,",
+            "and they abhor him who speaks the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Therefore because you trample on the poor",
+            "and you exact taxes of grain from him,",
+            "you have built houses of hewn stone,",
+            "but you shall not dwell in them;",
+            "you have planted pleasant vineyards,",
+            "but you shall not drink their wine."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "For I know how many are your transgressions",
+            "and how great are your sins—",
+            "you who afflict the righteous, who take a bribe,",
+            "and turn aside the needy in the gate."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Therefore he who is prudent will keep silent in such a time,",
+            "for it is an evil time."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Seek good, and not evil,",
+            "that you may live;",
+            "and so the Lord, the God of hosts, will be with you,",
+            "as you have said."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Hate evil, and love good,",
+            "and establish justice in the gate;",
+            "it may be that the Lord, the God of hosts,",
+            "will be gracious to the remnant of Joseph."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Therefore thus says the Lord, the God of hosts, the Lord:",
+            "“In all the squares there shall be wailing,",
+            "and in all the streets they shall say, ‘Alas! Alas!’",
+            "They shall call the farmers to mourning",
+            "and to wailing those who are skilled in lamentation,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "and in all vineyards there shall be wailing,",
+            "for I will pass through your midst,”",
+            "says the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Let Justice Roll Down"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Woe to you who desire the day of the Lord!",
+            "Why would you have the day of the Lord?",
+            "It is darkness, and not light,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "as if a man fled from a lion,",
+            "and a bear met him,",
+            "or went into the house and leaned his hand against the wall,",
+            "and a serpent bit him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Is not the day of the Lord darkness, and not light,",
+            "and gloom with no brightness in it?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "“I hate, I despise your feasts,",
+            "and I take no delight in your solemn assemblies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Even though you offer me your burnt offerings and grain offerings,",
+            "I will not accept them;",
+            "and the peace offerings of your fattened animals,",
+            "I will not look upon them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "Take away from me the noise of your songs;",
+            "to the melody of your harps I will not listen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "But let justice roll down like waters,",
+            "and righteousness like an ever-flowing stream."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "“Did you bring to me sacrifices and offerings during the forty years in the wilderness, O house of Israel?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "You shall take up Sikkuth your king, and Kiyyun your star-god—your images that you made for yourselves,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "and I will send you into exile beyond Damascus,” says the Lord, whose name is the God of hosts."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.6"
+        ],
+        "human": "Amos 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.7"
+        ],
+        "human": "Amos 7",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.5"
+        ],
+        "human": "Amos 5",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Woe to Those at Ease in Zion"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "“Woe to those who are at ease in Zion,",
+            "and to those who feel secure on the mountain of Samaria,",
+            "the notable men of the first of the nations,",
+            "to whom the house of Israel comes!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Pass over to Calneh, and see,",
+            "and from there go to Hamath the great;",
+            "then go down to Gath of the Philistines.",
+            "Are you better than these kingdoms?",
+            "Or is their territory greater than your territory,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "O you who put far away the day of disaster",
+            "and bring near the seat of violence?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "“Woe to those who lie on beds of ivory",
+            "and stretch themselves out on their couches,",
+            "and eat lambs from the flock",
+            "and calves from the midst of the stall,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "who sing idle songs to the sound of the harp",
+            "and like David invent for themselves instruments of music,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "who drink wine in bowls",
+            "and anoint themselves with the finest oils,",
+            "but are not grieved over the ruin of Joseph!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Therefore they shall now be the first of those who go into exile,",
+            "and the revelry of those who stretch themselves out shall pass away.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "The Lord God has sworn by himself, declares the Lord, the God of hosts:",
+            "“I abhor the pride of Jacob",
+            "and hate his strongholds,",
+            "and I will deliver up the city and all that is in it.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "And if ten men remain in one house, they shall die."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "And when one’s relative, the one who anoints him for burial, shall take him up to bring the bones out of the house, and shall say to him who is in the innermost parts of the house, “Is there still anyone with you?” he shall say, “No”; and he shall say, “Silence! We must not mention the name of the Lord.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "For behold, the Lord commands,",
+            "and the great house shall be struck down into fragments,",
+            "and the little house into bits."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Do horses run on rocks?",
+            "Does one plow there with oxen?",
+            "But you have turned justice into poison",
+            "and the fruit of righteousness into wormwood—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "you who rejoice in Lo-debar,",
+            "who say, “Have we not by our own strength",
+            "captured Karnaim for ourselves?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "“For behold, I will raise up against you a nation,",
+            "O house of Israel,” declares the Lord, the God of hosts;",
+            "“and they shall oppress you from Lebo-hamath",
+            "to the Brook of the Arabah.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.7",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.7"
+        ],
+        "human": "Amos 7"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.8"
+        ],
+        "human": "Amos 8",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.6"
+        ],
+        "human": "Amos 6",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Warning Visions"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "This is what the Lord God showed me: behold, he was forming locusts when the latter growth was just beginning to sprout, and behold, it was the latter growth after the king’s mowings."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "When they had finished eating the grass of the land, I said,",
+            "“O Lord God, please forgive!",
+            "How can Jacob stand?",
+            "He is so small!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "The Lord relented concerning this:",
+            "“It shall not be,” said the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "This is what the Lord God showed me: behold, the Lord God was calling for a judgment by fire, and it devoured the great deep and was eating up the land."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Then I said,",
+            "“O Lord God, please cease!",
+            "How can Jacob stand?",
+            "He is so small!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "The Lord relented concerning this:",
+            "“This also shall not be,” said the Lord God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "This is what he showed me: behold, the Lord was standing beside a wall built with a plumb line, with a plumb line in his hand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "And the Lord said to me, “Amos, what do you see?” And I said, “A plumb line.” Then the Lord said,",
+            "“Behold, I am setting a plumb line",
+            "in the midst of my people Israel;",
+            "I will never again pass by them;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "the high places of Isaac shall be made desolate,",
+            "and the sanctuaries of Israel shall be laid waste,",
+            "and I will rise against the house of Jeroboam with the sword.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Amos Accused"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, “Amos has conspired against you in the midst of the house of Israel. The land is not able to bear all his words."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "For thus Amos has said,",
+            "“‘Jeroboam shall die by the sword,",
+            "and Israel must go into exile",
+            "away from his land.’”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "And Amaziah said to Amos, “O seer, go, flee away to the land of Judah, and eat bread there, and prophesy there,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "but never again prophesy at Bethel, for it is the king’s sanctuary, and it is a temple of the kingdom.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Then Amos answered and said to Amaziah, “I was no prophet, nor a prophet’s son, but I was a herdsman and a dresser of sycamore figs."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "But the Lord took me from following the flock, and the Lord said to me, ‘Go, prophesy to my people Israel.’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Now therefore hear the word of the Lord.",
+            "“You say, ‘Do not prophesy against Israel,",
+            "and do not preach against the house of Isaac.’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Therefore thus says the Lord:",
+            "“‘Your wife shall be a prostitute in the city,",
+            "and your sons and your daughters shall fall by the sword,",
+            "and your land shall be divided up with a measuring line;",
+            "you yourself shall die in an unclean land,",
+            "and Israel shall surely go into exile away from its land.’”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.8",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.8"
+        ],
+        "human": "Amos 8"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.9"
+        ],
+        "human": "Amos 9",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.7"
+        ],
+        "human": "Amos 7",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Coming Day of Bitter Mourning"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "This is what the Lord God showed me: behold, a basket of summer fruit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "And he said, “Amos, what do you see?” And I said, “A basket of summer fruit.” Then the Lord said to me,",
+            "“The end has come upon my people Israel;",
+            "I will never again pass by them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "The songs of the temple shall become wailings in that day,”",
+            "declares the Lord God.",
+            "“So many dead bodies!”",
+            "“They are thrown everywhere!”",
+            "“Silence!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Hear this, you who trample on the needy",
+            "and bring the poor of the land to an end,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "saying, “When will the new moon be over,",
+            "that we may sell grain?",
+            "And the Sabbath,",
+            "that we may offer wheat for sale,",
+            "that we may make the ephah small and the shekel great",
+            "and deal deceitfully with false balances,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "that we may buy the poor for silver",
+            "and the needy for a pair of sandals",
+            "and sell the chaff of the wheat?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "The Lord has sworn by the pride of Jacob:",
+            "“Surely I will never forget any of their deeds."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Shall not the land tremble on this account,",
+            "and everyone mourn who dwells in it,",
+            "and all of it rise like the Nile,",
+            "and be tossed about and sink again, like the Nile of Egypt?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "“And on that day,” declares the Lord God,",
+            "“I will make the sun go down at noon",
+            "and darken the earth in broad daylight."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "I will turn your feasts into mourning",
+            "and all your songs into lamentation;",
+            "I will bring sackcloth on every waist",
+            "and baldness on every head;",
+            "I will make it like the mourning for an only son",
+            "and the end of it like a bitter day."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "“Behold, the days are coming,” declares the Lord God,",
+            "“when I will send a famine on the land—",
+            "not a famine of bread, nor a thirst for water,",
+            "but of hearing the words of the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "They shall wander from sea to sea,",
+            "and from north to east;",
+            "they shall run to and fro, to seek the word of the Lord,",
+            "but they shall not find it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "“In that day the lovely virgins and the young men",
+            "shall faint for thirst."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Those who swear by the Guilt of Samaria,",
+            "and say, ‘As your god lives, O Dan,’",
+            "and, ‘As the Way of Beersheba lives,’",
+            "they shall fall, and never rise again.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.9",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.9"
+        ],
+        "human": "Amos 9"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "OBA.1"
+        ],
+        "human": "Obadiah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.8"
+        ],
+        "human": "Amos 8",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Destruction of Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "I saw the Lord standing beside the altar, and he said:",
+            "“Strike the capitals until the thresholds shake,",
+            "and shatter them on the heads of all the people;",
+            "and those who are left of them I will kill with the sword;",
+            "not one of them shall flee away;",
+            "not one of them shall escape."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "“If they dig into Sheol,",
+            "from there shall my hand take them;",
+            "if they climb up to heaven,",
+            "from there I will bring them down."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "If they hide themselves on the top of Carmel,",
+            "from there I will search them out and take them;",
+            "and if they hide from my sight at the bottom of the sea,",
+            "there I will command the serpent, and it shall bite them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "And if they go into captivity before their enemies,",
+            "there I will command the sword, and it shall kill them;",
+            "and I will fix my eyes upon them",
+            "for evil and not for good.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "The Lord God of hosts,",
+            "he who touches the earth and it melts,",
+            "and all who dwell in it mourn,",
+            "and all of it rises like the Nile,",
+            "and sinks again, like the Nile of Egypt;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "who builds his upper chambers in the heavens",
+            "and founds his vault upon the earth;",
+            "who calls for the waters of the sea",
+            "and pours them out upon the surface of the earth—",
+            "the Lord is his name."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "“Are you not like the Cushites to me,",
+            "O people of Israel?” declares the Lord.",
+            "“Did I not bring up Israel from the land of Egypt,",
+            "and the Philistines from Caphtor and the Syrians from Kir?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Behold, the eyes of the Lord God are upon the sinful kingdom,",
+            "and I will destroy it from the surface of the ground,",
+            "except that I will not utterly destroy the house of Jacob,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "“For behold, I will command,",
+            "and shake the house of Israel among all the nations",
+            "as one shakes with a sieve,",
+            "but no pebble shall fall to the earth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "All the sinners of my people shall die by the sword,",
+            "who say, ‘Disaster shall not overtake or meet us.’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Restoration of Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "“In that day I will raise up",
+            "the booth of David that is fallen",
+            "and repair its breaches,",
+            "and raise up its ruins",
+            "and rebuild it as in the days of old,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "that they may possess the remnant of Edom",
+            "and all the nations who are called by my name,”",
+            "declares the Lord who does this."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "“Behold, the days are coming,” declares the Lord,",
+            "“when the plowman shall overtake the reaper",
+            "and the treader of grapes him who sows the seed;",
+            "the mountains shall drip sweet wine,",
+            "and all the hills shall flow with it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "I will restore the fortunes of my people Israel,",
+            "and they shall rebuild the ruined cities and inhabit them;",
+            "they shall plant vineyards and drink their wine,",
+            "and they shall make gardens and eat their fruit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "I will plant them on their land,",
+            "and they shall never again be uprooted",
+            "out of the land that I have given them,”",
+            "says the Lord your God."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

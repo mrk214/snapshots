@@ -1,0 +1,2067 @@
+{
+  "book_usfm": "LAM",
+  "name": "Lamentaciones",
+  "local_title": "Traducción en Lenguaje Actual",
+  "local_abbreviation": "TLA",
+  "version_id": 176,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+    "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "LAM.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "LAM.INTRO1"
+        ],
+        "human": "Lamentaciones Introducción"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.1"
+        ],
+        "human": "Lamentaciones 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JER.52"
+        ],
+        "human": "Jeremías 52",
+        "toc": true
+      },
+      "items": []
+    },
+    {
+      "chapter_usfm": "LAM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.1"
+        ],
+        "human": "Lamentaciones 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.2"
+        ],
+        "human": "Lamentaciones 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "LAM.INTRO1"
+        ],
+        "human": "Lamentaciones Introducción",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Primer lamento acróstico"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "El profeta"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¡Pobrecita de ti, Jerusalén!",
+            "Antes eras la más famosa",
+            "de todas las ciudades.",
+            "¡Antes estabas llena de gente,",
+            "pero te has quedado muy sola,",
+            "te has quedado viuda!",
+            "¡Fuiste la reina de las naciones,",
+            "pero hoy eres esclava de ellas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Olvidada y bañada en lágrimas",
+            "pasas todas las noches.",
+            "Muchos decían que te amaban,",
+            "pero hoy nadie te consuela.",
+            "Los que se decían tus amigos",
+            "hoy son tus enemigos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Bajo el peso de las cadenas,",
+            "la gente de Judá salió prisionera.",
+            "Sus enemigos los atraparon",
+            "y los maltrataron con crueldad.",
+            "Ahora son esclavos en países lejanos,",
+            "y no han dejado de sufrir."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Ruido ya no se escucha",
+            "en tus portones, Jerusalén.",
+            "¡Qué triste es ver",
+            "tus calles desiertas!",
+            "Los sacerdotes lloran",
+            "y las jóvenes se afligen.",
+            "Todo en ti es amargura;",
+            "ya nadie viene a tus fiestas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Es tanto tu pecado,",
+            "que Dios te castigó.",
+            "El enemigo se llevó prisioneros",
+            "a todos tus habitantes.",
+            "Ahora el enemigo te domina",
+            "y vive feliz y contento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "¡Cómo has perdido, Jerusalén,",
+            "la belleza que tuviste!",
+            "Tus jefes, ya sin fuerzas,",
+            "huyen de quienes los persiguen.",
+            "¡Hasta parecen venados hambrientos",
+            "en busca de pastos frescos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Insistes en recordar",
+            "que alguna vez fuiste rica.",
+            "Ahora vives en la tristeza",
+            "y no tienes a dónde ir.",
+            "Cuando el enemigo te conquistó,",
+            "no hubo nadie que te ayudara.",
+            "Cuando el enemigo te vio vencida,",
+            "se burló de verte en desgracia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Tanto has pecado, Jerusalén,",
+            "que todos te desprecian.",
+            "Los que antes te admiraban",
+            "hoy se burlan al verte en desgracia.",
+            "¡Ahora derramas lágrimas,",
+            "y avergonzada escondes la cara!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "¡Asombrosa ha sido tu caída!",
+            "¡No hay nadie que te consuele!",
+            "Jamás pensaste en llegar a ser",
+            "tan despreciada,",
+            "y ahora exclamas:",
+            "«Mis enemigos me vencieron.",
+            "¡Mira, Dios mío, mi aflicción!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Dueño de todas tus riquezas",
+            "es ahora tu enemigo.",
+            "Tú misma viste entrar en el templo",
+            "gente de otros pueblos,",
+            "aunque Dios había ordenado",
+            "que no debían entrar allí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "El pueblo entero llora",
+            "y anda en busca de pan.",
+            "Con tal de seguir con vida,",
+            "cambian sus riquezas por comida.",
+            "Llorando le dicen a Dios:",
+            "«¡Mira cómo nos humillan!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Jerusalén"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Todos ustedes, que pasan y me ven,",
+            "¿por qué gozan al verme sufrir?",
+            "¿Dónde han visto a alguien",
+            "que sufra tanto como yo?",
+            "Cuando Dios se enojó conmigo,",
+            "me mandó este sufrimiento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Intensa lluvia de fuego",
+            "ha enviado Dios sobre mí.",
+            "Mis huesos se han quemado,",
+            "y siento que me muero.",
+            "Dios me cerró el paso,",
+            "y me hizo retroceder.",
+            "Me dejó en el abandono;",
+            "mi sufrimiento no tiene fin."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Juntó Dios todos mis pecados",
+            "y me los ató al cuello.",
+            "Ya no me quedan fuerzas;",
+            "ya no los soporto más.",
+            "Dios me entregó al enemigo,",
+            "y no puedo defenderme."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "En mis calles hay muchos muertos.",
+            "¡Dios rechazó a mis valientes!",
+            "Juntó un ejército para atacarme,",
+            "y acabó con todos mis jóvenes.",
+            "Dios me aplastó por completo;",
+            "¡me exprimió como a las uvas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Ruedan por mis mejillas",
+            "lágrimas que no puedo contener.",
+            "Cerca de mí no hay nadie",
+            "que me consuele y me reanime.",
+            "Mi gente no puede creer",
+            "que el enemigo nos haya vencido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "El profeta"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Un montón de escombros",
+            "es ahora Jerusalén.",
+            "Suplicante pide ayuda,",
+            "pero nadie la consuela.",
+            "Dios mismo ordenó",
+            "que sus vecinos la atacaran."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Jerusalén"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Siempre Dios hace lo justo,",
+            "pero yo soy muy rebelde.",
+            "¡Escuchen, naciones todas!",
+            "¡Miren cómo sufro!",
+            "¡El enemigo se llevó prisioneros",
+            "a todos mis habitantes!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Ayuda pedí a mis amigos,",
+            "pero me dieron la espalda.",
+            "Los jefes y sacerdotes",
+            "acabaron perdiendo la vida.",
+            "Andaban buscando comida,",
+            "y no pudieron sobrevivir."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "¡La muerte me quitó a mis hijos",
+            "dentro y fuera de la ciudad!",
+            "¡Mira mi angustia, Dios mío!",
+            "¡Siento que me muero!",
+            "¡Tan rebelde he sido contigo",
+            "que estoy totalmente confundida!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "El enemigo no esconde su alegría",
+            "porque tú, Dios mío, me haces sufrir.",
+            "Todo el mundo escucha mi llanto,",
+            "pero nadie me consuela.",
+            "¡Ya es tiempo de que los castigues",
+            "como me castigaste a mí!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "No hay un solo pecado",
+            "que ellos no hayan cometido;",
+            "¡castiga entonces su rebeldía,",
+            "como me castigaste a mí!",
+            "¡Ya es mucho lo que he llorado,",
+            "y siento que me muero!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.2"
+        ],
+        "human": "Lamentaciones 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.3"
+        ],
+        "human": "Lamentaciones 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.1"
+        ],
+        "human": "Lamentaciones 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Segundo lamento acróstico"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "El profeta"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¡Pobrecita de ti, Jerusalén!",
+            "Cuando Dios se enojó contigo,",
+            "derribó tu templo",
+            "y acabó con tu belleza.",
+            "Ni siquiera se acordó",
+            "de tu reino en este mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Ofendido y enojado,",
+            "Dios destruyó por completo",
+            "todas las casas de Israel.",
+            "Derribó las fortalezas de Judá;",
+            "quitó al rey de su trono,",
+            "y puso en vergüenza a sus capitanes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Borró Dios nuestro poder",
+            "cuando se enojó con nosotros.",
+            "Nos enfrentamos al enemigo,",
+            "pero Dios nos retiró su ayuda.",
+            "¡Todo Israel arde en llamas!",
+            "¡Todo lo destruye el fuego!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Rompió en mil pedazos",
+            "las casas de Jerusalén,",
+            "y acabó con nuestros seres queridos.",
+            "Como si fuera nuestro enemigo,",
+            "decidió quitarnos la vida;",
+            "su enojo fue como un fuego",
+            "que nos destruyó por completo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "El llanto por los muertos",
+            "se oye por todo Judá.",
+            "Dios parece nuestro enemigo,",
+            "pues ha acabado con nosotros.",
+            "¡Todas sus fortalezas y palacios",
+            "han quedado en ruinas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Como quien derriba una choza,",
+            "Dios destruyó su templo.",
+            "Ya nadie en Jerusalén celebra",
+            "los sábados ni los días de fiesta.",
+            "Dio rienda suelta a su enojo",
+            "contra el rey y los sacerdotes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Incitó al ejército enemigo",
+            "a conquistar Jerusalén,",
+            "y el enemigo gritó en su templo",
+            "como si estuviera de fiesta.",
+            "¡Dios ha rechazado por completo",
+            "su altar y su santuario!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Todos los muros y las rampas",
+            "son ahora un montón de escombros.",
+            "Dios decidió derribar",
+            "el muro que protegía a Jerusalén.",
+            "Todo lo tenía planeado;",
+            "¡la destruyó sin compasión!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "¡Adiós, maestros de la ley!",
+            "¡Adiós, profetas!",
+            "¡Dios ya no habla con nosotros!",
+            "El rey y los capitanes",
+            "andan perdidos entre las naciones.",
+            "La ciudad quedó desprotegida,",
+            "pues Dios derribó sus portones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "De luto están vestidos",
+            "los ancianos de Jerusalén.",
+            "En silencio se sientan en el suelo",
+            "y se cubren de ceniza la cabeza.",
+            "¡Las jóvenes de Jerusalén",
+            "bajan la cabeza llenas de vergüenza!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Estoy muy triste y desanimado",
+            "porque ha sido destruida mi ciudad.",
+            "¡Ya no me quedan lágrimas!",
+            "¡Siento que me muero!",
+            "Por las calles de Jerusalén",
+            "veo morir a los recién nacidos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Tímidamente claman los niños:",
+            "«¡Mamá, tengo hambre!»;",
+            "luego van cerrando los ojos",
+            "y mueren en las calles,",
+            "en brazos de su madre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Incomparable eres tú, Jerusalén;",
+            "¿qué más te puedo decir?",
+            "¿Qué puedo hacer para consolarte,",
+            "bella ciudad de Jerusalén?",
+            "Tus heridas son muy profundas;",
+            "¿quién podría sanarlas?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Jamás te dijeron la verdad;",
+            "los profetas te mintieron.",
+            "Si no te hubieran engañado,",
+            "ahora estarías a salvo.",
+            "Pero te hicieron creer en mentiras",
+            "y no señalaron tu maldad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "«¿En dónde quedó la hermosura",
+            "de la bella Jerusalén,",
+            "la ciudad más alegre del mundo?»",
+            "Eso preguntan al verte",
+            "los que pasan por el camino,",
+            "y se burlan de tu desgracia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Rabiosos están tus enemigos,",
+            "y no dejan de hablar mal de ti.",
+            "Gritan en son de victoria:",
+            "«¡Llegó el día que habíamos esperado!",
+            "¡Hemos acabado con Jerusalén,",
+            "y hemos vivido para contarlo!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Una vez, años atrás,",
+            "Dios juró que te destruiría,",
+            "y ha cumplido su palabra:",
+            "te destruyó sin compasión,",
+            "y permitió que tus enemigos",
+            "te vencieran y te humillaran."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Sí, bella Jerusalén,",
+            "deja que tus habitantes",
+            "se desahoguen ante Dios.",
+            "Y tú, no dejes de llorar;",
+            "¡da rienda suelta a tu llanto",
+            "de día y de noche!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Alza la voz y ruega a Dios",
+            "por la vida de tus niños,",
+            "que por falta de comida",
+            "caen muertos por las calles.",
+            "Clama a Dios en las noches;",
+            "cuéntale cómo te sientes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Jerusalén"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Las madres están por comerse",
+            "a los hijos que tanto aman.",
+            "Los sacerdotes y los profetas",
+            "agonizan en tu templo.",
+            "Piensa por favor, Dios mío,",
+            "¿a quién has tratado así?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "En tu enojo les quitaste la vida",
+            "a los jóvenes y a los ancianos.",
+            "Mis muchachos y muchachas",
+            "cayeron muertos por las calles",
+            "bajo el golpe de la espada;",
+            "¡no les tuviste compasión!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Nadie quedó con vida",
+            "el día que nos castigaste;",
+            "fue como una gran fiesta",
+            "para el ejército enemigo:",
+            "murieron todos mis familiares,",
+            "¡nos atacaste por todos lados!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.3"
+        ],
+        "human": "Lamentaciones 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.4"
+        ],
+        "human": "Lamentaciones 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.2"
+        ],
+        "human": "Lamentaciones 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Tercer lamento acróstico"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "El profeta"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Yo soy el que ha sufrido",
+            "el duro castigo de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Él me forzó a caminar",
+            "por los caminos más oscuros;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "no hay un solo momento",
+            "en que no me castigue."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4,
+            5,
+            6
+          ],
+          "lines": [
+            "Oscura tumba es mi vida;",
+            "¡es como si ya estuviera muerto!",
+            "Dios me rodeó por completo",
+            "de la miseria más terrible.",
+            "Me dejó sin fuerzas;",
+            "¡no tengo un solo hueso sano!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7,
+            8,
+            9
+          ],
+          "lines": [
+            "Se niega Dios a escucharme,",
+            "aunque siempre le pido ayuda.",
+            "A cada paso me pone tropiezos",
+            "y me hace perder el camino.",
+            "Me tiene preso y encadenado.",
+            "¡No puedo escaparme de él!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10,
+            11,
+            12
+          ],
+          "lines": [
+            "Objeto soy de sus ataques;",
+            "¡soy el blanco de sus flechas!",
+            "Como animal feroz me vigila,",
+            "esperando el momento de atacarme.",
+            "¡Me obliga a apartarme del camino",
+            "para que no pueda defenderme!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13,
+            14,
+            15
+          ],
+          "lines": [
+            "Ya me partió el corazón",
+            "con sus terribles flechas.",
+            "Dios ha llenado mi vida",
+            "de tristeza y amargura.",
+            "Todo el día y a todas horas,",
+            "la gente se burla de mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Estoy completamente derrotado,",
+            "porque Dios me hizo caer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Ya no tengo tranquilidad;",
+            "la felicidad es solo un recuerdo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Me parece que de Dios",
+            "ya no puedo esperar nada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Los más tristes recuerdos",
+            "me llenan de amargura."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Siempre los tengo presentes,",
+            "y eso me quita el ánimo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Pero también me acuerdo",
+            "de algo que me da esperanza:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Sé que no hemos sido destruidos",
+            "porque Dios nos tiene compasión."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "Sé que cada mañana se renuevan",
+            "su gran amor y su fidelidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "Por eso digo que en él confío;",
+            "¡Dios es todo para mí!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "Invito a todos a confiar en Dios",
+            "porque él es bondadoso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "Es bueno esperar con paciencia",
+            "que Dios venga a salvarnos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "y aprender desde nuestra juventud",
+            "que debemos soportar el sufrimiento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            28
+          ],
+          "lines": [
+            "Es conveniente callar",
+            "cuando Dios así lo ordena."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            29,
+            30
+          ],
+          "lines": [
+            "Y olvidar la venganza",
+            "cuando alguien nos golpea.",
+            "Debemos esperar con paciencia",
+            "que Dios venga a ayudarnos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            31
+          ],
+          "lines": [
+            "Realmente Dios nos ha rechazado,",
+            "pero no lo hará para siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            32,
+            33
+          ],
+          "lines": [
+            "Nos hace sufrir y nos aflige,",
+            "pero no porque le guste hacerlo.",
+            "Nos hiere, pero nos tiene compasión,",
+            "porque su amor es muy grande."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            34,
+            35,
+            36
+          ],
+          "lines": [
+            "Violar los derechos humanos",
+            "es algo que Dios no soporta.",
+            "Maltratar a los prisioneros",
+            "o no darles un juicio justo,",
+            "es algo que Dios no aprueba."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            37
+          ],
+          "lines": [
+            "¡Oye bien esto: Nada puedes hacer",
+            "sin que Dios te lo ordene!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            38
+          ],
+          "lines": [
+            "¡Todo lo bueno y lo malo",
+            "pasa porque él así lo ordena!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            39
+          ],
+          "lines": [
+            "¡No tenemos razón para quejarnos",
+            "si nos castiga por nuestros pecados!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            40,
+            41,
+            42
+          ],
+          "lines": [
+            "Si pecamos contra Dios,",
+            "y él no quiere perdonarnos,",
+            "pensemos en qué lo hemos ofendido.",
+            "Dirijamos al Dios del cielo",
+            "nuestras oraciones más sinceras,",
+            "y corrijamos nuestra conducta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            43,
+            44
+          ],
+          "lines": [
+            "Una nube envuelve a Dios;",
+            "no le deja escuchar nuestra oración.",
+            "Lleno de enojo, Dios nos persigue;",
+            "nos destruye sin ninguna compasión."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            45
+          ],
+          "lines": [
+            "Nos ha expuesto ante las naciones",
+            "como si fuéramos lo peor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            46
+          ],
+          "lines": [
+            "Fuimos la burla del enemigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            47
+          ],
+          "lines": [
+            "Sufrimos en carne propia",
+            "los horrores de la destrucción."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            48
+          ],
+          "lines": [
+            "Cuando vi destruida mi ciudad",
+            "no pude contener las lágrimas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            49,
+            50,
+            51
+          ],
+          "lines": [
+            "Realmente me duele ver sufrir",
+            "a las mujeres de Jerusalén.",
+            "Se me llenan de lágrimas los ojos,",
+            "pero no hay quien me consuele.",
+            "¡Espero que desde el cielo",
+            "Dios nos mire y nos tenga compasión!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            52,
+            53
+          ],
+          "lines": [
+            "¡Intentaron matarme,",
+            "y no sé por qué razón!",
+            "Mis enemigos me atraparon,",
+            "me encerraron en un pozo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            54
+          ],
+          "lines": [
+            "Estuve a punto de ahogarme;",
+            "¡creí que había llegado mi fin!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            55
+          ],
+          "lines": [
+            "En la profundidad de ese pozo",
+            "te pedí ayuda, Dios mío,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            56
+          ],
+          "lines": [
+            "y tú atendiste mis ruegos;",
+            "¡escuchaste mi oración!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            57
+          ],
+          "lines": [
+            "Te llamé, y viniste a mí;",
+            "me dijiste que no tuviera miedo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            58
+          ],
+          "lines": [
+            "No me negaste tu ayuda,",
+            "sino que me salvaste la vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            59
+          ],
+          "lines": [
+            "Dios mío, ¡ayúdame!",
+            "Mira el mal que me causaron,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            60
+          ],
+          "lines": [
+            "mira el mal que piensan hacerme,",
+            "¡quieren vengarse de mí!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            61
+          ],
+          "lines": [
+            "Tú sabes cómo me ofenden;",
+            "tú sabes que me hacen daño."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            62
+          ],
+          "lines": [
+            "Tú bien sabes que mis enemigos",
+            "siempre hacen planes contra mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            63
+          ],
+          "lines": [
+            "¡Míralos! No importa lo que hagan,",
+            "siempre están burlándose de mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            64,
+            65,
+            66
+          ],
+          "lines": [
+            "¡Espero que los castigues",
+            "con toda tu furia!",
+            "¡Bórralos de este mundo!",
+            "Mi Dios, ¡dales su merecido",
+            "por todo lo que han hecho!",
+            "¡Maldícelos y hazlos sufrir!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.4"
+        ],
+        "human": "Lamentaciones 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.5"
+        ],
+        "human": "Lamentaciones 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.3"
+        ],
+        "human": "Lamentaciones 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Cuarto lamento acróstico"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "El profeta"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¡Perdió el oro su brillo!",
+            "¡Quedó totalmente empañado!",
+            "¡Por las esquinas de las calles",
+            "quedaron regadas las joyas del templo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "¡Oro puro! Así se valoraba",
+            "a los habitantes de Jerusalén,",
+            "¡pero ahora no valen más",
+            "que simples ollas de barro!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Bondadosas se muestran las lobas",
+            "cuando alimentan a sus cachorros,",
+            "pero las crueles madres israelitas",
+            "abandonan a sus hijos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Reclaman pan nuestros niños,",
+            "pero nadie les da nada.",
+            "La lengua se les pega al paladar,",
+            "y casi se mueren de sed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "En las calles se mueren de hambre",
+            "los que antes comían manjares;",
+            "entre la basura se revuelcan",
+            "los que antes vestían con elegancia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Cayó Jerusalén, pues ha pecado",
+            "más de lo que pecó Sodoma.",
+            "¡De pronto se vino abajo",
+            "y nadie pudo ayudarla!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Increíblemente hermosos",
+            "eran los líderes de Jerusalén;",
+            "estaban fuertes y sanos,",
+            "estaban llenos de vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Tan feos y enfermos se ven ahora",
+            "que nadie los reconoce.",
+            "Tienen la piel reseca como leña,",
+            "¡hasta se les ven los huesos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "A falta de alimentos,",
+            "todos mueren poco a poco.",
+            "¡Más vale morir en la guerra",
+            "que morirse de hambre!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "¡Destruida ha quedado Jerusalén!",
+            "¡Hasta las madres más cariñosas",
+            "cocinan a sus propios hijos",
+            "para alimentarse con ellos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "El enojo de Dios fue tan grande",
+            "que ya no pudo contenerse;",
+            "le prendió fuego a Jerusalén",
+            "y la destruyó por completo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "¡Terminaron entrando a la ciudad",
+            "los enemigos de Jerusalén!",
+            "¡Nadie en el mundo se imaginaba",
+            "que esto pudiera ocurrir!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Injustamente ha muerto gente",
+            "a manos de profetas y sacerdotes.",
+            "Dios castigó a Jerusalén",
+            "por este grave pecado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Juntos andan esos asesinos",
+            "como ciegos por las calles.",
+            "Tienen las manos llenas de sangre;",
+            "¡nadie se atreve a tocarlos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "En todas partes les gritan:",
+            "«¡Fuera de aquí, vagabundos!",
+            "¡No se atrevan a tocarnos!",
+            "¡No pueden quedarse a vivir aquí!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Rechazados por Dios,",
+            "los líderes y sacerdotes",
+            "vagan por el mundo.",
+            "¡Dios se olvidó de ellos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Una falsa esperanza tenemos:",
+            "que un pueblo venga a salvarnos;",
+            "pero nuestros ojos están cansados.",
+            "¡Nadie vendrá en nuestra ayuda!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Se acerca nuestro fin.",
+            "No podemos andar libremente,",
+            "pues por todas partes nos vigilan;",
+            "¡nuestros días están contados!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Aun más veloces que las águilas",
+            "son nuestros enemigos.",
+            "Por las montañas y por el desierto",
+            "nos persiguen sin descanso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "La sombra que nos protegía",
+            "era nuestro rey;",
+            "Dios mismo nos lo había dado.",
+            "¡Pero hasta él cayó prisionero!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Esto mismo lo sufrirás tú,",
+            "que te crees la reina del desierto.",
+            "Puedes reírte ahora, ciudad de Edom,",
+            "¡pero un día te quedarás desnuda!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "No volverá Dios a castigarte,",
+            "bella ciudad de Jerusalén,",
+            "pues ya se ha cumplido tu castigo.",
+            "Pero a ti, ciudad de Edom,",
+            "Dios te castigará por tus pecados."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.5"
+        ],
+        "human": "Lamentaciones 5"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "EZK.INTRO1"
+        ],
+        "human": "Ezequiel Introducción",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.4"
+        ],
+        "human": "Lamentaciones 4",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Quinto lamento"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "El pueblo de Jerusalén"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Dios mío, fíjate en nuestra desgracia;",
+            "date cuenta de que nos ofenden."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Nuestras tierras y nuestra patria",
+            "han caído en manos de extranjeros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Nos hemos quedado sin padre;",
+            "nuestras madres han quedado viudas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "¡Hasta el agua y la leña",
+            "tenemos que pagarlas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "El enemigo nos persigue.",
+            "Nos tiene acorralados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "¡A nuestros peores enemigos,",
+            "tenemos que pedirles alimento!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Pecaron nuestros antepasados,",
+            "¡y Dios nos castigó a nosotros!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Los esclavos se creen reyes,",
+            "¡y no podemos librarnos de ellos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Para conseguir alimentos,",
+            "arriesgamos la vida en el desierto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Tanta es el hambre que tenemos",
+            "que hasta deliramos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "En todas nuestras ciudades",
+            "violaron a nuestras mujeres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "No respetaron a nuestros jefes;",
+            "¡los colgaron de las manos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Nuestros jóvenes y niños",
+            "cargan leña como esclavos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Ya los jóvenes no cantan",
+            "ni se reúnen los ancianos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "No tenemos motivo de alegría;",
+            "en vez de danzas, hay tristeza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "¡Pobres de nosotros!",
+            "Por el pecado perdimos el reino."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Vamos perdiendo las fuerzas;",
+            "estamos a punto de morir."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "El monte Sión ha quedado desierto;",
+            "solo se ven animales salvajes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Pero tú, Dios nuestro,",
+            "reinas para siempre.",
+            "¡Tú eres nuestro rey!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "¿Por qué te olvidas de nosotros",
+            "y nos abandonas tanto tiempo?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "¡Déjanos volver a ti, y volveremos!",
+            "¡Devuélvenos el poder que tuvimos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "En verdad nos diste la espalda;",
+            "¡se te fue la mano!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

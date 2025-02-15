@@ -1,0 +1,1703 @@
+{
+  "book_usfm": "SNG",
+  "name": "Song of Solomon",
+  "local_title": "King James Version",
+  "local_abbreviation": "KJV",
+  "version_id": 1,
+  "publisher": {
+    "name": "Cambridge Univ. Press & BFBS"
+  },
+  "copyright": {
+    "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+    "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "SNG.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.1"
+        ],
+        "human": "Song of Solomon 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.2"
+        ],
+        "human": "Song of Solomon 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.12"
+        ],
+        "human": "Ecclesiastes 12",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "The song of songs, which is Solomon's."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Let him kiss me with the kisses of his mouth:",
+            "For thy love is better than wine."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Because of the savour of thy good ointments",
+            "Thy name is as ointment poured forth,",
+            "Therefore do the virgins love thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Draw me, we will run after thee:",
+            "The king hath brought me into his chambers:",
+            "We will be glad and rejoice in thee,",
+            "We will remember thy love more than wine:",
+            "The upright love thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "I am black, but comely,",
+            "O ye daughters of Jerusalem,",
+            "As the tents of Kedar,",
+            "As the curtains of Solomon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Look not upon me, because I am black,",
+            "Because the sun hath looked upon me:",
+            "My mother's children were angry with me;",
+            "They made me the keeper of the vineyards;",
+            "But mine own vineyard have I not kept."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Tell me, O thou whom my soul loveth,",
+            "Where thou feedest, where thou makest thy flock to rest at noon:",
+            "For why should I be as one that turneth aside",
+            "By the flocks of thy companions?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "If thou know not,",
+            "O thou fairest among women,",
+            "Go thy way forth by the footsteps of the flock,",
+            "And feed thy kids",
+            "Beside the shepherds' tents."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "I have compared thee, O my love,",
+            "To a company of horses in Pharaoh's chariots."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Thy cheeks are comely with rows of jewels,",
+            "Thy neck with chains of gold."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "We will make thee borders of gold",
+            "With studs of silver."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "While the King sitteth at his table,",
+            "My spikenard sendeth forth the smell thereof."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "A bundle of myrrh is my wellbeloved unto me;",
+            "He shall lie all night betwixt my breasts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "My beloved is unto me as a cluster of camphire",
+            "In the vineyards of Engedi."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Behold, thou art fair, my love;",
+            "Behold, thou art fair;",
+            "Thou hast doves' eyes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Behold, thou art fair, my beloved,",
+            "Yea, pleasant:",
+            "Also our bed is green."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "The beams of our house are cedar,",
+            "And our rafters of fir."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.2"
+        ],
+        "human": "Song of Solomon 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.3"
+        ],
+        "human": "Song of Solomon 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.1"
+        ],
+        "human": "Song of Solomon 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "I am the rose of Sharon,",
+            "And the lily of the valleys."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "As the lily among thorns,",
+            "So is my love among the daughters."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "As the apple tree among the trees of the wood,",
+            "So is my beloved among the sons.",
+            "I sat down under his shadow with great delight,",
+            "And his fruit was sweet to my taste."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "He brought me to the banqueting house,",
+            "And his banner over me was love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Stay me with flagons,",
+            "Comfort me with apples:",
+            "For I am sick of love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "His left hand is under my head,",
+            "And his right hand doth embrace me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "I charge you, O ye daughters of Jerusalem,",
+            "By the roes, and by the hinds of the field,",
+            "That ye stir not up, nor awake my love,",
+            "Till he please."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "The voice of my beloved!",
+            "Behold, he cometh",
+            "Leaping upon the mountains,",
+            "Skipping upon the hills."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "My beloved is like a roe",
+            "Or a young hart:",
+            "Behold, he standeth",
+            "Behind our wall,",
+            "He looketh forth at the windows,",
+            "Shewing himself through the lattice."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "My beloved spake, and said unto me,",
+            "Rise up, my love, my fair one,",
+            "And come away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "For, lo, the winter is past,",
+            "The rain is over and gone;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "The flowers appear on the earth;",
+            "The time of the singing of birds is come,",
+            "And the voice of the turtle",
+            "Is heard in our land;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "The fig tree putteth forth her green figs,",
+            "And the vines with the tender grape",
+            "Give a good smell.",
+            "Arise, my love, my fair one,",
+            "and come away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "O my dove, that art in the clefts of the rock,",
+            "In the secret places of the stairs,",
+            "Let me see thy countenance,",
+            "Let me hear thy voice;",
+            "For sweet is thy voice,",
+            "And thy countenance is comely."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Take us the foxes,",
+            "The little foxes,",
+            "That spoil the vines:",
+            "For our vines have tender grapes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "My beloved is mine, and I am his:",
+            "He feedeth among the lilies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Until the day break,",
+            "And the shadows flee away,",
+            "Turn, my beloved, and be thou like a roe or a young hart",
+            "Upon the mountains of Bether."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.3"
+        ],
+        "human": "Song of Solomon 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.4"
+        ],
+        "human": "Song of Solomon 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.2"
+        ],
+        "human": "Song of Solomon 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "By night on my bed I sought him whom my soul loveth:",
+            "I sought him, but I found him not."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "I will rise now, and go about the city",
+            "In the streets, and in the broad ways",
+            "I will seek him whom my soul loveth:",
+            "I sought him, but I found him not."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "The watchmen that go about the city found me:",
+            "To whom I said,",
+            "Saw ye him whom my soul loveth?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "It was but a little that I passed from them,",
+            "But I found him whom my soul loveth:",
+            "I held him, and would not let him go,",
+            "Until I had brought him into my mother's house,",
+            "And into the chamber of her that conceived me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "I charge you, O ye daughters of Jerusalem,",
+            "By the roes, and by the hinds of the field,",
+            "That ye stir not up, nor awake my love,",
+            "Till he please."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Who is this that cometh out of the wilderness",
+            "Like pillars of smoke,",
+            "Perfumed with myrrh and frankincense,",
+            "With all powders of the merchant?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Behold his bed, which is Solomon's;",
+            "Threescore valiant men are about it,",
+            "Of the valiant of Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "They all hold swords,",
+            "Being expert in war:",
+            "Every man hath his sword upon his thigh",
+            "Because of fear in the night."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "King Solomon made himself a chariot",
+            "Of the wood of Lebanon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "He made the pillars thereof of silver,",
+            "The bottom thereof of gold, the covering of it of purple,",
+            "The midst thereof being paved with love,",
+            "For the daughters of Jerusalem."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Go forth, O ye daughters of Zion,",
+            "And behold king Solomon",
+            "With the crown wherewith his mother crowned him",
+            "In the day of his espousals,",
+            "And in the day of the gladness of his heart."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.4"
+        ],
+        "human": "Song of Solomon 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.5"
+        ],
+        "human": "Song of Solomon 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.3"
+        ],
+        "human": "Song of Solomon 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Behold, thou art fair, my love;",
+            "Behold, thou art fair;",
+            "Thou hast doves' eyes",
+            "Within thy locks:",
+            "Thy hair is as a flock of goats,",
+            "That appear from mount Gilead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Thy teeth are like a flock of sheep that are even shorn,",
+            "Which came up from the washing;",
+            "Whereof every one bear twins,",
+            "And none is barren among them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Thy lips are like a thread of scarlet,",
+            "And thy speech is comely:",
+            "Thy temples are like a piece of a pomegranate",
+            "Within thy locks."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Thy neck is like the tower of David",
+            "Builded for an armoury,",
+            "Whereon there hang a thousand bucklers,",
+            "All shields of mighty men."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Thy two breasts are like two young roes",
+            "That are twins,",
+            "Which feed among the lilies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Until the day break,",
+            "And the shadows flee away,",
+            "I will get me to the mountain of myrrh,",
+            "And to the hill of frankincense."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Thou art all fair, my love;",
+            "There is no spot in thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Come with me from Lebanon, my spouse,",
+            "With me from Lebanon:",
+            "Look from the top of Amana,",
+            "From the top of Shenir and Hermon,",
+            "From the lions' dens,",
+            "From the mountains of the leopards."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Thou hast ravished my heart, my sister, my spouse;",
+            "Thou hast ravished my heart with one of thine eyes,",
+            "With one chain of thy neck."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "How fair is thy love, my sister, my spouse!",
+            "How much better is thy love than wine!",
+            "And the smell of thine ointments than all spices!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Thy lips, O my spouse, drop as the honeycomb:",
+            "Honey and milk are under thy tongue;",
+            "And the smell of thy garments is like the smell of Lebanon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "A garden inclosed is my sister, my spouse;",
+            "A spring shut up, a fountain sealed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Thy plants are an orchard of pomegranates,",
+            "With pleasant fruits;",
+            "Camphire, with spikenard,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Spikenard and saffron;",
+            "Calamus and cinnamon,",
+            "With all trees of frankincense;",
+            "Myrrh and aloes, with all the chief spices:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "A fountain of gardens,",
+            "A well of living waters, and streams from Lebanon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Awake, O north wind;",
+            "And come, thou south;",
+            "Blow upon my garden,",
+            "That the spices thereof may flow out.",
+            "Let my beloved come into his garden,",
+            "And eat his pleasant fruits."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.5"
+        ],
+        "human": "Song of Solomon 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.6"
+        ],
+        "human": "Song of Solomon 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.4"
+        ],
+        "human": "Song of Solomon 4",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "I am come into my garden, my sister, my spouse:",
+            "I have gathered my myrrh with my spice;",
+            "I have eaten my honeycomb with my honey;",
+            "I have drunk my wine with my milk:",
+            "Eat, O friends;",
+            "Drink, yea, drink abundantly, O beloved."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "I sleep, but my heart waketh:",
+            "It is the voice of my beloved that knocketh, saying,",
+            "Open to me, my sister, my love,",
+            "My dove, my undefiled:",
+            "For my head is filled with dew,",
+            "And my locks with the drops of the night."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "I have put off my coat;",
+            "How shall I put it on?",
+            "I have washed my feet;",
+            "How shall I defile them?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "My beloved put in his hand by the hole of the door,",
+            "And my bowels were moved for him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "I rose up to open to my beloved;",
+            "And my hands dropped with myrrh,",
+            "And my fingers with sweet smelling myrrh,",
+            "Upon the handles of the lock."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "I opened to my beloved;",
+            "But my beloved had withdrawn himself, and was gone:",
+            "My soul failed when he spake:",
+            "I sought him, but I could not find him;",
+            "I called him, but he gave me no answer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "The watchmen that went about the city found me,",
+            "They smote me, they wounded me;",
+            "The keepers of the walls took away my veil from me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "I charge you, O daughters of Jerusalem,",
+            "If ye find my beloved,",
+            "That ye tell him,",
+            "that I am sick of love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "What is thy beloved more than another beloved,",
+            "O thou fairest among women?",
+            "What is thy beloved more than another beloved,",
+            "That thou dost so charge us?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "My beloved is white and ruddy,",
+            "The chiefest among ten thousand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "His head is as the most fine gold,",
+            "His locks are bushy,",
+            "And black as a raven."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "His eyes are as the eyes of doves by the rivers of waters,",
+            "Washed with milk, and fitly set."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "His cheeks are as a bed of spices, as sweet flowers:",
+            "His lips like lilies, dropping sweet smelling myrrh."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "His hands are as gold rings set with the beryl:",
+            "His belly is as bright ivory overlaid with sapphires."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "His legs are as pillars of marble, set upon sockets of fine gold:",
+            "His countenance is as Lebanon, excellent as the cedars."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "His mouth is most sweet:",
+            "Yea, he is altogether lovely.",
+            "This is my beloved, and this is my friend,",
+            "O daughters of Jerusalem."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.6"
+        ],
+        "human": "Song of Solomon 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.7"
+        ],
+        "human": "Song of Solomon 7",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.5"
+        ],
+        "human": "Song of Solomon 5",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Whither is thy beloved gone,",
+            "O thou fairest among women?",
+            "Whither is thy beloved turned aside?",
+            "That we may seek him with thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "My beloved is gone down into his garden,",
+            "To the beds of spices,",
+            "To feed in the gardens,",
+            "And to gather lilies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "I am my beloved's, and my beloved is mine:",
+            "He feedeth among the lilies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Thou art beautiful, O my love, as Tirzah,",
+            "Comely as Jerusalem,",
+            "Terrible as an army with banners."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Turn away thine eyes from me,",
+            "For they have overcome me:",
+            "Thy hair is as a flock of goats",
+            "That appear from Gilead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Thy teeth are as a flock of sheep",
+            "Which go up from the washing,",
+            "Whereof every one beareth twins,",
+            "And there is not one barren among them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "As a piece of a pomegranate are thy temples",
+            "Within thy locks."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "There are threescore queens, and fourscore concubines,",
+            "And virgins without number."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "My dove, my undefiled is but one;",
+            "She is the only one of her mother,",
+            "She is the choice one of her that bare her.",
+            "The daughters saw her, and blessed her;",
+            "Yea, the queens and the concubines, and they praised her."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Who is she that looketh forth as the morning,",
+            "Fair as the moon, clear as the sun,",
+            "And terrible as an army with banners?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "I went down into the garden of nuts",
+            "To see the fruits of the valley,",
+            "And to see whether the vine flourished,",
+            "And the pomegranates budded."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Or ever I was aware,",
+            "My soul made me like the chariots of Amminadib."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Return, return, O Shulamite;",
+            "Return, return, that we may look upon thee.",
+            "What will ye see in the Shulamite?",
+            "As it were the company of two armies."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.7",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.7"
+        ],
+        "human": "Song of Solomon 7"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.8"
+        ],
+        "human": "Song of Solomon 8",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.6"
+        ],
+        "human": "Song of Solomon 6",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "How beautiful are thy feet with shoes,",
+            "O prince's daughter!",
+            "The joints of thy thighs are like jewels,",
+            "The work of the hands of a cunning workman."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Thy navel is like a round goblet,",
+            "Which wanteth not liquor:",
+            "Thy belly is like an heap of wheat",
+            "Set about with lilies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Thy two breasts are like two young roes",
+            "That are twins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Thy neck is as a tower of ivory;",
+            "Thine eyes like the fishpools in Heshbon,",
+            "By the gate of Bathrabbim:",
+            "Thy nose is as the tower of Lebanon",
+            "Which looketh toward Damascus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Thine head upon thee is like Carmel,",
+            "And the hair of thine head like purple;",
+            "The king is held in the galleries."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "How fair and how pleasant art thou,",
+            "O love, for delights!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "This thy stature is like to a palm tree,",
+            "And thy breasts to clusters of grapes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "I said, I will go up to the palm tree,",
+            "I will take hold of the boughs thereof:",
+            "Now also thy breasts shall be as clusters of the vine,",
+            "And the smell of thy nose like apples;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "And the roof of thy mouth like the best wine",
+            "For my beloved, that goeth down sweetly,",
+            "Causing the lips of those that are asleep to speak."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "I am my beloved's,",
+            "And his desire is toward me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Come, my beloved,",
+            "Let us go forth into the field;",
+            "Let us lodge in the villages."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Let us get up early to the vineyards;",
+            "Let us see if the vine flourish,",
+            "Whether the tender grape appear,",
+            "And the pomegranates bud forth:",
+            "There will I give thee my loves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "The mandrakes give a smell,",
+            "And at our gates are all manner of pleasant fruits,",
+            "New and old,",
+            "Which I have laid up for thee, O my beloved."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.8",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.8"
+        ],
+        "human": "Song of Solomon 8"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ISA.1"
+        ],
+        "human": "Isaiah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.7"
+        ],
+        "human": "Song of Solomon 7",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "O that thou wert as my brother,",
+            "That sucked the breasts of my mother!",
+            "When I should find thee without, I would kiss thee;",
+            "Yea, I should not be despised."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "I would lead thee,",
+            "And bring thee into my mother's house,",
+            "Who would instruct me:",
+            "I would cause thee to drink of spiced wine",
+            "Of the juice of my pomegranate."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "His left hand should be under my head,",
+            "And his right hand should embrace me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "I charge you, O daughters of Jerusalem,",
+            "That ye stir not up, nor awake my love,",
+            "Until he please."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Who is this that cometh up from the wilderness,",
+            "Leaning upon her beloved?",
+            "I raised thee up under the apple tree:",
+            "There thy mother brought thee forth:",
+            "There she brought thee forth that bare thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Set me as a seal upon thine heart,",
+            "As a seal upon thine arm:",
+            "For love is strong as death;",
+            "Jealousy is cruel as the grave:",
+            "The coals thereof are coals of fire,",
+            "Which hath a most vehement flame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Many waters cannot quench love,",
+            "Neither can the floods drown it:",
+            "If a man would give all the substance of his house for love,",
+            "It would utterly be contemned."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "We have a little sister,",
+            "And she hath no breasts:",
+            "What shall we do for our sister",
+            "In the day when she shall be spoken for?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "If she be a wall,",
+            "We will build upon her a palace of silver:",
+            "And if she be a door,",
+            "We will inclose her with boards of cedar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "I am a wall,",
+            "And my breasts like towers:",
+            "Then was I in his eyes",
+            "As one that found favour."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Solomon had a vineyard at Baalhamon;",
+            "He let out the vineyard unto keepers;",
+            "Every one for the fruit thereof was to bring a thousand pieces of silver."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "My vineyard, which is mine, is before me:",
+            "Thou, O Solomon, must have a thousand,",
+            "And those that keep the fruit thereof two hundred."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Thou that dwellest in the gardens,",
+            "The companions hearken to thy voice:",
+            "Cause me to hear it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Make haste, my beloved,",
+            "And be thou like to a roe",
+            "Or to a young hart",
+            "Upon the mountains of spices."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "book_usfm": "PHM",
+  "name": "Filemón",
+  "local_title": "Dios habla Hoy Estándar",
+  "local_abbreviation": "DHHS94",
+  "version_id": 1846,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+    "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "PHM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHM.1"
+        ],
+        "human": "Filemón 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HEB.1"
+        ],
+        "human": "Hebreos 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Tito 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Saludo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Pablo, preso por causa de Cristo Jesús, y el hermano Timoteo saludan a Filemón, querido compañero de trabajo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "y a la iglesia que se reúne en su casa, así como a la hermana Apia y a Arquipo, nuestro compañero en la lucha."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Que Dios nuestro Padre y el Señor Jesucristo derramen su gracia y su paz sobre ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Acción de gracias y petición"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Siempre doy gracias a mi Dios al acordarme de ti en mis oraciones,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "porque he tenido noticias del amor y la fe que tienes para con el Señor Jesús y para con todos los que pertenecen al pueblo santo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Y pido a Dios que tu participación en la misma fe te lleve a conocer todo el bien que podemos realizar por amor a Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Estoy muy contento y animado por tu amor, ya que tú, hermano, has llenado de consuelo el corazón de los que pertenecen al pueblo santo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Intervención a favor de Onésimo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Por eso, aunque en nombre de Cristo tengo derecho a ordenarte lo que debes hacer,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "prefiero rogártelo en nombre del amor. Yo, Pablo, ya anciano, y ahora preso por causa de Cristo Jesús,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "te pido un favor para mi hijo Onésimo, de quien he llegado a ser padre según la fe aquí en la cárcel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "En otro tiempo, Onésimo fue para ti un esclavo inútil, pero ahora nos es útil tanto a ti como a mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Te lo envío de nuevo: es el hijo de mis entrañas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Yo hubiera querido que se quedara aquí conmigo, para que me sirviera en tu lugar mientras estoy preso por causa del evangelio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Pero no quiero hacer nada que tú antes no hayas aprobado, para que el favor que me haces no sea por obligación sino por tu propia voluntad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Tal vez Onésimo se apartó de ti por algún tiempo para que ahora lo tengas para siempre,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "ya no como un esclavo, sino como algo mejor que un esclavo: como un hermano querido. Yo lo quiero mucho, pero tú debes quererlo todavía más, no solo humanamente sino también como hermano en el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Así pues, si me tienes por hermano en la fe, recíbelo como si se tratara de mí mismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Si te ha hecho algún daño, o si te debe algo, cóbramelo a mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Yo, Pablo, escribo esto con mi puño y letra: Yo lo pagaré. Por no decir que lo pongas a tu cuenta, ya que tú me debes tu propia persona."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Sí, hermano, te pido este favor por amor al Señor; consuela mi corazón como hermano en Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Te escribo porque estoy seguro de tu obediencia, y sé que harás más de lo que te pido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Además de esto, prepárame alojamiento; porque espero que, en respuesta a las oraciones de ustedes, Dios les concederá que yo vaya a verlos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Despedida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "Saludos de Epafras, mi compañero de cárcel por causa de Cristo Jesús,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "y también de Marcos, Aristarco, Demas y Lucas, que me ayudan en el trabajo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "Que el Señor Jesucristo derrame su gracia sobre ustedes."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

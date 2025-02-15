@@ -1,0 +1,742 @@
+{
+  "book_usfm": "NAM",
+  "name": "Nahúm",
+  "local_title": "Nueva Biblia de las Américas",
+  "local_abbreviation": "NBLA",
+  "version_id": 103,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+    "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "NAM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahúm 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.7"
+        ],
+        "human": "Miqueas 7",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La ira de Dios contra Nínive"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Oráculo sobre Nínive. Libro de la visión de Nahúm de Elcos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "¶Dios celoso y vengador es el Señor;",
+            "Vengador es el Señor e irascible.",
+            "El Señor se venga de Sus adversarios,",
+            "Y guarda rencor a Sus enemigos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "El Señor es lento para la ira y grande en poder,",
+            "Y ciertamente el Señor no dejará sin castigo al culpable.",
+            "En el torbellino y la tempestad está Su camino,",
+            "Y las nubes son el polvo de Sus pies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Él reprende al mar y lo hace secar,",
+            "Y todos los ríos agota.",
+            "Languidecen Basán y el Carmelo,",
+            "Y las flores del Líbano se marchitan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Los montes tiemblan ante Él,",
+            "Y los collados se derriten.",
+            "Sí, en Su presencia se levanta la tierra,",
+            "El mundo y todos los que en él habitan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "En presencia de Su indignación, ¿quién resistirá?",
+            "¿Quién se mantendrá en pie ante el ardor de Su ira?",
+            "Su furor se derrama como fuego,",
+            "Y las rocas se despedazan ante Él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Bueno es el Señor,",
+            "Una fortaleza en el día de la angustia,",
+            "Y conoce a los que en Él se refugian."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Pero con inundación desbordante",
+            "Pondrá fin a su lugar,",
+            "Y perseguirá a Sus enemigos aun en las tinieblas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "¶Lo que tramen contra el Señor,",
+            "Él lo hará completa destrucción;",
+            "No surgirá dos veces la angustia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Porque ellos, como espinos enmarañados,",
+            "Y ebrios con su bebida,",
+            "Serán consumidos como paja totalmente seca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "De ti ha salido",
+            "El que ha tramado el mal contra el Señor,",
+            "Un consejero perverso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Así dice el Señor:",
+            "«Aunque estén con todo su vigor y por más que sean muchos,",
+            "Aun así serán cortados y desaparecerán.",
+            "Aunque te haya afligido, Judá",
+            "No te afligiré más."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "-»Y ahora, quebraré su yugo de sobre ti,",
+            "Y romperé tus coyundas»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "¶El Señor ha dado una orden en cuanto a ti:",
+            "«No se perpetuará más tu nombre.",
+            "De la casa de tus dioses",
+            "Arrancaré los ídolos y las imágenes de fundición.",
+            "Yo prepararé tu sepultura, porque eres vil»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "¶Miren, sobre los montes andan",
+            "Los pies del que trae buenas nuevas,",
+            "Del que anuncia la paz.",
+            "Celebra tus fiestas, Judá,",
+            "Cumple tus votos.",
+            "Porque nunca más volverá",
+            "A pasar por ti el malvado;",
+            "Ha sido exterminado por completo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahúm 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahúm 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Ataque contra Nínive"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "El destructor ha subido contra ti.",
+            "Monta guardia en la fortaleza,",
+            "Vigila el camino;",
+            "Fortalece tus lomos,",
+            "Refuerza más tu poder."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Porque el Señor restaurará la gloria de Jacob",
+            "Como la gloria de Israel,",
+            "Aunque devastadores los han devastado",
+            "Y destruido sus sarmientos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "¶El escudo de los valientes es rojo,",
+            "Los guerreros están vestidos de escarlata,",
+            "Y de acero centelleante los carros",
+            "Cuando están en formación,",
+            "Y se blanden las lanzas de ciprés."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Por las calles corren furiosos los carros,",
+            "Se precipitan por las plazas,",
+            "Su aspecto es semejante a antorchas,",
+            "Como relámpagos se lanzan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Se acuerda él de sus nobles",
+            "Que tropiezan en su marcha,",
+            "Se apresuran a su muralla,",
+            "Y es preparada la defensa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Las compuertas de los ríos se abren,",
+            "Y el palacio se llena de terror."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Está decretado:",
+            "La reina es despojada y deportada,",
+            "Y sus sirvientas gimen como palomas,",
+            "Golpeándose el pecho."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "¶Aunque Nínive era como estanque de aguas desde la antigüedad;",
+            "Ahora ellos huyen.",
+            "«¡Deténganse! ¡Deténganse!»,",
+            "Pero nadie se vuelve."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "¡Saqueen la plata!",
+            "¡Saqueen el oro!",
+            "No hay límite a los tesoros,",
+            "A las riquezas de toda clase de objetos codiciables."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "¡Vacía está! Sí, desolada y desierta.",
+            "Los corazones se derriten y las rodillas tiemblan;",
+            "Hay también angustia en todo el cuerpo,",
+            "Y los rostros de todos han palidecido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "¿Dónde está la guarida de los leones",
+            "Y el lugar donde comen los leoncillos,",
+            "Donde andaban el león, la leona y su cachorro,",
+            "Sin que nada los asustara?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "El león desgarraba lo suficiente para sus cachorros,",
+            "Mataba para sus leonas,",
+            "Llenaba de presa sus cuevas",
+            "Y de carne desgarrada sus guaridas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "«Aquí estoy contra ti», declara el Señor de los ejércitos. «Quemaré y reduciré a humo tus carros, la espada devorará tus leoncillos, arrancaré de la tierra tu presa, y no se oirá más la voz de tus mensajeros»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahúm 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habacuc 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Ruina total de Nínive"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¡Ay de la ciudad sanguinaria,",
+            "Toda llena de mentira y de pillaje,",
+            "Que nunca cesa en su rapiña!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Chasquido de látigos,",
+            "Ruido del crujir de ruedas,",
+            "Galopar de caballos,",
+            "Y saltar de carros;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Carga de caballería,",
+            "Flamear de espadas,",
+            "Fulgor de lanzas;",
+            "Multitud de heridos,",
+            "Montones de muertos,",
+            "Innumerables cadáveres;",
+            "Tropiezan en los cadáveres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Todo por las muchas prostituciones de la ramera,",
+            "La encantadora, la maestra de hechizos,",
+            "Que seduce a las naciones con sus prostituciones",
+            "Y a los pueblos con sus hechizos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "«Aquí estoy contra ti», declara el Señor de los ejércitos.",
+            "«Levantaré tus faldas sobre tu rostro,",
+            "Y mostraré a las naciones tu desnudez",
+            "Y a los reinos tu vergüenza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "-»Echaré sobre ti inmundicias,",
+            "Te haré despreciable, y haré de ti un espectáculo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "-»Y sucederá que todo el que te vea",
+            "Huirá de ti, y dirá:",
+            "“¡Asolada está Nínive!",
+            "¿Quién llorará por ella?”.",
+            "¿Dónde te buscaré consoladores?»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "¶¿Eres tú mejor que Tebas,",
+            "La asentada junto al Nilo,",
+            "Rodeada de aguas,",
+            "Cuyo baluarte era el mar",
+            "Y las aguas su muralla?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Etiopía era su fortaleza,",
+            "También Egipto, y no tenía límite.",
+            "Fut y Libia estaban entre los que la ayudaban."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Sin embargo, ella fue desterrada,",
+            "Llevada al cautiverio;",
+            "También sus niños fueron estrellados",
+            "En todas las bocacalles.",
+            "Sobre sus nobles echaron suertes,",
+            "Y todos sus principales fueron atados con cadenas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Tú también quedarás embriagada,",
+            "Estarás escondida;",
+            "Tú también buscarás refugio del enemigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Todas tus fortalezas son higueras",
+            "Cargadas de los primeros frutos;",
+            "Si se sacuden, caen",
+            "En la boca de quien las va a comer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Así es tu pueblo: solo mujeres en medio de ti.",
+            "Las puertas de tu tierra se abren de par en par a tus enemigos;",
+            "El fuego devora tus cerrojos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Abastécete de agua para el asedio,",
+            "Refuerza tus fortalezas,",
+            "Métete en el lodo y pisa el barro,",
+            "Toma el molde de ladrillos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Allí te consumirá el fuego,",
+            "Te destruirá la espada,",
+            "Te devorará como el pulgón.",
+            "Multiplícate como el pulgón,",
+            "Multiplícate como la langosta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Has multiplicado tus mercaderes",
+            "Más que las estrellas del cielo;",
+            "El pulgón despoja y vuela."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Tus oficiales son como la langosta,",
+            "Tus jefes como nubes de langostas",
+            "Posados sobre las tapias",
+            "En un día de frío;",
+            "Sale el sol, y se van,",
+            "Y no se sabe donde están."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Duermen tus pastores,",
+            "Oh rey de Asiria;",
+            "Tus nobles reposan.",
+            "Tu pueblo está disperso por los montes",
+            "Y no hay quien lo reúna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "No hay remedio para tu quebranto,",
+            "Tu herida es incurable.",
+            "Todos los que oigan noticias de ti",
+            "Batirán palmas sobre ti,",
+            "Porque ¿sobre quién no pasó",
+            "Constantemente tu maldad?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

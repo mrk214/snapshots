@@ -1,0 +1,840 @@
+{
+  "book_usfm": "HAB",
+  "name": "Habacuc",
+  "local_title": "Dios habla Hoy Estándar",
+  "local_abbreviation": "DHHS94",
+  "version_id": 1846,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+    "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "HAB.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habacuc 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habacuc 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahúm 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Diálogo entre el profeta y el Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Este es el mensaje que el Señor reveló al profeta Habacuc."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Señor, ¿hasta cuándo gritaré pidiendo ayuda",
+            "sin que tú me escuches?",
+            "¿Hasta cuándo clamaré a causa de la violencia",
+            "sin que vengas a librarnos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "¿Por qué me haces ver",
+            "tanta angustia y maldad?",
+            "Estoy rodeado de violencia y destrucción;",
+            "por todas partes hay pleitos y luchas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "No se aplica la ley,",
+            "se pisotea el derecho,",
+            "el malo persigue al bueno",
+            "y se tuerce la justicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "«Miren ustedes a las naciones que los rodean;",
+            "mírenlas y llénense de espanto.",
+            "Estoy a punto de hacer cosas tales",
+            "que ustedes no las creerían, si alguien se las contara."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Voy a poner en pie de guerra a los caldeos,",
+            "que son gente cruel, que siempre están dispuestos",
+            "a recorrer el mundo de lado a lado",
+            "para adueñarse de tierras que no les pertenecen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Son espantosos y terribles,",
+            "y no reconocen más ley que la suya."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Sus caballos son más veloces que los leopardos,",
+            "más salvajes que los lobos del desierto.",
+            "Sus jinetes galopan en gran número",
+            "y se lanzan al ataque desde lejos,",
+            "como el águila se lanza sobre su presa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Todo lo destruyen a su paso;",
+            "en su avance van sembrando el terror,",
+            "y son más los prisioneros que hacen",
+            "que las arenas que hay en el mar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Se burlan de los reyes",
+            "y de la gente importante.",
+            "Se ríen de las fortalezas,",
+            "pues levantan rampas ante ellas",
+            "y las toman por asalto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Pasan como un huracán;",
+            "no reconocen más dios que su propia fuerza.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Señor, ¿acaso no existes tú eternamente,",
+            "mi Dios santo e inmortal?",
+            "Señor y protector mío,",
+            "tú has dado fuerza a los caldeos",
+            "para que ellos ejecuten tu justicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Tú eres demasiado puro para consentir el mal,",
+            "para contemplar con agrado la iniquidad;",
+            "¿cómo, pues, contemplas callado a los criminales,",
+            "y guardas silencio mientras el malvado",
+            "destruye a los que son mejores que él?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "¿Por qué tratas a los hombres",
+            "como a peces del mar,",
+            "como a animales sin gobierno?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Los caldeos se apoderan de otras naciones",
+            "como el pescador se apodera del pescado:",
+            "lo atrapa con anzuelos y con redes,",
+            "y luego, al verlo todo junto, se llena de alegría."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Por eso el pescador adora sus redes y anzuelos,",
+            "y ofrece sacrificios y quema incienso en su honor,",
+            "pues gracias a ellos tiene comida buena y abundante."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Así, ¿seguirán los caldeos pescándonos con sus redes?",
+            "¿Seguirán matando sin compasión a la gente?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habacuc 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habacuc 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habacuc 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Estaré atento y vigilante,",
+            "como lo está el centinela en su puesto,",
+            "para ver qué me dice el Señor",
+            "y qué respuesta da a mis quejas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "El Señor me contestó:",
+            "«Escribe en tablas de barro lo que te voy a mostrar,",
+            "de modo que pueda leerse de corrido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Aún no ha llegado el momento",
+            "de que esta visión se cumpla;",
+            "pero no dejará de cumplirse.",
+            "Tú espera, aunque parezca tardar,",
+            "pues llegará en el momento preciso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "El destino de los opresores"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Escribe que los malvados son orgullosos,",
+            "pero los justos vivirán por su fidelidad a Dios.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Los hombres orgullosos desean el poder;",
+            "lo buscan sin descanso y siempre quieren más,",
+            "aun cuando el poder es traicionero.",
+            "Abren su boca, como el sepulcro;",
+            "son insaciables, como la muerte,",
+            "y por eso se lanzan a conquistar",
+            "nación tras nación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Pero todas las naciones conquistadas",
+            "se burlarán del que las conquistó, cantándole:",
+            "«¡Ay de ti, que te haces rico",
+            "con lo que no te pertenece!",
+            "¿Hasta cuándo seguirás amontonando",
+            "las riquezas que tomaste prestadas?»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Cuando menos lo esperes, llegarán tus acreedores,",
+            "despertarán los que te atormentan",
+            "y te dejarán desnudo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Las naciones se unirán en contra tuya",
+            "y te saquearán como tú las saqueaste a ellas.",
+            "Te harán pagar todos tus crímenes,",
+            "las violencias que cometiste en el país",
+            "contra las ciudades y sus habitantes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "¡Ay de ti, que has llenado tu casa",
+            "con el producto de tus robos,",
+            "para ponerte a salvo de todo peligro!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "De ese modo has cubierto tu casa de vergüenza,",
+            "y has causado tu propia destrucción",
+            "al destruir a numerosas naciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Aun las piedras de los muros",
+            "y la madera de las vigas",
+            "gritarán en contra tuya."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "¡Ay de ti, que construyes tus ciudades",
+            "sobre la base del crimen y la injusticia!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "El Señor todopoderoso",
+            "va a hacer inútil tu trabajo y tu fatiga,",
+            "pues todas tus obras serán destruidas por el fuego."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Y el conocimiento de la gloria del Señor",
+            "llenará entonces toda la tierra,",
+            "como las aguas llenan el mar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "¡Ay de ti, que emborrachas a tus vecinos",
+            "dándoles vino mezclado con drogas,",
+            "para humillarlos contemplando su desnudez!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "En lugar de honor, te cubrirás de vergüenza,",
+            "porque el Señor va a darte a beber una copa",
+            "que te hará mostrar tu incircuncisión",
+            "y convertirá en humillación tu gloria."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Las violencias que le hiciste al monte Líbano",
+            "se volverán en contra tuya,",
+            "y te espantarás por la matanza de sus animales.",
+            "Esto te vendrá a causa de tus crímenes",
+            "y de las violencias que cometiste en el país",
+            "contra las ciudades y sus habitantes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "¿De qué sirve una escultura",
+            "en cuanto ha sido terminada?",
+            "¿De qué sirve una imagen",
+            "que solo lleva a la mentira?",
+            "Los ídolos no pueden hablar;",
+            "¿cómo, pues, podrá confiar en ellos",
+            "el hombre que los fabrica?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "¡Ay de ti, que a un ídolo de madera",
+            "le dices que despierte,",
+            "y a una piedra muda, que se ponga de pie!",
+            "¿Podrán ellos comunicar mensaje alguno?",
+            "¡No, porque no tienen vida propia,",
+            "aunque estén recubiertos de oro y plata!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Pero el Señor está en su santo templo:",
+            "¡guarde silencio delante de él toda la tierra!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habacuc 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Sofonías 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habacuc 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Oración de Habacuc"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Esta es una oración del profeta Habacuc."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Lo que oigo acerca de ti, Señor,",
+            "y de todo lo que has hecho,",
+            "me llena de profunda reverencia.",
+            "Realiza ahora, en nuestra vida,",
+            "tus grandes acciones de otros tiempos,",
+            "para que nosotros también las conozcamos.",
+            "Muéstranos así tu compasión",
+            "aun en medio de tu enojo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Dios viene de la región de Temán;",
+            "del monte Parán viene el Dios Santo.",
+            "Su gloria se extiende por todo el cielo,",
+            "y el mundo entero se llena de su alabanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Viene envuelto en brillante resplandor,",
+            "y de sus manos brotan rayos de luz",
+            "que muestran el poder que en él se esconde."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Delante de él llegan plagas terribles,",
+            "y detrás la fiebre abrasadora."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "La tierra tiembla cuando él se detiene;",
+            "se estremecen las naciones cuando las mira;",
+            "las viejas montañas se derrumban",
+            "y se deshacen los montes antiguos;",
+            "pero los caminos de Dios son eternos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Yo he visto a la gente de Cusán",
+            "hundida en la desgracia,",
+            "a los habitantes de Madián",
+            "encogidos por el miedo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "¿Te has enojado, Señor, contra los ríos?",
+            "¿Se ha encendido tu furor contra los mares?",
+            "¿Cabalgas por eso en tus caballos",
+            "y montas así en tu carro victorioso?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Tienes el arco preparado",
+            "y dispuestas todas tus flechas.",
+            "Con los ríos has abierto surcos en la tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Las montañas tiemblan al verte;",
+            "cae del cielo la lluvia torrencial,",
+            "y el mar profundo da su rugido",
+            "mientras se alzan sus olas inmensas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "El sol y la luna no salen de su escondite",
+            "ante el vivo resplandor de tus flechas",
+            "y la luz relampagueante de tu lanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "En tu enojo recorres toda la tierra;",
+            "en tu furor pisoteas las naciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Tú has salido en ayuda de tu pueblo",
+            "y del rey que tú mismo escogiste.",
+            "Has destruido el techo de la casa del malvado,",
+            "y has descubierto hasta la roca sus cimientos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Mataste a su jefe con sus propias flechas,",
+            "cuando sus jinetes, como una tempestad,",
+            "se lanzaron arrogantes",
+            "a dispersar a los indefensos,",
+            "para destruirlos en secreto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Con tus caballos recorres el mar,",
+            "la gran extensión de las aguas profundas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Al oír todo esto tuve miedo.",
+            "Mis labios se pusieron a temblar,",
+            "mis piernas dejaron de sostenerme",
+            "y todo mi cuerpo perdió sus fuerzas.",
+            "Aun así, esperaré tranquilo",
+            "el día en que Dios ponga en angustia",
+            "al ejército de nuestros opresores."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17,
+            18
+          ],
+          "lines": [
+            "Entonces me llenaré de alegría",
+            "a causa del Señor mi salvador.",
+            "Le alabaré aunque no florezcan las higueras",
+            "ni den fruto los viñedos y los olivares;",
+            "aunque los campos no den su cosecha;",
+            "aunque se acaben los rebaños de ovejas",
+            "y no haya reses en los establos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Porque el Señor me da fuerzas;",
+            "da a mis piernas la ligereza del ciervo",
+            "y me lleva a alturas donde estaré a salvo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

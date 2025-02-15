@@ -1,0 +1,1111 @@
+{
+  "book_usfm": "JOL",
+  "name": "Joel",
+  "local_title": "New King James Version",
+  "local_abbreviation": "NKJV",
+  "version_id": 114,
+  "publisher": {
+    "name": "Thomas Nelson, Inc."
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+    "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "JOL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.14"
+        ],
+        "human": "Hosea 14",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "The word of the Lord that came to Joel the son of Pethuel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Land Laid Waste"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Hear this, you elders,",
+            "And give ear, all you inhabitants of the land!",
+            "Has anything like this happened in your days,",
+            "Or even in the days of your fathers?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Tell your children about it,",
+            "Let your children tell their children,",
+            "And their children another generation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "What the chewing locust left, the swarming locust has eaten;",
+            "What the swarming locust left, the crawling locust has eaten;",
+            "And what the crawling locust left, the consuming locust has eaten."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Awake, you drunkards, and weep;",
+            "And wail, all you drinkers of wine,",
+            "Because of the new wine,",
+            "For it has been cut off from your mouth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "For a nation has come up against My land,",
+            "Strong, and without number;",
+            "His teeth are the teeth of a lion,",
+            "And he has the fangs of a fierce lion."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "He has laid waste My vine,",
+            "And ruined My fig tree;",
+            "He has stripped it bare and thrown it away;",
+            "Its branches are made white."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Lament like a virgin girded with sackcloth",
+            "For the husband of her youth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "The grain offering and the drink offering",
+            "Have been cut off from the house of the Lord;",
+            "The priests mourn, who minister to the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "The field is wasted,",
+            "The land mourns;",
+            "For the grain is ruined,",
+            "The new wine is dried up,",
+            "The oil fails."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Be ashamed, you farmers,",
+            "Wail, you vinedressers,",
+            "For the wheat and the barley;",
+            "Because the harvest of the field has perished."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "The vine has dried up,",
+            "And the fig tree has withered;",
+            "The pomegranate tree,",
+            "The palm tree also,",
+            "And the apple tree—",
+            "All the trees of the field are withered;",
+            "Surely joy has withered away from the sons of men."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Mourning for the Land"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Gird yourselves and lament, you priests;",
+            "Wail, you who minister before the altar;",
+            "Come, lie all night in sackcloth,",
+            "You who minister to my God;",
+            "For the grain offering and the drink offering",
+            "Are withheld from the house of your God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Consecrate a fast,",
+            "Call a sacred assembly;",
+            "Gather the elders",
+            "And all the inhabitants of the land",
+            "Into the house of the Lord your God,",
+            "And cry out to the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Alas for the day!",
+            "For the day of the Lord is at hand;",
+            "It shall come as destruction from the Almighty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Is not the food cut off before our eyes,",
+            "Joy and gladness from the house of our God?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "The seed shrivels under the clods,",
+            "Storehouses are in shambles;",
+            "Barns are broken down,",
+            "For the grain has withered."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "How the animals groan!",
+            "The herds of cattle are restless,",
+            "Because they have no pasture;",
+            "Even the flocks of sheep suffer punishment."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "O Lord, to You I cry out;",
+            "For fire has devoured the open pastures,",
+            "And a flame has burned all the trees of the field."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "The beasts of the field also cry out to You,",
+            "For the water brooks are dried up,",
+            "And fire has devoured the open pastures."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Day of the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Blow the trumpet in Zion,",
+            "And sound an alarm in My holy mountain!",
+            "Let all the inhabitants of the land tremble;",
+            "For the day of the Lord is coming,",
+            "For it is at hand:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "A day of darkness and gloominess,",
+            "A day of clouds and thick darkness,",
+            "Like the morning clouds spread over the mountains.",
+            "A people come, great and strong,",
+            "The like of whom has never been;",
+            "Nor will there ever be any such after them,",
+            "Even for many successive generations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "A fire devours before them,",
+            "And behind them a flame burns;",
+            "The land is like the Garden of Eden before them,",
+            "And behind them a desolate wilderness;",
+            "Surely nothing shall escape them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Their appearance is like the appearance of horses;",
+            "And like swift steeds, so they run."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "With a noise like chariots",
+            "Over mountaintops they leap,",
+            "Like the noise of a flaming fire that devours the stubble,",
+            "Like a strong people set in battle array."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Before them the people writhe in pain;",
+            "All faces are drained of color."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "They run like mighty men,",
+            "They climb the wall like men of war;",
+            "Every one marches in formation,",
+            "And they do not break ranks."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "They do not push one another;",
+            "Every one marches in his own column.",
+            "Though they lunge between the weapons,",
+            "They are not cut down."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "They run to and fro in the city,",
+            "They run on the wall;",
+            "They climb into the houses,",
+            "They enter at the windows like a thief."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "The earth quakes before them,",
+            "The heavens tremble;",
+            "The sun and moon grow dark,",
+            "And the stars diminish their brightness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "The Lord gives voice before His army,",
+            "For His camp is very great;",
+            "For strong is the One who executes His word.",
+            "For the day of the Lord is great and very terrible;",
+            "Who can endure it?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "A Call to Repentance"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "“Now, therefore,” says the Lord,",
+            "“Turn to Me with all your heart,",
+            "With fasting, with weeping, and with mourning.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "So rend your heart, and not your garments;",
+            "Return to the Lord your God,",
+            "For He is gracious and merciful,",
+            "Slow to anger, and of great kindness;",
+            "And He relents from doing harm."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Who knows if He will turn and relent,",
+            "And leave a blessing behind Him—",
+            "A grain offering and a drink offering",
+            "For the Lord your God?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Blow the trumpet in Zion,",
+            "Consecrate a fast,",
+            "Call a sacred assembly;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Gather the people,",
+            "Sanctify the congregation,",
+            "Assemble the elders,",
+            "Gather the children and nursing babes;",
+            "Let the bridegroom go out from his chamber,",
+            "And the bride from her dressing room."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Let the priests, who minister to the Lord,",
+            "Weep between the porch and the altar;",
+            "Let them say, “Spare Your people, O Lord,",
+            "And do not give Your heritage to reproach,",
+            "That the nations should rule over them.",
+            "Why should they say among the peoples,",
+            "‘Where is their God?’ ”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Land Refreshed"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Then the Lord will be zealous for His land,",
+            "And pity His people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "The Lord will answer and say to His people,",
+            "“Behold, I will send you grain and new wine and oil,",
+            "And you will be satisfied by them;",
+            "I will no longer make you a reproach among the nations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "“But I will remove far from you the northern army,",
+            "And will drive him away into a barren and desolate land,",
+            "With his face toward the eastern sea",
+            "And his back toward the western sea;",
+            "His stench will come up,",
+            "And his foul odor will rise,",
+            "Because he has done monstrous things.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Fear not, O land;",
+            "Be glad and rejoice,",
+            "For the Lord has done marvelous things!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Do not be afraid, you beasts of the field;",
+            "For the open pastures are springing up,",
+            "And the tree bears its fruit;",
+            "The fig tree and the vine yield their strength."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "Be glad then, you children of Zion,",
+            "And rejoice in the Lord your God;",
+            "For He has given you the former rain faithfully,",
+            "And He will cause the rain to come down for you—",
+            "The former rain,",
+            "And the latter rain in the first month."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "The threshing floors shall be full of wheat,",
+            "And the vats shall overflow with new wine and oil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "“So I will restore to you the years that the swarming locust has eaten,",
+            "The crawling locust,",
+            "The consuming locust,",
+            "And the chewing locust,",
+            "My great army which I sent among you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "You shall eat in plenty and be satisfied,",
+            "And praise the name of the Lord your God,",
+            "Who has dealt wondrously with you;",
+            "And My people shall never be put to shame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "Then you shall know that I am in the midst of Israel:",
+            "I am the Lord your God",
+            "And there is no other.",
+            "My people shall never be put to shame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "God’s Spirit Poured Out"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            28
+          ],
+          "lines": [
+            "“And it shall come to pass afterward",
+            "That I will pour out My Spirit on all flesh;",
+            "Your sons and your daughters shall prophesy,",
+            "Your old men shall dream dreams,",
+            "Your young men shall see visions."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            29
+          ],
+          "lines": [
+            "And also on My menservants and on My maidservants",
+            "I will pour out My Spirit in those days."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            30
+          ],
+          "lines": [
+            "“And I will show wonders in the heavens and in the earth:",
+            "Blood and fire and pillars of smoke."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            31
+          ],
+          "lines": [
+            "The sun shall be turned into darkness,",
+            "And the moon into blood,",
+            "Before the coming of the great and awesome day of the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            32
+          ],
+          "lines": [
+            "And it shall come to pass",
+            "That whoever calls on the name of the Lord",
+            "Shall be saved.",
+            "For in Mount Zion and in Jerusalem there shall be deliverance,",
+            "As the Lord has said,",
+            "Among the remnant whom the Lord calls."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amos 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "God Judges the Nations"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "“For behold, in those days and at that time,",
+            "When I bring back the captives of Judah and Jerusalem,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "I will also gather all nations,",
+            "And bring them down to the Valley of Jehoshaphat;",
+            "And I will enter into judgment with them there",
+            "On account of My people, My heritage Israel,",
+            "Whom they have scattered among the nations;",
+            "They have also divided up My land."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "They have cast lots for My people,",
+            "Have given a boy as payment for a harlot,",
+            "And sold a girl for wine, that they may drink."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "“Indeed, what have you to do with Me,",
+            "O Tyre and Sidon, and all the coasts of Philistia?",
+            "Will you retaliate against Me?",
+            "But if you retaliate against Me,",
+            "Swiftly and speedily I will return your retaliation upon your own head;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Because you have taken My silver and My gold,",
+            "And have carried into your temples My prized possessions."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Also the people of Judah and the people of Jerusalem",
+            "You have sold to the Greeks,",
+            "That you may remove them far from their borders."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "“Behold, I will raise them",
+            "Out of the place to which you have sold them,",
+            "And will return your retaliation upon your own head."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "I will sell your sons and your daughters",
+            "Into the hand of the people of Judah,",
+            "And they will sell them to the Sabeans,",
+            "To a people far off;",
+            "For the Lord has spoken.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Proclaim this among the nations:",
+            "“Prepare for war!",
+            "Wake up the mighty men,",
+            "Let all the men of war draw near,",
+            "Let them come up."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Beat your plowshares into swords",
+            "And your pruning hooks into spears;",
+            "Let the weak say, ‘I am strong.’ ”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Assemble and come, all you nations,",
+            "And gather together all around.",
+            "Cause Your mighty ones to go down there, O Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "“Let the nations be wakened, and come up to the Valley of Jehoshaphat;",
+            "For there I will sit to judge all the surrounding nations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Put in the sickle, for the harvest is ripe.",
+            "Come, go down;",
+            "For the winepress is full,",
+            "The vats overflow—",
+            "For their wickedness is great.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Multitudes, multitudes in the valley of decision!",
+            "For the day of the Lord is near in the valley of decision."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "The sun and moon will grow dark,",
+            "And the stars will diminish their brightness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "The Lord also will roar from Zion,",
+            "And utter His voice from Jerusalem;",
+            "The heavens and earth will shake;",
+            "But the Lord will be a shelter for His people,",
+            "And the strength of the children of Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "“So you shall know that I am the Lord your God,",
+            "Dwelling in Zion My holy mountain.",
+            "Then Jerusalem shall be holy,",
+            "And no aliens shall ever pass through her again.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "God Blesses His People"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "And it will come to pass in that day",
+            "That the mountains shall drip with new wine,",
+            "The hills shall flow with milk,",
+            "And all the brooks of Judah shall be flooded with water;",
+            "A fountain shall flow from the house of the Lord",
+            "And water the Valley of Acacias."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "“Egypt shall be a desolation,",
+            "And Edom a desolate wilderness,",
+            "Because of violence against the people of Judah,",
+            "For they have shed innocent blood in their land."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "But Judah shall abide forever,",
+            "And Jerusalem from generation to generation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "For I will acquit them of the guilt of bloodshed, whom I had not acquitted;",
+            "For the Lord dwells in Zion.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

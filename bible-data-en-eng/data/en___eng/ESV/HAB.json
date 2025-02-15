@@ -1,0 +1,864 @@
+{
+  "book_usfm": "HAB",
+  "name": "Habakkuk",
+  "local_title": "English Standard Version 2016",
+  "local_abbreviation": "ESV",
+  "version_id": 59,
+  "publisher": {
+    "name": "Crossway / Good News Publishers"
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+    "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "HAB.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habakkuk 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habakkuk 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahum 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "The oracle that Habakkuk the prophet saw."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Habakkuk’s Complaint"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "O Lord, how long shall I cry for help,",
+            "and you will not hear?",
+            "Or cry to you “Violence!”",
+            "and you will not save?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Why do you make me see iniquity,",
+            "and why do you idly look at wrong?",
+            "Destruction and violence are before me;",
+            "strife and contention arise."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "So the law is paralyzed,",
+            "and justice never goes forth.",
+            "For the wicked surround the righteous;",
+            "so justice goes forth perverted."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Lord’s Answer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "“Look among the nations, and see;",
+            "wonder and be astounded.",
+            "For I am doing a work in your days",
+            "that you would not believe if told."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "For behold, I am raising up the Chaldeans,",
+            "that bitter and hasty nation,",
+            "who march through the breadth of the earth,",
+            "to seize dwellings not their own."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "They are dreaded and fearsome;",
+            "their justice and dignity go forth from themselves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Their horses are swifter than leopards,",
+            "more fierce than the evening wolves;",
+            "their horsemen press proudly on.",
+            "Their horsemen come from afar;",
+            "they fly like an eagle swift to devour."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "They all come for violence,",
+            "all their faces forward.",
+            "They gather captives like sand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "At kings they scoff,",
+            "and at rulers they laugh.",
+            "They laugh at every fortress,",
+            "for they pile up earth and take it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Then they sweep by like the wind and go on,",
+            "guilty men, whose own might is their god!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Habakkuk’s Second Complaint"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Are you not from everlasting,",
+            "O Lord my God, my Holy One?",
+            "We shall not die.",
+            "O Lord, you have ordained them as a judgment,",
+            "and you, O Rock, have established them for reproof."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "You who are of purer eyes than to see evil",
+            "and cannot look at wrong,",
+            "why do you idly look at traitors",
+            "and remain silent when the wicked swallows up",
+            "the man more righteous than he?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "You make mankind like the fish of the sea,",
+            "like crawling things that have no ruler."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "He brings all of them up with a hook;",
+            "he drags them out with his net;",
+            "he gathers them in his dragnet;",
+            "so he rejoices and is glad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Therefore he sacrifices to his net",
+            "and makes offerings to his dragnet;",
+            "for by them he lives in luxury,",
+            "and his food is rich."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Is he then to keep on emptying his net",
+            "and mercilessly killing nations forever?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habakkuk 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habakkuk 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habakkuk 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "I will take my stand at my watchpost",
+            "and station myself on the tower,",
+            "and look out to see what he will say to me,",
+            "and what I will answer concerning my complaint."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Righteous Shall Live by His Faith"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "And the Lord answered me:",
+            "“Write the vision;",
+            "make it plain on tablets,",
+            "so he may run who reads it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "For still the vision awaits its appointed time;",
+            "it hastens to the end—it will not lie.",
+            "If it seems slow, wait for it;",
+            "it will surely come; it will not delay."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "“Behold, his soul is puffed up; it is not upright within him,",
+            "but the righteous shall live by his faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "“Moreover, wine is a traitor,",
+            "an arrogant man who is never at rest.",
+            "His greed is as wide as Sheol;",
+            "like death he has never enough.",
+            "He gathers for himself all nations",
+            "and collects as his own all peoples.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Woe to the Chaldeans"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Shall not all these take up their taunt against him, with scoffing and riddles for him, and say,",
+            "“Woe to him who heaps up what is not his own—",
+            "for how long?—",
+            "and loads himself with pledges!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Will not your debtors suddenly arise,",
+            "and those awake who will make you tremble?",
+            "Then you will be spoil for them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Because you have plundered many nations,",
+            "all the remnant of the peoples shall plunder you,",
+            "for the blood of man and violence to the earth,",
+            "to cities and all who dwell in them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "“Woe to him who gets evil gain for his house,",
+            "to set his nest on high,",
+            "to be safe from the reach of harm!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "You have devised shame for your house",
+            "by cutting off many peoples;",
+            "you have forfeited your life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "For the stone will cry out from the wall,",
+            "and the beam from the woodwork respond."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "“Woe to him who builds a town with blood",
+            "and founds a city on iniquity!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Behold, is it not from the Lord of hosts",
+            "that peoples labor merely for fire,",
+            "and nations weary themselves for nothing?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "For the earth will be filled",
+            "with the knowledge of the glory of the Lord",
+            "as the waters cover the sea."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "“Woe to him who makes his neighbors drink—",
+            "you pour out your wrath and make them drunk,",
+            "in order to gaze at their nakedness!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "You will have your fill of shame instead of glory.",
+            "Drink, yourself, and show your uncircumcision!",
+            "The cup in the Lord’s right hand",
+            "will come around to you,",
+            "and utter shame will come upon your glory!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "The violence done to Lebanon will overwhelm you,",
+            "as will the destruction of the beasts that terrified them,",
+            "for the blood of man and violence to the earth,",
+            "to cities and all who dwell in them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "“What profit is an idol",
+            "when its maker has shaped it,",
+            "a metal image, a teacher of lies?",
+            "For its maker trusts in his own creation",
+            "when he makes speechless idols!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Woe to him who says to a wooden thing, Awake;",
+            "to a silent stone, Arise!",
+            "Can this teach?",
+            "Behold, it is overlaid with gold and silver,",
+            "and there is no breath at all in it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "But the Lord is in his holy temple;",
+            "let all the earth keep silence before him.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habakkuk 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Zephaniah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habakkuk 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Habakkuk’s Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "A prayer of Habakkuk the prophet, according to Shigionoth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "O Lord, I have heard the report of you,",
+            "and your work, O Lord, do I fear.",
+            "In the midst of the years revive it;",
+            "in the midst of the years make it known;",
+            "in wrath remember mercy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "God came from Teman,",
+            "and the Holy One from Mount Paran. Selah",
+            "His splendor covered the heavens,",
+            "and the earth was full of his praise."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "His brightness was like the light;",
+            "rays flashed from his hand;",
+            "and there he veiled his power."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Before him went pestilence,",
+            "and plague followed at his heels."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "He stood and measured the earth;",
+            "he looked and shook the nations;",
+            "then the eternal mountains were scattered;",
+            "the everlasting hills sank low.",
+            "His were the everlasting ways."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "I saw the tents of Cushan in affliction;",
+            "the curtains of the land of Midian did tremble."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Was your wrath against the rivers, O Lord?",
+            "Was your anger against the rivers,",
+            "or your indignation against the sea,",
+            "when you rode on your horses,",
+            "on your chariot of salvation?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "You stripped the sheath from your bow,",
+            "calling for many arrows. Selah",
+            "You split the earth with rivers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "The mountains saw you and writhed;",
+            "the raging waters swept on;",
+            "the deep gave forth its voice;",
+            "it lifted its hands on high."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "The sun and moon stood still in their place",
+            "at the light of your arrows as they sped,",
+            "at the flash of your glittering spear."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "You marched through the earth in fury;",
+            "you threshed the nations in anger."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "You went out for the salvation of your people,",
+            "for the salvation of your anointed.",
+            "You crushed the head of the house of the wicked,",
+            "laying him bare from thigh to neck. Selah"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "You pierced with his own arrows the heads of his warriors,",
+            "who came like a whirlwind to scatter me,",
+            "rejoicing as if to devour the poor in secret."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "You trampled the sea with your horses,",
+            "the surging of mighty waters."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "I hear, and my body trembles;",
+            "my lips quiver at the sound;",
+            "rottenness enters into my bones;",
+            "my legs tremble beneath me.",
+            "Yet I will quietly wait for the day of trouble",
+            "to come upon people who invade us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Habakkuk Rejoices in the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Though the fig tree should not blossom,",
+            "nor fruit be on the vines,",
+            "the produce of the olive fail",
+            "and the fields yield no food,",
+            "the flock be cut off from the fold",
+            "and there be no herd in the stalls,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "yet I will rejoice in the Lord;",
+            "I will take joy in the God of my salvation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "God, the Lord, is my strength;",
+            "he makes my feet like the deer’s;",
+            "he makes me tread on my high places.",
+            "To the choirmaster: with stringed instruments."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

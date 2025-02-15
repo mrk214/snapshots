@@ -1,0 +1,335 @@
+{
+  "book_usfm": "PHM",
+  "name": "Philemon",
+  "local_title": "New Living Translation",
+  "local_abbreviation": "NLT",
+  "version_id": 116,
+  "publisher": {
+    "name": "Tyndale House Publishers Inc."
+  },
+  "copyright": {
+    "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+    "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "PHM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHM.1"
+        ],
+        "human": "Philemon 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HEB.1"
+        ],
+        "human": "Hebrews 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Titus 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Greetings from Paul"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "This letter is from Paul, a prisoner for preaching the Good News about Christ Jesus, and from our brother Timothy.",
+            "I am writing to Philemon, our beloved co-worker,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "and to our sister Apphia, and to our fellow soldier Archippus, and to the church that meets in your house."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "May God our Father and the Lord Jesus Christ give you grace and peace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Paul’s Thanksgiving and Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "I always thank my God when I pray for you, Philemon,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "because I keep hearing about your faith in the Lord Jesus and your love for all of God’s people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "And I am praying that you will put into action the generosity that comes from your faith as you understand and experience all the good things we have in Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Your love has given me much joy and comfort, my brother, for your kindness has often refreshed the hearts of God’s people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Paul’s Appeal for Onesimus"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "That is why I am boldly asking a favor of you. I could demand it in the name of Christ because it is the right thing for you to do."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "But because of our love, I prefer simply to ask you. Consider this as a request from me—Paul, an old man and now also a prisoner for the sake of Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "I appeal to you to show kindness to my child, Onesimus. I became his father in the faith while here in prison."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Onesimus hasn’t been of much use to you in the past, but now he is very useful to both of us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "I am sending him back to you, and with him comes my own heart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "I wanted to keep him here with me while I am in these chains for preaching the Good News, and he would have helped me on your behalf."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "But I didn’t want to do anything without your consent. I wanted you to help because you were willing, not because you were forced."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "It seems you lost Onesimus for a little while so that you could have him back forever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "He is no longer like a slave to you. He is more than a slave, for he is a beloved brother, especially to me. Now he will mean much more to you, both as a man and as a brother in the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "So if you consider me your partner, welcome him as you would welcome me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "If he has wronged you in any way or owes you anything, charge it to me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "I, Paul, write this with my own hand: I will repay it. And I won’t mention that you owe me your very soul!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Yes, my brother, please do me this favor for the Lord’s sake. Give me this encouragement in Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "I am confident as I write this letter that you will do what I ask and even more!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "One more thing—please prepare a guest room for me, for I am hoping that God will answer your prayers and let me return to you soon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Paul’s Final Greetings"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "Epaphras, my fellow prisoner in Christ Jesus, sends you his greetings."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "So do Mark, Aristarchus, Demas, and Luke, my co-workers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "May the grace of the Lord Jesus Christ be with your spirit."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

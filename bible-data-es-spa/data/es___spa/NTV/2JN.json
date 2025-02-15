@@ -1,0 +1,206 @@
+{
+  "book_usfm": "2JN",
+  "name": "2 Juan",
+  "local_title": "Nueva Traducción Viviente",
+  "local_abbreviation": "NTV",
+  "version_id": 127,
+  "publisher": {
+    "name": "Tyndale House Publishers Inc."
+  },
+  "copyright": {
+    "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+    "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "2JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 Juan 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 Juan 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1JN.5"
+        ],
+        "human": "1 Juan 5",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Saludos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Yo, Juan, el anciano, les escribo esta carta a la señora elegida y a sus hijos, a quienes amo en la verdad —y no solo yo sino también todos los que conocen la verdad—,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "porque la verdad vive en nosotros y estará con nosotros para siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "La gracia, la misericordia y la paz que provienen de Dios Padre y de Jesucristo —el Hijo del Padre— permanecerán con nosotros, los que vivimos en la verdad y el amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Vivan en la verdad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "¡Qué contento me puse al encontrarme con algunos de tus hijos y ver que viven de acuerdo con la verdad, tal como el Padre lo ordenó!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Les escribo para recordarles, queridos amigos, que nos amemos unos a otros. Este mandamiento no es nuevo, sino que lo hemos tenido desde el principio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "El amor consiste en hacer lo que Dios nos ha ordenado, y él nos ha ordenado que nos amemos unos a otros, tal como ustedes lo oyeron desde el principio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Les digo esto, porque muchos engañadores han salido por el mundo. Ellos niegan que Jesucristo vino en un cuerpo humano. Tales personas son engañadores y anticristos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Tengan cuidado de no perder lo que hemos logrado con tanto trabajo. Sean diligentes para que reciban una recompensa completa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Todo el que se desvía de esta enseñanza no tiene ninguna relación con Dios; pero el que permanece en la enseñanza de Cristo tiene una relación tanto con el Padre como con el Hijo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Si a sus reuniones llegara alguien que no enseña la verdad acerca de Cristo, no lo inviten a su casa ni le den ninguna clase de apoyo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Cualquiera que apoye a ese tipo de gente se hace cómplice de sus malas acciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Conclusión"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Tengo mucho más que decirles, pero no quiero hacerlo con papel y tinta. Pues espero visitarlos pronto y hablarles cara a cara. Entonces nuestra alegría será completa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Recibe saludos de los hijos de tu hermana, la elegida por Dios."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

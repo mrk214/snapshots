@@ -1,0 +1,626 @@
+{
+  "book_usfm": "2TH",
+  "name": "2 Tesalonicenses",
+  "local_title": "Reina Valera Actualizada",
+  "local_abbreviation": "RVA2015",
+  "version_id": 1782,
+  "publisher": {
+    "name": "Editorial Mundo Hispano"
+  },
+  "copyright": {
+    "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+    "text": "Copyright © 2015 by Editorial Mundo Hispano"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "2TH.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.1"
+        ],
+        "human": "2 Tesalonicenses 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Tesalonicenses 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.5"
+        ],
+        "human": "1 Tesalonicenses 5",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Pablo, Silas y Timoteo a la iglesia de los tesalonicenses en Dios nuestro Padre y en el Señor Jesucristo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Gracia a ustedes y paz de parte de Dios nuestro Padre y del Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Fidelidad en medio de la tribulación"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Siempre debemos dar gracias a Dios por ustedes, hermanos, como es digno, por cuanto su fe va creciendo sobremanera y abunda el amor de cada uno para con los demás;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "tanto que nosotros mismos nos gloriamos de ustedes en las iglesias de Dios a causa de su perseverancia y fe en todas las persecuciones y aflicciones que están soportando."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Esto da muestra evidente del justo juicio de Dios, para que sean tenidos por dignos del reino de Dios, por el cual también están padeciendo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La recompensa en la venida de Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "De hecho, es justo delante de Dios retribuir con aflicción a los que los afligen"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "y retribuir con descanso, junto con nosotros, a ustedes que son afligidos. Esto sucederá cuando el Señor Jesús con sus poderosos ángeles se manifieste desde el cielo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "en llama de fuego para dar retribución a los que no han conocido a Dios y a los que no obedecen el evangelio de nuestro Señor Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Ellos serán castigados con eterna perdición, excluidos de la presencia del Señor y de la gloria de su poder,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "cuando él venga en aquel día para ser glorificado en sus santos y ser admirado por todos los que creyeron; porque nuestro testimonio ha sido creído entre ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Con este fin oramos siempre por ustedes: para que nuestro Dios los haga dignos de su llamamiento y que él cumpla todo buen propósito y toda obra de fe con poder"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "de manera que el nombre de nuestro Señor Jesús sea glorificado en ustedes, y ustedes en él, según la gracia de nuestro Dios y del Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TH.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Tesalonicenses 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TH.3"
+        ],
+        "human": "2 Tesalonicenses 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TH.1"
+        ],
+        "human": "2 Tesalonicenses 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "El hombre de iniquidad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Ahora, con respecto a la venida de nuestro Señor Jesucristo y nuestra reunión con él, les rogamos, hermanos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "que no sean movidos fácilmente de su modo de pensar ni sean alarmados ni por espíritu ni por palabra ni por carta como si fuera nuestra, como que ya hubiera llegado el día del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Nadie los engañe de ninguna manera; porque esto no sucederá sin que venga primero la apostasía y se manifieste el hombre de iniquidad, el hijo de perdición."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Este se opondrá y se alzará contra todo lo que se llama Dios o que se adora, tanto que se sentará en el templo de Dios haciéndose pasar por Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "¿No se acuerdan de que mientras yo estaba todavía con ustedes les decía esto?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Ahora saben qué lo detiene, a fin de que a su debido tiempo él sea revelado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Porque ya está obrando el misterio de la iniquidad; solamente espera hasta que sea quitado de en medio el que ahora lo detiene."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Y entonces será manifestado aquel inicuo, a quien el Señor Jesús matará con el soplo de su boca y destruirá con el resplandor de su venida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "El advenimiento del inicuo es por operación de Satanás, con todo poder, señales y prodigios falsos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "y con todo engaño de injusticia entre los que perecen por cuanto no recibieron el amor de la verdad para ser salvos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Por esto, Dios les enviará una fuerza de engaño para que crean la mentira,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "a fin de que sean condenados todos los que no creyeron a la verdad sino que se complacieron en la injusticia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La buena esperanza de los creyentes"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Pero nosotros debemos dar gracias a Dios siempre por ustedes, hermanos amados del Señor, de que Dios los haya escogido desde el principio para salvación, por la santificación del Espíritu y fe en la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Con este fin los llamó Dios por medio de nuestro evangelio para alcanzar la gloria de nuestro Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Así que, hermanos, estén firmes y retengan las doctrinas en que han sido enseñados, sea por palabra o por carta nuestra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Y el mismo Señor nuestro Jesucristo, y nuestro Padre Dios quien nos amó y por gracia nos dio eterno consuelo y buena esperanza,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "anime el corazón de ustedes y los confirme en toda obra y palabra buena."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TH.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.3"
+        ],
+        "human": "2 Tesalonicenses 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.1"
+        ],
+        "human": "1 Timoteo 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Tesalonicenses 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Por lo demás, hermanos, oren por nosotros para que la palabra del Señor se difunda rápidamente y sea glorificada, así como sucedió también entre ustedes;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "y que seamos librados de hombres perversos y malos; porque no es de todos la fe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Pero fiel es el Señor, que los establecerá y los guardará del mal."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Tenemos confianza en el Señor en cuanto a ustedes, que hacen y harán lo que les mandamos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "¡El Señor dirija el corazón de ustedes hacia el amor de Dios y la paciencia de Cristo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "El deber de trabajar"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Sin embargo, les mandamos, hermanos, en el nombre de nuestro Señor Jesucristo, que se aparten de todo hermano que ande desordenadamente y no conforme a la doctrina que recibieron de parte nuestra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Ustedes mismos saben de qué manera deben imitarnos, porque no hemos vivido desordenadamente entre ustedes"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "ni hemos comido de balde el pan de nadie. Más bien, trabajamos arduamente hasta la fatiga, de noche y de día, para no serles gravosos a ninguno de ustedes;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "no porque no tuviéramos autoridad sino para darles en nuestras personas un ejemplo a imitar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Aún estando con ustedes los amonestábamos así: que si alguno no quiere trabajar, tampoco coma."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Porque hemos oído que algunos andan desordenadamente entre ustedes, sin trabajar en nada sino entrometiéndose en lo ajeno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "A los tales les ordenamos y les exhortamos en el Señor Jesucristo que trabajando sosegadamente coman su propio pan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Y ustedes, hermanos, no se cansen de hacer el bien."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Si alguno no obedece nuestra palabra por carta, a ese señálenlo y no tengan trato con él, para que le dé vergüenza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Pero no lo tengan por enemigo sino amonéstenlo como a hermano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Y el mismo Señor de paz les dé siempre paz en toda manera. El Señor sea con todos ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Conclusión"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Este saludo es de mi mano, Pablo. Así es mi firma en todas mis cartas, tal como escribo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "La gracia de nuestro Señor Jesucristo sea con todos ustedes."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

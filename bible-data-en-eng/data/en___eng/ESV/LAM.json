@@ -1,0 +1,2122 @@
+{
+  "book_usfm": "LAM",
+  "name": "Lamentations",
+  "local_title": "English Standard Version 2016",
+  "local_abbreviation": "ESV",
+  "version_id": 59,
+  "publisher": {
+    "name": "Crossway / Good News Publishers"
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+    "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "LAM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.1"
+        ],
+        "human": "Lamentations 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.2"
+        ],
+        "human": "Lamentations 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JER.52"
+        ],
+        "human": "Jeremiah 52",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "How Lonely Sits the City"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "How lonely sits the city",
+            "that was full of people!",
+            "How like a widow has she become,",
+            "she who was great among the nations!",
+            "She who was a princess among the provinces",
+            "has become a slave."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "She weeps bitterly in the night,",
+            "with tears on her cheeks;",
+            "among all her lovers",
+            "she has none to comfort her;",
+            "all her friends have dealt treacherously with her;",
+            "they have become her enemies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Judah has gone into exile because of affliction",
+            "and hard servitude;",
+            "she dwells now among the nations,",
+            "but finds no resting place;",
+            "her pursuers have all overtaken her",
+            "in the midst of her distress."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "The roads to Zion mourn,",
+            "for none come to the festival;",
+            "all her gates are desolate;",
+            "her priests groan;",
+            "her virgins have been afflicted,",
+            "and she herself suffers bitterly."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Her foes have become the head;",
+            "her enemies prosper,",
+            "because the Lord has afflicted her",
+            "for the multitude of her transgressions;",
+            "her children have gone away,",
+            "captives before the foe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "From the daughter of Zion",
+            "all her majesty has departed.",
+            "Her princes have become like deer",
+            "that find no pasture;",
+            "they fled without strength",
+            "before the pursuer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Jerusalem remembers",
+            "in the days of her affliction and wandering",
+            "all the precious things",
+            "that were hers from days of old.",
+            "When her people fell into the hand of the foe,",
+            "and there was none to help her,",
+            "her foes gloated over her;",
+            "they mocked at her downfall."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Jerusalem sinned grievously;",
+            "therefore she became filthy;",
+            "all who honored her despise her,",
+            "for they have seen her nakedness;",
+            "she herself groans",
+            "and turns her face away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Her uncleanness was in her skirts;",
+            "she took no thought of her future;",
+            "therefore her fall is terrible;",
+            "she has no comforter.",
+            "“O Lord, behold my affliction,",
+            "for the enemy has triumphed!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "The enemy has stretched out his hands",
+            "over all her precious things;",
+            "for she has seen the nations",
+            "enter her sanctuary,",
+            "those whom you forbade",
+            "to enter your congregation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "All her people groan",
+            "as they search for bread;",
+            "they trade their treasures for food",
+            "to revive their strength.",
+            "“Look, O Lord, and see,",
+            "for I am despised.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "“Is it nothing to you, all you who pass by?",
+            "Look and see",
+            "if there is any sorrow like my sorrow,",
+            "which was brought upon me,",
+            "which the Lord inflicted",
+            "on the day of his fierce anger."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "“From on high he sent fire;",
+            "into my bones he made it descend;",
+            "he spread a net for my feet;",
+            "he turned me back;",
+            "he has left me stunned,",
+            "faint all the day long."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "“My transgressions were bound into a yoke;",
+            "by his hand they were fastened together;",
+            "they were set upon my neck;",
+            "he caused my strength to fail;",
+            "the Lord gave me into the hands",
+            "of those whom I cannot withstand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "“The Lord rejected",
+            "all my mighty men in my midst;",
+            "he summoned an assembly against me",
+            "to crush my young men;",
+            "the Lord has trodden as in a winepress",
+            "the virgin daughter of Judah."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "“For these things I weep;",
+            "my eyes flow with tears;",
+            "for a comforter is far from me,",
+            "one to revive my spirit;",
+            "my children are desolate,",
+            "for the enemy has prevailed.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Zion stretches out her hands,",
+            "but there is none to comfort her;",
+            "the Lord has commanded against Jacob",
+            "that his neighbors should be his foes;",
+            "Jerusalem has become",
+            "a filthy thing among them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "“The Lord is in the right,",
+            "for I have rebelled against his word;",
+            "but hear, all you peoples,",
+            "and see my suffering;",
+            "my young women and my young men",
+            "have gone into captivity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "“I called to my lovers,",
+            "but they deceived me;",
+            "my priests and elders",
+            "perished in the city,",
+            "while they sought food",
+            "to revive their strength."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "“Look, O Lord, for I am in distress;",
+            "my stomach churns;",
+            "my heart is wrung within me,",
+            "because I have been very rebellious.",
+            "In the street the sword bereaves;",
+            "in the house it is like death."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "“They heard my groaning,",
+            "yet there is no one to comfort me.",
+            "All my enemies have heard of my trouble;",
+            "they are glad that you have done it.",
+            "You have brought the day you announced;",
+            "now let them be as I am."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "“Let all their evildoing come before you,",
+            "and deal with them",
+            "as you have dealt with me",
+            "because of all my transgressions;",
+            "for my groans are many,",
+            "and my heart is faint.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.2"
+        ],
+        "human": "Lamentations 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.3"
+        ],
+        "human": "Lamentations 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.1"
+        ],
+        "human": "Lamentations 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Lord Has Destroyed Without Pity"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "How the Lord in his anger",
+            "has set the daughter of Zion under a cloud!",
+            "He has cast down from heaven to earth",
+            "the splendor of Israel;",
+            "he has not remembered his footstool",
+            "in the day of his anger."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "The Lord has swallowed up without mercy",
+            "all the habitations of Jacob;",
+            "in his wrath he has broken down",
+            "the strongholds of the daughter of Judah;",
+            "he has brought down to the ground in dishonor",
+            "the kingdom and its rulers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "He has cut down in fierce anger",
+            "all the might of Israel;",
+            "he has withdrawn from them his right hand",
+            "in the face of the enemy;",
+            "he has burned like a flaming fire in Jacob,",
+            "consuming all around."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "He has bent his bow like an enemy,",
+            "with his right hand set like a foe;",
+            "and he has killed all who were delightful in our eyes",
+            "in the tent of the daughter of Zion;",
+            "he has poured out his fury like fire."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "The Lord has become like an enemy;",
+            "he has swallowed up Israel;",
+            "he has swallowed up all its palaces;",
+            "he has laid in ruins its strongholds,",
+            "and he has multiplied in the daughter of Judah",
+            "mourning and lamentation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "He has laid waste his booth like a garden,",
+            "laid in ruins his meeting place;",
+            "the Lord has made Zion forget",
+            "festival and Sabbath,",
+            "and in his fierce indignation has spurned king and priest."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "The Lord has scorned his altar,",
+            "disowned his sanctuary;",
+            "he has delivered into the hand of the enemy",
+            "the walls of her palaces;",
+            "they raised a clamor in the house of the Lord",
+            "as on the day of festival."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "The Lord determined to lay in ruins",
+            "the wall of the daughter of Zion;",
+            "he stretched out the measuring line;",
+            "he did not restrain his hand from destroying;",
+            "he caused rampart and wall to lament;",
+            "they languished together."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Her gates have sunk into the ground;",
+            "he has ruined and broken her bars;",
+            "her king and princes are among the nations;",
+            "the law is no more,",
+            "and her prophets find",
+            "no vision from the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "The elders of the daughter of Zion",
+            "sit on the ground in silence;",
+            "they have thrown dust on their heads",
+            "and put on sackcloth;",
+            "the young women of Jerusalem",
+            "have bowed their heads to the ground."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "My eyes are spent with weeping;",
+            "my stomach churns;",
+            "my bile is poured out to the ground",
+            "because of the destruction of the daughter of my people,",
+            "because infants and babies faint",
+            "in the streets of the city."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "They cry to their mothers,",
+            "“Where is bread and wine?”",
+            "as they faint like a wounded man",
+            "in the streets of the city,",
+            "as their life is poured out",
+            "on their mothers’ bosom."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "What can I say for you, to what compare you,",
+            "O daughter of Jerusalem?",
+            "What can I liken to you, that I may comfort you,",
+            "O virgin daughter of Zion?",
+            "For your ruin is vast as the sea;",
+            "who can heal you?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Your prophets have seen for you",
+            "false and deceptive visions;",
+            "they have not exposed your iniquity",
+            "to restore your fortunes,",
+            "but have seen for you oracles",
+            "that are false and misleading."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "All who pass along the way",
+            "clap their hands at you;",
+            "they hiss and wag their heads",
+            "at the daughter of Jerusalem:",
+            "“Is this the city that was called",
+            "the perfection of beauty,",
+            "the joy of all the earth?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "All your enemies",
+            "rail against you;",
+            "they hiss, they gnash their teeth,",
+            "they cry: “We have swallowed her!",
+            "Ah, this is the day we longed for;",
+            "now we have it; we see it!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "The Lord has done what he purposed;",
+            "he has carried out his word,",
+            "which he commanded long ago;",
+            "he has thrown down without pity;",
+            "he has made the enemy rejoice over you",
+            "and exalted the might of your foes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Their heart cried to the Lord.",
+            "O wall of the daughter of Zion,",
+            "let tears stream down like a torrent",
+            "day and night!",
+            "Give yourself no rest,",
+            "your eyes no respite!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "“Arise, cry out in the night,",
+            "at the beginning of the night watches!",
+            "Pour out your heart like water",
+            "before the presence of the Lord!",
+            "Lift your hands to him",
+            "for the lives of your children,",
+            "who faint for hunger",
+            "at the head of every street.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Look, O Lord, and see!",
+            "With whom have you dealt thus?",
+            "Should women eat the fruit of their womb,",
+            "the children of their tender care?",
+            "Should priest and prophet be killed",
+            "in the sanctuary of the Lord?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "In the dust of the streets",
+            "lie the young and the old;",
+            "my young women and my young men",
+            "have fallen by the sword;",
+            "you have killed them in the day of your anger,",
+            "slaughtering without pity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "You summoned as if to a festival day",
+            "my terrors on every side,",
+            "and on the day of the anger of the Lord",
+            "no one escaped or survived;",
+            "those whom I held and raised",
+            "my enemy destroyed."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.3"
+        ],
+        "human": "Lamentations 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.4"
+        ],
+        "human": "Lamentations 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.2"
+        ],
+        "human": "Lamentations 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Great Is Your Faithfulness"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "I am the man who has seen affliction",
+            "under the rod of his wrath;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "he has driven and brought me",
+            "into darkness without any light;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "surely against me he turns his hand",
+            "again and again the whole day long."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "He has made my flesh and my skin waste away;",
+            "he has broken my bones;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "he has besieged and enveloped me",
+            "with bitterness and tribulation;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "he has made me dwell in darkness",
+            "like the dead of long ago."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "He has walled me about so that I cannot escape;",
+            "he has made my chains heavy;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "though I call and cry for help,",
+            "he shuts out my prayer;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "he has blocked my ways with blocks of stones;",
+            "he has made my paths crooked."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "He is a bear lying in wait for me,",
+            "a lion in hiding;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "he turned aside my steps and tore me to pieces;",
+            "he has made me desolate;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "he bent his bow and set me",
+            "as a target for his arrow."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "He drove into my kidneys",
+            "the arrows of his quiver;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "I have become the laughingstock of all peoples,",
+            "the object of their taunts all day long."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "He has filled me with bitterness;",
+            "he has sated me with wormwood."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "He has made my teeth grind on gravel,",
+            "and made me cower in ashes;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "my soul is bereft of peace;",
+            "I have forgotten what happiness is;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "so I say, “My endurance has perished;",
+            "so has my hope from the Lord.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Remember my affliction and my wanderings,",
+            "the wormwood and the gall!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "My soul continually remembers it",
+            "and is bowed down within me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "But this I call to mind,",
+            "and therefore I have hope:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "The steadfast love of the Lord never ceases;",
+            "his mercies never come to an end;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "they are new every morning;",
+            "great is your faithfulness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "“The Lord is my portion,” says my soul,",
+            "“therefore I will hope in him.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "The Lord is good to those who wait for him,",
+            "to the soul who seeks him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "It is good that one should wait quietly",
+            "for the salvation of the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "It is good for a man that he bear",
+            "the yoke in his youth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            28
+          ],
+          "lines": [
+            "Let him sit alone in silence",
+            "when it is laid on him;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            29
+          ],
+          "lines": [
+            "let him put his mouth in the dust—",
+            "there may yet be hope;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            30
+          ],
+          "lines": [
+            "let him give his cheek to the one who strikes,",
+            "and let him be filled with insults."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            31
+          ],
+          "lines": [
+            "For the Lord will not",
+            "cast off forever,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            32
+          ],
+          "lines": [
+            "but, though he cause grief, he will have compassion",
+            "according to the abundance of his steadfast love;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            33
+          ],
+          "lines": [
+            "for he does not afflict from his heart",
+            "or grieve the children of men."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            34
+          ],
+          "lines": [
+            "To crush underfoot",
+            "all the prisoners of the earth,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            35
+          ],
+          "lines": [
+            "to deny a man justice",
+            "in the presence of the Most High,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            36
+          ],
+          "lines": [
+            "to subvert a man in his lawsuit,",
+            "the Lord does not approve."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            37
+          ],
+          "lines": [
+            "Who has spoken and it came to pass,",
+            "unless the Lord has commanded it?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            38
+          ],
+          "lines": [
+            "Is it not from the mouth of the Most High",
+            "that good and bad come?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            39
+          ],
+          "lines": [
+            "Why should a living man complain,",
+            "a man, about the punishment of his sins?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            40
+          ],
+          "lines": [
+            "Let us test and examine our ways,",
+            "and return to the Lord!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            41
+          ],
+          "lines": [
+            "Let us lift up our hearts and hands",
+            "to God in heaven:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            42
+          ],
+          "lines": [
+            "“We have transgressed and rebelled,",
+            "and you have not forgiven."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            43
+          ],
+          "lines": [
+            "“You have wrapped yourself with anger and pursued us,",
+            "killing without pity;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            44
+          ],
+          "lines": [
+            "you have wrapped yourself with a cloud",
+            "so that no prayer can pass through."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            45
+          ],
+          "lines": [
+            "You have made us scum and garbage",
+            "among the peoples."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            46
+          ],
+          "lines": [
+            "“All our enemies",
+            "open their mouths against us;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            47
+          ],
+          "lines": [
+            "panic and pitfall have come upon us,",
+            "devastation and destruction;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            48
+          ],
+          "lines": [
+            "my eyes flow with rivers of tears",
+            "because of the destruction of the daughter of my people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            49
+          ],
+          "lines": [
+            "“My eyes will flow without ceasing,",
+            "without respite,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            50
+          ],
+          "lines": [
+            "until the Lord from heaven",
+            "looks down and sees;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            51
+          ],
+          "lines": [
+            "my eyes cause me grief",
+            "at the fate of all the daughters of my city."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            52
+          ],
+          "lines": [
+            "“I have been hunted like a bird",
+            "by those who were my enemies without cause;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            53
+          ],
+          "lines": [
+            "they flung me alive into the pit",
+            "and cast stones on me;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            54
+          ],
+          "lines": [
+            "water closed over my head;",
+            "I said, ‘I am lost.’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            55
+          ],
+          "lines": [
+            "“I called on your name, O Lord,",
+            "from the depths of the pit;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            56
+          ],
+          "lines": [
+            "you heard my plea, ‘Do not close",
+            "your ear to my cry for help!’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            57
+          ],
+          "lines": [
+            "You came near when I called on you;",
+            "you said, ‘Do not fear!’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            58
+          ],
+          "lines": [
+            "“You have taken up my cause, O Lord;",
+            "you have redeemed my life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            59
+          ],
+          "lines": [
+            "You have seen the wrong done to me, O Lord;",
+            "judge my cause."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            60
+          ],
+          "lines": [
+            "You have seen all their vengeance,",
+            "all their plots against me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            61
+          ],
+          "lines": [
+            "“You have heard their taunts, O Lord,",
+            "all their plots against me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            62
+          ],
+          "lines": [
+            "The lips and thoughts of my assailants",
+            "are against me all the day long."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            63
+          ],
+          "lines": [
+            "Behold their sitting and their rising;",
+            "I am the object of their taunts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            64
+          ],
+          "lines": [
+            "“You will repay them, O Lord,",
+            "according to the work of their hands."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            65
+          ],
+          "lines": [
+            "You will give them dullness of heart;",
+            "your curse will be on them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            66
+          ],
+          "lines": [
+            "You will pursue them in anger and destroy them",
+            "from under your heavens, O Lord.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.4"
+        ],
+        "human": "Lamentations 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.5"
+        ],
+        "human": "Lamentations 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.3"
+        ],
+        "human": "Lamentations 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Holy Stones Lie Scattered"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "How the gold has grown dim,",
+            "how the pure gold is changed!",
+            "The holy stones lie scattered",
+            "at the head of every street."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "The precious sons of Zion,",
+            "worth their weight in fine gold,",
+            "how they are regarded as earthen pots,",
+            "the work of a potter’s hands!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Even jackals offer the breast;",
+            "they nurse their young;",
+            "but the daughter of my people has become cruel,",
+            "like the ostriches in the wilderness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "The tongue of the nursing infant sticks",
+            "to the roof of its mouth for thirst;",
+            "the children beg for food,",
+            "but no one gives to them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Those who once feasted on delicacies",
+            "perish in the streets;",
+            "those who were brought up in purple",
+            "embrace ash heaps."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "For the chastisement of the daughter of my people has been greater",
+            "than the punishment of Sodom,",
+            "which was overthrown in a moment,",
+            "and no hands were wrung for her."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Her princes were purer than snow,",
+            "whiter than milk;",
+            "their bodies were more ruddy than coral,",
+            "the beauty of their form was like sapphire."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Now their face is blacker than soot;",
+            "they are not recognized in the streets;",
+            "their skin has shriveled on their bones;",
+            "it has become as dry as wood."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Happier were the victims of the sword",
+            "than the victims of hunger,",
+            "who wasted away, pierced",
+            "by lack of the fruits of the field."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "The hands of compassionate women",
+            "have boiled their own children;",
+            "they became their food",
+            "during the destruction of the daughter of my people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "The Lord gave full vent to his wrath;",
+            "he poured out his hot anger,",
+            "and he kindled a fire in Zion",
+            "that consumed its foundations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "The kings of the earth did not believe,",
+            "nor any of the inhabitants of the world,",
+            "that foe or enemy could enter",
+            "the gates of Jerusalem."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "This was for the sins of her prophets",
+            "and the iniquities of her priests,",
+            "who shed in the midst of her",
+            "the blood of the righteous."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "They wandered, blind, through the streets;",
+            "they were so defiled with blood",
+            "that no one was able to touch",
+            "their garments."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "“Away! Unclean!” people cried at them.",
+            "“Away! Away! Do not touch!”",
+            "So they became fugitives and wanderers;",
+            "people said among the nations,",
+            "“They shall stay with us no longer.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "The Lord himself has scattered them;",
+            "he will regard them no more;",
+            "no honor was shown to the priests,",
+            "no favor to the elders."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Our eyes failed, ever watching",
+            "vainly for help;",
+            "in our watching we watched",
+            "for a nation which could not save."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "They dogged our steps",
+            "so that we could not walk in our streets;",
+            "our end drew near; our days were numbered,",
+            "for our end had come."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Our pursuers were swifter",
+            "than the eagles in the heavens;",
+            "they chased us on the mountains;",
+            "they lay in wait for us in the wilderness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "The breath of our nostrils, the Lord’s anointed,",
+            "was captured in their pits,",
+            "of whom we said, “Under his shadow",
+            "we shall live among the nations.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Rejoice and be glad, O daughter of Edom,",
+            "you who dwell in the land of Uz;",
+            "but to you also the cup shall pass;",
+            "you shall become drunk and strip yourself bare."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "The punishment of your iniquity, O daughter of Zion, is accomplished;",
+            "he will keep you in exile no longer;",
+            "but your iniquity, O daughter of Edom, he will punish;",
+            "he will uncover your sins."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.5"
+        ],
+        "human": "Lamentations 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EZK.1"
+        ],
+        "human": "Ezekiel 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.4"
+        ],
+        "human": "Lamentations 4",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Restore Us to Yourself, O Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Remember, O Lord, what has befallen us;",
+            "look, and see our disgrace!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Our inheritance has been turned over to strangers,",
+            "our homes to foreigners."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "We have become orphans, fatherless;",
+            "our mothers are like widows."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "We must pay for the water we drink;",
+            "the wood we get must be bought."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Our pursuers are at our necks;",
+            "we are weary; we are given no rest."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "We have given the hand to Egypt, and to Assyria,",
+            "to get bread enough."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Our fathers sinned, and are no more;",
+            "and we bear their iniquities."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Slaves rule over us;",
+            "there is none to deliver us from their hand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "We get our bread at the peril of our lives,",
+            "because of the sword in the wilderness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Our skin is hot as an oven",
+            "with the burning heat of famine."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Women are raped in Zion,",
+            "young women in the towns of Judah."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Princes are hung up by their hands;",
+            "no respect is shown to the elders."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Young men are compelled to grind at the mill,",
+            "and boys stagger under loads of wood."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "The old men have left the city gate,",
+            "the young men their music."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "The joy of our hearts has ceased;",
+            "our dancing has been turned to mourning."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "The crown has fallen from our head;",
+            "woe to us, for we have sinned!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "For this our heart has become sick,",
+            "for these things our eyes have grown dim,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "for Mount Zion which lies desolate;",
+            "jackals prowl over it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "But you, O Lord, reign forever;",
+            "your throne endures to all generations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Why do you forget us forever,",
+            "why do you forsake us for so many days?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Restore us to yourself, O Lord, that we may be restored!",
+            "Renew our days as of old—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "unless you have utterly rejected us,",
+            "and you remain exceedingly angry with us."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

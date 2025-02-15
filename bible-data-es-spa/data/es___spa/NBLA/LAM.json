@@ -1,0 +1,2109 @@
+{
+  "book_usfm": "LAM",
+  "name": "Lamentaciones",
+  "local_title": "Nueva Biblia de las Américas",
+  "local_abbreviation": "NBLA",
+  "version_id": 103,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+    "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "LAM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.1"
+        ],
+        "human": "Lamentaciones 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.2"
+        ],
+        "human": "Lamentaciones 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JER.52"
+        ],
+        "human": "Jeremías 52",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Tristezas de Sión"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¡Cómo yace solitaria",
+            "La ciudad de tanta gente!",
+            "¡Se ha vuelto como una viuda",
+            "La grande entre las naciones!",
+            "¡La princesa entre las provincias",
+            "Se ha convertido en tributaria!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Llora amargamente en la noche,",
+            "Y le corren las lágrimas por sus mejillas.",
+            "No hay quien la consuele",
+            "Entre todos sus amantes.",
+            "Todos sus amigos la han traicionado,",
+            "Se han convertido en sus enemigos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Judá ha ido al destierro bajo aflicción",
+            "Y bajo dura servidumbre.",
+            "Ella habita entre las naciones,",
+            "Pero no halla descanso;",
+            "Todos sus perseguidores la han alcanzado",
+            "En medio de la angustia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Los caminos de Sión están de luto,",
+            "Porque nadie viene a las fiestas solemnes.",
+            "Todas sus puertas están desoladas;",
+            "Gimen sus sacerdotes,",
+            "Sus vírgenes están afligidas,",
+            "Y ella misma está amargada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Sus adversarios se han convertido en sus amos,",
+            "Sus enemigos prosperan,",
+            "Porque el Señor la ha afligido",
+            "Por la multitud de sus transgresiones;",
+            "Sus niños han ido cautivos",
+            "Delante del adversario."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "De la hija de Sión se ha ido",
+            "Todo su esplendor.",
+            "Sus príncipes son como ciervos",
+            "Que no hallan pasto,",
+            "Y huyen sin fuerzas",
+            "Delante del perseguidor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Jerusalén recuerda en los días de su aflicción y de su vagar",
+            "Todos sus tesoros",
+            "Que existían desde los tiempos antiguos,",
+            "Cuando su pueblo cayó en mano del adversario",
+            "Sin que nadie la ayudara.",
+            "Al verla sus adversarios,",
+            "Se burlaron de su ruina."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "En gran manera ha pecado Jerusalén,",
+            "Por lo cual se ha vuelto cosa inmunda.",
+            "Todos los que la honraban la desprecian",
+            "Porque han visto su desnudez,",
+            "Y ella gime y se vuelve de espaldas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Su inmundicia está en sus faldas;",
+            "No consideró su futuro,",
+            "Por tanto ha caído de manera sorprendente;",
+            "No hay quien la consuele.",
+            "«Mira, oh Señor, mi aflicción,",
+            "Porque se ha engrandecido el enemigo»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "El adversario ha extendido su mano",
+            "A todos sus tesoros;",
+            "Ciertamente ella ha visto a las naciones entrar en su santuario,",
+            "A las que Tú ordenaste",
+            "Que no entraran en Tu congregación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Todo su pueblo gime buscando pan;",
+            "Han dado sus tesoros a cambio de comida",
+            "Para restaurar sus vidas.",
+            "«Mira, oh Señor, y observa",
+            "Que me están despreciando»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "«Ustedes, todos los que pasan por el camino, ¿no les importa esto?",
+            "Observen y vean si hay dolor como mi dolor,",
+            "Con el que fui atormentada,",
+            "Con el que el Señor me afligió el día de Su ardiente ira."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "-»Desde lo alto Él envió fuego",
+            "Que penetró en mis huesos.",
+            "Ha tendido una red a mis pies,",
+            "Me ha hecho volver atrás;",
+            "Me ha dejado desolada,",
+            "Desfallecida todo el día."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "-»Atado ha sido el yugo de mis transgresiones,",
+            "Por la mano del Señor han sido entrelazadas,",
+            "Han caído sobre mi cuello.",
+            "Él ha hecho que me falten las fuerzas;",
+            "El Señor me ha entregado en manos",
+            "Contra las cuales no puedo resistir."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "-»A todos mis valientes ha rechazado el Señor",
+            "De en medio de mí;",
+            "Ha convocado contra mí un tiempo determinado",
+            "Para quebrantar a mis jóvenes;",
+            "El Señor ha pisoteado, como en un lagar,",
+            "A la virgen hija de Judá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "-»Por estas cosas lloro yo;",
+            "Mis ojos derraman agua,",
+            "Porque lejos de mí está el consolador,",
+            "El que reanima mi alma.",
+            "Mis hijos están desolados",
+            "Porque ha prevalecido el enemigo»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Sión extiende sus manos;",
+            "No hay quien la consuele.",
+            "El Señor ha ordenado contra Jacob",
+            "Que los que lo rodean sean sus adversarios;",
+            "Jerusalén se ha vuelto cosa inmunda en medio de ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "«El Señor es justo,",
+            "Pues me he rebelado contra Su mandamiento.",
+            "Oigan ahora, pueblos todos,",
+            "Y vean mi dolor:",
+            "Mis vírgenes y mis jóvenes",
+            "Han ido al cautiverio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "-»Llamé a mis amantes, mas ellos me han engañado.",
+            "Mis sacerdotes y mis ancianos han perecido en la ciudad,",
+            "Cuando buscaban alimento para sí a fin de restaurar sus fuerzas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "-»Mira, oh Señor, que estoy angustiada;",
+            "Hierven mis entrañas,",
+            "Mi corazón se revuelve dentro de mí,",
+            "Porque he sido muy rebelde.",
+            "En la calle la espada me deja sin hijos,",
+            "En la casa es como la muerte."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "-»Han oído que gimo,",
+            "Pero no hay quien me consuele.",
+            "Todos mis enemigos han oído de mi mal,",
+            "Se regocijan de que Tú lo hayas hecho.",
+            "¡Oh, si Tú trajeras el día que has anunciado,",
+            "Para que sean ellos como yo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "-»Venga toda su maldad delante de Ti,",
+            "Y trátalos como a mí me has tratado",
+            "Por todas mis transgresiones;",
+            "Porque son muchos mis gemidos y desfallece mi corazón»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.2"
+        ],
+        "human": "Lamentaciones 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.3"
+        ],
+        "human": "Lamentaciones 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.1"
+        ],
+        "human": "Lamentaciones 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Juicio de Dios sobre Sión"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¡Cómo el Señor nubló, en Su ira,",
+            "A la hija de Sión!",
+            "Ha arrojado del cielo a la tierra",
+            "La gloria de Israel,",
+            "Y no se ha acordado del estrado de Sus pies",
+            "En el día de Su ira."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "El Señor ha devorado, no ha perdonado",
+            "Ninguna de las moradas de Jacob.",
+            "Ha derribado en Su furor",
+            "Las fortalezas de la hija de Judá,",
+            "Las ha echado por tierra;",
+            "Ha profanado al reino y a sus príncipes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "En el ardor de Su ira ha exterminado",
+            "Todas las fuerzas de Israel;",
+            "Retiró Su diestra",
+            "En presencia del enemigo;",
+            "Y se ha encendido en Jacob como llamas de fuego",
+            "Devorando todo en derredor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Ha entesado Su arco como enemigo,",
+            "Ha afirmado Su diestra como adversario",
+            "Y ha matado todo lo que era agradable a la vista;",
+            "En la tienda de la hija de Sión",
+            "Ha derramado Su furor como fuego."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Se ha vuelto el Señor como enemigo:",
+            "Ha devorado a Israel,",
+            "Ha devorado todos sus palacios,",
+            "Ha destruido sus fortalezas",
+            "Y ha multiplicado en la hija de Judá",
+            "El lamento y el duelo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Y ha tratado con violencia a Su tabernáculo, como a cabaña de huerto;",
+            "Ha destruido Su lugar de reunión.",
+            "El Señor ha hecho olvidar en Sión",
+            "La fiesta solemne y el día de reposo,",
+            "Y en el furor de Su ira ha rechazado",
+            "Al rey y al sacerdote."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "El Señor ha rechazado Su altar,",
+            "Ha despreciado Su santuario;",
+            "Ha entregado en manos del enemigo",
+            "Los muros de sus palacios.",
+            "Gritos se han dado en la casa del Señor",
+            "Como en día de fiesta solemne."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "El Señor determinó destruir",
+            "La muralla de la hija de Sión;",
+            "Ha extendido el cordel,",
+            "No ha retraído Su mano de destruir,",
+            "Y ha hecho que se lamenten el antemuro y el muro;",
+            "A una desfallecen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Se han hundido en la tierra sus puertas,",
+            "Él ha destruido y quebrado sus cerrojos.",
+            "Su rey y sus príncipes están entre las naciones;",
+            "Ya no hay ley;",
+            "Tampoco sus profetas hallan",
+            "Visión del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Están sentados en tierra, en silencio,",
+            "Los ancianos de la hija de Sión.",
+            "Han echado polvo sobre sus cabezas,",
+            "Se han ceñido de cilicio.",
+            "Han inclinado a tierra sus cabezas",
+            "Las vírgenes de Jerusalén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Mis ojos se consumen por las lágrimas,",
+            "Hierven mis entrañas;",
+            "Mi hiel se derrama por tierra,",
+            "A causa de la destrucción de la hija de mi pueblo,",
+            "Cuando niños y lactantes desfallecen",
+            "En las calles de la ciudad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Dicen a sus madres:",
+            "«¿Dónde hay grano y vino?».",
+            "Mientras desfallecen como heridos",
+            "En las calles de la ciudad,",
+            "Mientras exhalan su espíritu",
+            "En el regazo de sus madres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "¿Cómo he de amonestarte?",
+            "¿A qué te compararé,",
+            "Hija de Jerusalén?",
+            "¿A qué te igualaré al consolarte,",
+            "Virgen hija de Sión?",
+            "Porque grande como el mar es tu ruina;",
+            "¿Quién te podrá sanar?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Tus profetas tuvieron para ti",
+            "Visiones falsas y necias,",
+            "Y no manifestaron tu iniquidad",
+            "Para que regresaras de tu cautiverio,",
+            "Sino que vieron para ti oráculos falsos y engañosos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Baten palmas contra ti",
+            "Todos los que pasan por el camino;",
+            "Silban y mueven sus cabezas",
+            "Contra la hija de Jerusalén, diciendo:",
+            "«¿Es esta la ciudad de la cual decían:",
+            "“La perfección de la hermosura,",
+            "El gozo de toda la tierra?” »."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Han abierto su boca contra ti",
+            "Todos tus enemigos;",
+            "Silban y rechinan los dientes.",
+            "Dicen: «La hemos devorado.",
+            "Ciertamente este es el día que esperábamos;",
+            "Lo hemos alcanzado, lo hemos visto»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "El Señor ha hecho lo que se propuso,",
+            "Ha cumplido Su palabra",
+            "Que había ordenado desde tiempos antiguos.",
+            "Ha derribado sin perdonar,",
+            "Ha hecho que se alegre el enemigo sobre ti,",
+            "Ha exaltado el poder de tus adversarios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "El corazón de ellos clamó al Señor:",
+            "«Muralla de la hija de Sión,",
+            "Corran tus lágrimas como un río día y noche,",
+            "No te des reposo,",
+            "No tengan descanso tus ojos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "-»Levántate, da voces en la noche",
+            "Al comenzar las vigilias.",
+            "Derrama como agua tu corazón",
+            "Ante la presencia del Señor.",
+            "Alza hacia Él tus manos",
+            "Por la vida de tus pequeños,",
+            "Que desfallecen de hambre",
+            "En las esquinas de todas las calles»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Mira, oh Señor, y observa:",
+            "¿A quién has tratado así?",
+            "¿Habían de comerse las mujeres el fruto de sus entrañas,",
+            "A los pequeños criados con cariño?",
+            "¿Habían de ser muertos en el santuario del Señor",
+            "El sacerdote y el profeta?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Yacen por tierra en las calles",
+            "Jóvenes y ancianos;",
+            "Mis vírgenes y mis mancebos",
+            "Han caído a espada.",
+            "Has matado en el día de Tu ira,",
+            "Has hecho matanza, no has perdonado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Como en día de fiesta solemne convocaste",
+            "Mis terrores de todas partes;",
+            "Y no hubo en el día de la ira del Señor",
+            "Quien escapara ni sobreviviera.",
+            "A los que crié y mantuve,",
+            "Mi enemigo los exterminó."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.3"
+        ],
+        "human": "Lamentaciones 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.4"
+        ],
+        "human": "Lamentaciones 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.2"
+        ],
+        "human": "Lamentaciones 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Lamentación del afligido"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Yo soy el hombre que ha visto la aflicción",
+            "A causa de la vara de Su furor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Él me ha llevado y me ha hecho andar",
+            "En tinieblas y no en luz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Ciertamente contra mí ha vuelto y revuelto",
+            "Su mano todo el día."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Ha hecho que se consuman mi carne y mi piel,",
+            "Ha quebrado mis huesos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Me ha sitiado y rodeado",
+            "De amargura y de fatiga."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "En lugares tenebrosos me ha hecho morar,",
+            "Como los que han muerto hace tiempo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Con muro me ha cercado y no puedo salir,",
+            "Ha hecho pesadas mis cadenas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Aun cuando clamo y pido auxilio,",
+            "Él cierra el paso a mi oración."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Ha cerrado mis caminos con piedra labrada,",
+            "Ha hecho tortuosos mis senderos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Él es para mí como oso en acecho,",
+            "Como león en lugares ocultos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Ha desviado mis caminos y me ha destrozado,",
+            "Me ha dejado desolado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Ha tensado Su arco",
+            "Y me ha puesto como blanco de la flecha."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Hizo que penetraran en mis entrañas",
+            "Las flechas de Su aljaba."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "He venido a ser objeto de burla de todo mi pueblo,",
+            "Su canción todo el día."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Él me ha llenado de amargura,",
+            "Me ha embriagado con ajenjo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Ha quebrado con guijarro mis dientes,",
+            "Ha hecho que me revuelque en el polvo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Y mi alma ha sido privada de la paz,",
+            "He olvidado la felicidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Digo, pues: «Se me acabaron las fuerzas,",
+            "Y mi esperanza que venía del Señor»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "¶Acuérdate de mi aflicción y de mi vagar,",
+            "Del ajenjo y de la amargura."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Ciertamente mi alma lo recuerda",
+            "Y se abate mi alma dentro de mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Esto traigo a mi corazón,",
+            "Por esto tengo esperanza:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Que las misericordias del Señor jamás terminan,",
+            "Pues nunca fallan Sus bondades;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "Son nuevas cada mañana;",
+            "¡Grande es Tu fidelidad!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "«El Señor es mi porción», dice mi alma,",
+            "«Por tanto en Él espero»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "Bueno es el Señor para los que en Él esperan,",
+            "Para el alma que lo busca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "Bueno es esperar en silencio",
+            "La salvación del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "Bueno es para el hombre llevar",
+            "El yugo en su juventud."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            28
+          ],
+          "lines": [
+            "Que se siente solo y en silencio",
+            "Ya que Él se lo ha impuesto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            29
+          ],
+          "lines": [
+            "Que ponga su boca en el polvo,",
+            "Quizá haya esperanza;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            30
+          ],
+          "lines": [
+            "Que dé la mejilla al que lo hiere;",
+            "Que se sacie de oprobios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            31
+          ],
+          "lines": [
+            "Porque el Señor no rechaza para siempre,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            32
+          ],
+          "lines": [
+            "Antes bien, si aflige, también se compadecerá",
+            "Según Su gran misericordia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            33
+          ],
+          "lines": [
+            "Porque Él no castiga por gusto",
+            "Ni aflige a los hijos de los hombres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            34
+          ],
+          "lines": [
+            "Aplastar bajo los pies",
+            "A todos los prisioneros de un país,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            35
+          ],
+          "lines": [
+            "Privar del derecho a un hombre",
+            "En presencia del Altísimo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            36
+          ],
+          "lines": [
+            "Defraudar a un hombre en su litigio:",
+            "Estas cosas no aprueba el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            37
+          ],
+          "lines": [
+            "¿Quién es aquel que habla y así sucede,",
+            "A menos que el Señor lo haya ordenado?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            38
+          ],
+          "lines": [
+            "¿No salen de la boca del Altísimo",
+            "Tanto el mal como el bien?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            39
+          ],
+          "lines": [
+            "¶¿Por qué ha de quejarse el ser viviente?",
+            "¡Sea valiente frente a sus pecados!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            40
+          ],
+          "lines": [
+            "Examinemos nuestros caminos y escudriñémoslos,",
+            "Y volvamos al Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            41
+          ],
+          "lines": [
+            "Alcemos nuestro corazón en nuestras manos",
+            "Hacia Dios en los cielos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            42
+          ],
+          "lines": [
+            "Nosotros hemos transgredido y nos hemos rebelado;",
+            "Tú no has perdonado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            43
+          ],
+          "lines": [
+            "Te has cubierto de ira y nos has perseguido;",
+            "Has matado y no has perdonado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            44
+          ],
+          "lines": [
+            "Te has cubierto de una nube",
+            "Para que no pase la oración."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            45
+          ],
+          "lines": [
+            "Basura y escoria nos has hecho",
+            "En medio de los pueblos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            46
+          ],
+          "lines": [
+            "Han abierto su boca contra nosotros",
+            "Todos nuestros enemigos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            47
+          ],
+          "lines": [
+            "Nos han sobrevenido terror y foso,",
+            "Desolación y destrucción."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            48
+          ],
+          "lines": [
+            "Arroyos de lágrimas derraman mis ojos",
+            "A causa de la destrucción de la hija de mi pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            49
+          ],
+          "lines": [
+            "Mis ojos fluyen sin cesar,",
+            "Ya que no hay descanso"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            50
+          ],
+          "lines": [
+            "Hasta que el Señor mire",
+            "Y vea desde los cielos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            51
+          ],
+          "lines": [
+            "Mis ojos traen dolor a mi alma",
+            "Por todas las hijas de mi ciudad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            52
+          ],
+          "lines": [
+            "Mis enemigos, sin haber causa,",
+            "Constantemente me han dado caza como a un ave."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            53
+          ],
+          "lines": [
+            "Silenciaron mi vida en la fosa,",
+            "Pusieron piedra sobre mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            54
+          ],
+          "lines": [
+            "Cubrieron las aguas mi cabeza,",
+            "Dije: «¡Estoy perdido!»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            55
+          ],
+          "lines": [
+            "Invoqué Tu nombre, oh Señor,",
+            "Desde la fosa más profunda."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            56
+          ],
+          "lines": [
+            "Tú oíste mi voz: «No escondas",
+            "Tu oído a mi clamor, a mi grito de auxilio»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            57
+          ],
+          "lines": [
+            "Te acercaste el día que te invoqué,",
+            "Dijiste: «¡No temas!»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            58
+          ],
+          "lines": [
+            "Tú has defendido, oh Señor, la causa de mi alma,",
+            "Tú has redimido mi vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            59
+          ],
+          "lines": [
+            "Tú has visto, oh Señor, mi opresión,",
+            "Juzga mi causa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            60
+          ],
+          "lines": [
+            "Has visto toda su venganza,",
+            "Todas sus tramas contra mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            61
+          ],
+          "lines": [
+            "Has oído sus oprobios, oh Señor,",
+            "Todas sus tramas contra mí;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            62
+          ],
+          "lines": [
+            "Los labios de mis agresores y sus murmuraciones",
+            "Están contra mí todo el día."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            63
+          ],
+          "lines": [
+            "Se sienten o se levanten, míralos,",
+            "Yo soy el objeto de su canción."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            64
+          ],
+          "lines": [
+            "Tú les darás su pago, oh Señor,",
+            "Conforme a la obra de sus manos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            65
+          ],
+          "lines": [
+            "Les darás dureza de corazón,",
+            "Tu maldición será sobre ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            66
+          ],
+          "lines": [
+            "Los perseguirás con ira y los destruirás",
+            "De debajo de los cielos del Señor."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.4"
+        ],
+        "human": "Lamentaciones 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LAM.5"
+        ],
+        "human": "Lamentaciones 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.3"
+        ],
+        "human": "Lamentaciones 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Sufrimientos a causa del sitio"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¡Cómo se ha ennegrecido el oro,",
+            "Cómo ha cambiado el oro puro!",
+            "Esparcidas están las piedras sagradas",
+            "Por las esquinas de todas las calles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Los hijos preciados de Sión,",
+            "Que valían su peso en oro puro,",
+            "¡Cómo son tenidos por vasijas de barro,",
+            "Obra de manos de alfarero!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Aun los chacales dan las ubres,",
+            "Dan de mamar a sus crías;",
+            "Pero la hija de mi pueblo se ha vuelto cruel",
+            "Como los avestruces en el desierto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "La lengua del niño de pecho se le pega",
+            "Al paladar por la sed;",
+            "Los pequeños piden pan,",
+            "Pero no hay quien se lo reparta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Los que comían manjares",
+            "Andan desolados por las calles;",
+            "Los que se criaron entre púrpura",
+            "Abrazan cenizales."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "La iniquidad de la hija de mi pueblo",
+            "Es mayor que el pecado de Sodoma,",
+            "Que fue derribada en un instante",
+            "Sin que manos actuaran contra ella."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Sus consagrados eran más puros que la nieve,",
+            "Más blancos que la leche,",
+            "Más rojizos de cuerpo que los corales,",
+            "Como el zafiro era su apariencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Más negro que el hollín es su aspecto,",
+            "No se les reconoce por las calles;",
+            "Se les ha pegado la piel a sus huesos,",
+            "Se ha marchitado, se ha vuelto como madera."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Más dichosos son los que mueren a espada",
+            "Que los que mueren de hambre,",
+            "Que se consumen, extenuados,",
+            "Por falta de los frutos de los campos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Las manos de mujeres compasivas",
+            "Cocieron a sus propios hijos,",
+            "Que les sirvieron de comida",
+            "A causa de la destrucción de la hija de mi pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "El Señor ha cumplido Su furor,",
+            "Ha derramado Su ardiente ira.",
+            "Ha prendido un fuego en Sión",
+            "Que ha consumido sus cimientos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "No creyeron los reyes de la tierra,",
+            "Ni ninguno de los habitantes del mundo,",
+            "Que el adversario y el enemigo pudieran entrar",
+            "Por las puertas de Jerusalén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Pero a causa de los pecados de sus profetas",
+            "Y de las iniquidades de sus sacerdotes,",
+            "Quienes derramaron en medio de ella",
+            "La sangre de los justos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Vagaron ciegos por las calles,",
+            "Manchados de sangre,",
+            "Sin que nadie pudiera tocar sus vestidos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "«¡Apártense! ¡Inmundos!», gritaban de sí mismos.",
+            "«¡Apártense, apártense, no nos toquen!».",
+            "Así que huyeron y vagaron.",
+            "Entre las naciones se decía:",
+            "«No seguirán residiendo entre nosotros»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "La presencia del Señor los dispersó,",
+            "No volverá a mirarlos.",
+            "Ellos no honraron a los sacerdotes,",
+            "Ni tuvieron piedad de los ancianos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Aun nuestros ojos desfallecían,",
+            "Buscar ayuda fue inútil.",
+            "En nuestro velar hemos aguardado",
+            "A una nación incapaz de salvar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Ponían trampas a nuestros pasos",
+            "Para que no anduviéramos por nuestras calles.",
+            "Nuestro fin se acercaba,",
+            "Se cumplieron nuestros días,",
+            "Porque había llegado nuestro fin."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Nuestros perseguidores eran más veloces",
+            "Que las águilas del cielo;",
+            "Por los montes nos persiguieron,",
+            "En el desierto nos tendieron emboscadas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "El aliento de nuestras vidas, el ungido del Señor,",
+            "Fue atrapado en sus fosos,",
+            "Aquel de quien habíamos dicho: «A su sombra",
+            "Viviremos entre las naciones»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Regocíjate y alégrate, hija de Edom,",
+            "La que habitas en la tierra de Uz;",
+            "También a ti llegará la copa,",
+            "Te embriagarás y te desnudarás."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Se ha completado el castigo de tu iniquidad, hija de Sión:",
+            "No volverá Él a desterrarte;",
+            "Mas castigará tu iniquidad, hija de Edom;",
+            "Pondrá al descubierto tus pecados."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "LAM.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "LAM.5"
+        ],
+        "human": "Lamentaciones 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EZK.1"
+        ],
+        "human": "Ezequiel 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "LAM.4"
+        ],
+        "human": "Lamentaciones 4",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Plegaria de Jeremías por el pueblo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Acuérdate, oh Señor, de lo que nos ha sucedido;",
+            "Mira y ve nuestro oprobio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Nuestra heredad ha pasado a extraños,",
+            "Nuestras casas a extranjeros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Hemos quedado huérfanos, sin padre,",
+            "Nuestras madres, como viudas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Por el agua que bebemos tenemos que pagar,",
+            "Nuestra leña nos llega por precio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Sobre nuestros cuellos están nuestros perseguidores;",
+            "No hay descanso para nosotros, estamos agotados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "A Egipto y a Asiria nos hemos sometido",
+            "Para saciarnos de pan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Nuestros padres pecaron, ya no existen,",
+            "Y nosotros cargamos con sus iniquidades."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Esclavos dominan sobre nosotros,",
+            "No hay quien nos libre de su mano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Con peligro de nuestras vidas conseguimos nuestro pan,",
+            "Enfrentándonos a la espada en el desierto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Nuestra piel quema como un horno,",
+            "A causa de los ardores del hambre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Violaron a las mujeres en Sión,",
+            "A las vírgenes en las ciudades de Judá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Los príncipes fueron colgados de sus manos,",
+            "Los rostros de los ancianos no fueron respetados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Los jóvenes trabajaron en el molino,",
+            "Y los muchachos cayeron bajo el peso de la leña."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Los ancianos se han ido de la puerta de la ciudad,",
+            "Los jóvenes, de su música."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Ha cesado el gozo de nuestro corazón,",
+            "Se ha convertido en duelo nuestra danza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Ha caído la corona de nuestra cabeza.",
+            "¡Ay de nosotros, pues hemos pecado!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Por esto está abatido nuestro corazón,",
+            "Por estas cosas se nublan nuestros ojos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Porque el monte Sión está asolado;",
+            "Las zorras merodean en él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "¶Pero Tú, oh Señor, reinas para siempre,",
+            "Tu trono permanece de generación en generación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "¿Por qué te olvidas para siempre de nosotros,",
+            "Y nos abandonas a perpetuidad?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Restáuranos a Ti, oh Señor, y seremos restaurados;",
+            "Renueva nuestros días como antaño,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "A no ser que nos hayas desechado totalmente,",
+            "Y estés enojado en gran manera contra nosotros."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

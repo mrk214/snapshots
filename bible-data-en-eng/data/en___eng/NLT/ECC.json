@@ -1,0 +1,2824 @@
+{
+  "book_usfm": "ECC",
+  "name": "Ecclesiastes",
+  "local_title": "New Living Translation",
+  "local_abbreviation": "NLT",
+  "version_id": 116,
+  "publisher": {
+    "name": "Tyndale House Publishers Inc."
+  },
+  "copyright": {
+    "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+    "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "ECC.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.1"
+        ],
+        "human": "Ecclesiastes 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.2"
+        ],
+        "human": "Ecclesiastes 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "PRO.31"
+        ],
+        "human": "Proverbs 31",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "These are the words of the Teacher, King David’s son, who ruled in Jerusalem."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Everything Is Meaningless"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "“Everything is meaningless,” says the Teacher, “completely meaningless!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "What do people get for all their hard work under the sun?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Generations come and generations go, but the earth never changes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "The sun rises and the sun sets, then hurries around to rise again."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "The wind blows south, and then turns north. Around and around it goes, blowing in circles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Rivers run into the sea, but the sea is never full. Then the water returns again to the rivers and flows out again to the sea."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Everything is wearisome beyond description. No matter how much we see, we are never satisfied. No matter how much we hear, we are not content."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "History merely repeats itself. It has all been done before. Nothing under the sun is truly new."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Sometimes people say, “Here is something new!” But actually it is old; nothing is ever truly new."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "We don’t remember what happened in the past, and in future generations, no one will remember what we are doing now."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Teacher Speaks: The Futility of Wisdom"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "I, the Teacher, was king of Israel, and I lived in Jerusalem."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "I devoted myself to search for understanding and to explore by wisdom everything being done under heaven. I soon discovered that God has dealt a tragic existence to the human race."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "I observed everything going on under the sun, and really, it is all meaningless—like chasing the wind."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "What is wrong cannot be made right.",
+            "What is missing cannot be recovered."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "I said to myself, “Look, I am wiser than any of the kings who ruled in Jerusalem before me. I have greater wisdom and knowledge than any of them.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "So I set out to learn everything from wisdom to madness and folly. But I learned firsthand that pursuing all this is like chasing the wind."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "The greater my wisdom, the greater my grief.",
+            "To increase knowledge only increases sorrow."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.2"
+        ],
+        "human": "Ecclesiastes 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.3"
+        ],
+        "human": "Ecclesiastes 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.1"
+        ],
+        "human": "Ecclesiastes 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Futility of Pleasure"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "I said to myself, “Come on, let’s try pleasure. Let’s look for the ‘good things’ in life.” But I found that this, too, was meaningless."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "So I said, “Laughter is silly. What good does it do to seek pleasure?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "After much thought, I decided to cheer myself with wine. And while still seeking wisdom, I clutched at foolishness. In this way, I tried to experience the only happiness most people find during their brief life in this world."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "I also tried to find meaning by building huge homes for myself and by planting beautiful vineyards."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "I made gardens and parks, filling them with all kinds of fruit trees."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "I built reservoirs to collect the water to irrigate my many flourishing groves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "I bought slaves, both men and women, and others were born into my household. I also owned large herds and flocks, more than any of the kings who had lived in Jerusalem before me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "I collected great sums of silver and gold, the treasure of many kings and provinces. I hired wonderful singers, both men and women, and had many beautiful concubines. I had everything a man could desire!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "So I became greater than all who had lived in Jerusalem before me, and my wisdom never failed me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Anything I wanted, I would take. I denied myself no pleasure. I even found great pleasure in hard work, a reward for all my labors."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "But as I looked at everything I had worked so hard to accomplish, it was all so meaningless—like chasing the wind. There was nothing really worthwhile anywhere."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Wise and the Foolish"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "So I decided to compare wisdom with foolishness and madness (for who can do this better than I, the king?)."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "I thought, “Wisdom is better than foolishness, just as light is better than darkness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "For the wise can see where they are going, but fools walk in the dark.” Yet I saw that the wise and the foolish share the same fate."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Both will die. So I said to myself, “Since I will end up the same as the fool, what’s the value of all my wisdom? This is all so meaningless!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "For the wise and the foolish both die. The wise will not be remembered any longer than the fool. In the days to come, both will be forgotten."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "So I came to hate life because everything done here under the sun is so troubling. Everything is meaningless—like chasing the wind."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Futility of Work"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "I came to hate all my hard work here on earth, for I must leave to others everything I have earned."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "And who can tell whether my successors will be wise or foolish? Yet they will control everything I have gained by my skill and hard work under the sun. How meaningless!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "So I gave up in despair, questioning the value of all my hard work in this world."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Some people work wisely with knowledge and skill, then must leave the fruit of their efforts to someone who hasn’t worked for it. This, too, is meaningless, a great tragedy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "So what do people get in this life for all their hard work and anxiety?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "Their days of labor are filled with pain and grief; even at night their minds cannot rest. It is all meaningless."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "So I decided there is nothing better than to enjoy food and drink and to find satisfaction in work. Then I realized that these pleasures are from the hand of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "For who can eat or enjoy anything apart from him?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "God gives wisdom, knowledge, and joy to those who please him. But if a sinner becomes wealthy, God takes the wealth away and gives it to those who please him. This, too, is meaningless—like chasing the wind."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.3"
+        ],
+        "human": "Ecclesiastes 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.4"
+        ],
+        "human": "Ecclesiastes 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.2"
+        ],
+        "human": "Ecclesiastes 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "A Time for Everything"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "For everything there is a season,",
+            "a time for every activity under heaven."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "A time to be born and a time to die.",
+            "A time to plant and a time to harvest."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "A time to kill and a time to heal.",
+            "A time to tear down and a time to build up."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "A time to cry and a time to laugh.",
+            "A time to grieve and a time to dance."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "A time to scatter stones and a time to gather stones.",
+            "A time to embrace and a time to turn away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "A time to search and a time to quit searching.",
+            "A time to keep and a time to throw away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "A time to tear and a time to mend.",
+            "A time to be quiet and a time to speak."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "A time to love and a time to hate.",
+            "A time for war and a time for peace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "What do people really get for all their hard work?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "I have seen the burden God has placed on us all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Yet God has made everything beautiful for its own time. He has planted eternity in the human heart, but even so, people cannot see the whole scope of God’s work from beginning to end."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "So I concluded there is nothing better than to be happy and enjoy ourselves as long as we can."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "And people should eat and drink and enjoy the fruits of their labor, for these are gifts from God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "And I know that whatever God does is final. Nothing can be added to it or taken from it. God’s purpose is that people should fear him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "What is happening now has happened before, and what will happen in the future has happened before, because God makes the same things happen over and over again."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Injustices of Life"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "I also noticed that under the sun there is evil in the courtroom. Yes, even the courts of law are corrupt!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "I said to myself, “In due season God will judge everyone, both good and bad, for all their deeds.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "I also thought about the human condition—how God proves to people that they are like animals."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "For people and animals share the same fate—both breathe and both must die. So people have no real advantage over the animals. How meaningless!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Both go to the same place—they came from dust and they return to dust."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "For who can prove that the human spirit goes up and the spirit of animals goes down into the earth?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "So I saw that there is nothing better for people than to be happy in their work. That is our lot in life. And no one can bring us back to see what happens after we die."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.4"
+        ],
+        "human": "Ecclesiastes 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.5"
+        ],
+        "human": "Ecclesiastes 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.3"
+        ],
+        "human": "Ecclesiastes 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Again, I observed all the oppression that takes place under the sun. I saw the tears of the oppressed, with no one to comfort them. The oppressors have great power, and their victims are helpless."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "So I concluded that the dead are better off than the living."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "But most fortunate of all are those who are not yet born. For they have not seen all the evil that is done under the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Then I observed that most people are motivated to success because they envy their neighbors. But this, too, is meaningless—like chasing the wind."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "“Fools fold their idle hands,",
+            "leading them to ruin.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "And yet,",
+            "“Better to have one handful with quietness",
+            "than two handfuls with hard work",
+            "and chasing the wind.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Advantages of Companionship"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "I observed yet another example of something meaningless under the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "This is the case of a man who is all alone, without a child or a brother, yet who works hard to gain as much wealth as he can. But then he asks himself, “Who am I working for? Why am I giving up so much pleasure now?” It is all so meaningless and depressing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Two people are better off than one, for they can help each other succeed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "If one person falls, the other can reach out and help. But someone who falls alone is in real trouble."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Likewise, two people lying close together can keep each other warm. But how can one be warm alone?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "A person standing alone can be attacked and defeated, but two can stand back-to-back and conquer. Three are even better, for a triple-braided cord is not easily broken."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Futility of Political Power"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "It is better to be a poor but wise youth than an old and foolish king who refuses all advice."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Such a youth could rise from poverty and succeed. He might even become king, though he has been in prison."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "But then everyone rushes to the side of yet another youth who replaces him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Endless crowds stand around him, but then another generation grows up and rejects him, too. So it is all meaningless—like chasing the wind."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.5"
+        ],
+        "human": "Ecclesiastes 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.6"
+        ],
+        "human": "Ecclesiastes 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.4"
+        ],
+        "human": "Ecclesiastes 4",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Approaching God with Care"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "As you enter the house of God, keep your ears open and your mouth shut. It is evil to make mindless offerings to God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Don’t make rash promises, and don’t be hasty in bringing matters before God. After all, God is in heaven, and you are here on earth. So let your words be few."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Too much activity gives you restless dreams; too many words make you a fool."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "When you make a promise to God, don’t delay in following through, for God takes no pleasure in fools. Keep all the promises you make to him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "It is better to say nothing than to make a promise and not keep it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Don’t let your mouth make you sin. And don’t defend yourself by telling the Temple messenger that the promise you made was a mistake. That would make God angry, and he might wipe out everything you have achieved."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Talk is cheap, like daydreams and other useless activities. Fear God instead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Futility of Wealth"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Don’t be surprised if you see a poor person being oppressed by the powerful and if justice is being miscarried throughout the land. For every official is under orders from higher up, and matters of justice get lost in red tape and bureaucracy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Even the king milks the land for his own profit!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Those who love money will never have enough. How meaningless to think that wealth brings true happiness!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "The more you have, the more people come to help you spend it. So what good is wealth—except perhaps to watch it slip through your fingers!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "People who work hard sleep well, whether they eat little or much. But the rich seldom get a good night’s sleep."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "There is another serious problem I have seen under the sun. Hoarding riches harms the saver."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Money is put into risky investments that turn sour, and everything is lost. In the end, there is nothing left to pass on to one’s children."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "We all come to the end of our lives as naked and empty-handed as on the day we were born. We can’t take our riches with us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "And this, too, is a very serious problem. People leave this world no better off than when they came. All their hard work is for nothing—like working for the wind."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Throughout their lives, they live under a cloud—frustrated, discouraged, and angry."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Even so, I have noticed one thing, at least, that is good. It is good for people to eat, drink, and enjoy their work under the sun during the short life God has given them, and to accept their lot in life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "And it is a good thing to receive wealth from God and the good health to enjoy it. To enjoy your work and accept your lot in life—this is indeed a gift from God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "God keeps such people so busy enjoying life that they take no time to brood over the past."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.6"
+        ],
+        "human": "Ecclesiastes 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.7"
+        ],
+        "human": "Ecclesiastes 7",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.5"
+        ],
+        "human": "Ecclesiastes 5",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "There is another serious tragedy I have seen under the sun, and it weighs heavily on humanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "God gives some people great wealth and honor and everything they could ever want, but then he doesn’t give them the chance to enjoy these things. They die, and someone else, even a stranger, ends up enjoying their wealth! This is meaningless—a sickening tragedy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "A man might have a hundred children and live to be very old. But if he finds no satisfaction in life and doesn’t even get a decent burial, it would have been better for him to be born dead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "His birth would have been meaningless, and he would have ended in darkness. He wouldn’t even have had a name,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "and he would never have seen the sun or known of its existence. Yet he would have had more peace than in growing up to be an unhappy man."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "He might live a thousand years twice over but still not find contentment. And since he must die like everyone else—well, what’s the use?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "All people spend their lives scratching for food, but they never seem to have enough."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "So are wise people really better off than fools? Do poor people gain anything by being wise and knowing how to act in front of others?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Enjoy what you have rather than desiring what you don’t have. Just dreaming about nice things is meaningless—like chasing the wind."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Future—Determined and Unknown"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Everything has already been decided. It was known long ago what each person would be. So there’s no use arguing with God about your destiny."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "The more words you speak, the less they mean. So what good are they?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "In the few days of our meaningless lives, who knows how our days can best be spent? Our lives are like a shadow. Who can tell what will happen on this earth after we are gone?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.7",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.7"
+        ],
+        "human": "Ecclesiastes 7"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.8"
+        ],
+        "human": "Ecclesiastes 8",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.6"
+        ],
+        "human": "Ecclesiastes 6",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Wisdom for Life"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "A good reputation is more valuable than costly perfume.",
+            "And the day you die is better than the day you are born."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Better to spend your time at funerals than at parties.",
+            "After all, everyone dies—",
+            "so the living should take this to heart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Sorrow is better than laughter,",
+            "for sadness has a refining influence on us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "A wise person thinks a lot about death,",
+            "while a fool thinks only about having a good time."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Better to be criticized by a wise person",
+            "than to be praised by a fool."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "A fool’s laughter is quickly gone,",
+            "like thorns crackling in a fire.",
+            "This also is meaningless."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Extortion turns wise people into fools,",
+            "and bribes corrupt the heart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Finishing is better than starting.",
+            "Patience is better than pride."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Control your temper,",
+            "for anger labels you a fool."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Don’t long for “the good old days.”",
+            "This is not wise."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Wisdom is even better when you have money.",
+            "Both are a benefit as you go through life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Wisdom and money can get you almost anything,",
+            "but only wisdom can save your life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Accept the way God does things,",
+            "for who can straighten what he has made crooked?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Enjoy prosperity while you can,",
+            "but when hard times strike, realize that both come from God.",
+            "Remember that nothing is certain in this life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Limits of Human Wisdom"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "I have seen everything in this meaningless life, including the death of good young people and the long life of wicked people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "So don’t be too good or too wise! Why destroy yourself?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "On the other hand, don’t be too wicked either. Don’t be a fool! Why die before your time?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Pay attention to these instructions, for anyone who fears God will avoid both extremes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "One wise person is stronger than ten leading citizens of a town!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Not a single person on earth is always good and never sins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Don’t eavesdrop on others—you may hear your servant curse you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "For you know how often you yourself have cursed others."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "I have always tried my best to let wisdom guide my thoughts and actions. I said to myself, “I am determined to be wise.” But it didn’t work."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "Wisdom is always distant and difficult to find."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "I searched everywhere, determined to find wisdom and to understand the reason for things. I was determined to prove to myself that wickedness is stupid and that foolishness is madness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "I discovered that a seductive woman is a trap more bitter than death. Her passion is a snare, and her soft hands are chains. Those who are pleasing to God will escape her, but sinners will be caught in her snare."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "“This is my conclusion,” says the Teacher. “I discovered this after looking at the matter from every possible angle."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            28
+          ],
+          "lines": [
+            "Though I have searched repeatedly, I have not found what I was looking for. Only one out of a thousand men is virtuous, but not one woman!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            29
+          ],
+          "lines": [
+            "But I did find this: God created people to be virtuous, but they have each turned to follow their own downward path.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.8",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.8"
+        ],
+        "human": "Ecclesiastes 8"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.9"
+        ],
+        "human": "Ecclesiastes 9",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.7"
+        ],
+        "human": "Ecclesiastes 7",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "How wonderful to be wise,",
+            "to analyze and interpret things.",
+            "Wisdom lights up a person’s face,",
+            "softening its harshness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Obedience to the King"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Obey the king since you vowed to God that you would."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Don’t try to avoid doing your duty, and don’t stand with those who plot evil, for the king can do whatever he wants."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "His command is backed by great power. No one can resist or question it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Those who obey him will not be punished. Those who are wise will find a time and a way to do what is right,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "for there is a time and a way for everything, even when a person is in trouble."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Indeed, how can people avoid what they don’t know is going to happen?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "None of us can hold back our spirit from departing. None of us has the power to prevent the day of our death. There is no escaping that obligation, that dark battle. And in the face of death, wickedness will certainly not rescue the wicked."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Wicked and the Righteous"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "I have thought deeply about all that goes on here under the sun, where people have the power to hurt each other."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "I have seen wicked people buried with honor. Yet they were the very ones who frequented the Temple and are now praised in the same city where they committed their crimes! This, too, is meaningless."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "When a crime is not punished quickly, people feel it is safe to do wrong."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "But even though a person sins a hundred times and still lives a long time, I know that those who fear God will be better off."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "The wicked will not prosper, for they do not fear God. Their days will never grow long like the evening shadows."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "And this is not all that is meaningless in our world. In this life, good people are often treated as though they were wicked, and wicked people are often treated as though they were good. This is so meaningless!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "So I recommend having fun, because there is nothing better for people in this world than to eat, drink, and enjoy life. That way they will experience some happiness along with all the hard work God gives them under the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "In my search for wisdom and in my observation of people’s burdens here on earth, I discovered that there is ceaseless activity, day and night."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "I realized that no one can discover everything God is doing under the sun. Not even the wisest people discover everything, no matter what they claim."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.9",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.9"
+        ],
+        "human": "Ecclesiastes 9"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.10"
+        ],
+        "human": "Ecclesiastes 10",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.8"
+        ],
+        "human": "Ecclesiastes 8",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Death Comes to All"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "This, too, I carefully explored: Even though the actions of godly and wise people are in God’s hands, no one knows whether God will show them favor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "The same destiny ultimately awaits everyone, whether righteous or wicked, good or bad, ceremonially clean or unclean, religious or irreligious. Good people receive the same treatment as sinners, and people who make promises to God are treated like people who don’t."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "It seems so wrong that everyone under the sun suffers the same fate. Already twisted by evil, people choose their own mad course, for they have no hope. There is nothing ahead but death anyway."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "There is hope only for the living. As they say, “It’s better to be a live dog than a dead lion!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "The living at least know they will die, but the dead know nothing. They have no further reward, nor are they remembered."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Whatever they did in their lifetime—loving, hating, envying—is all long gone. They no longer play a part in anything here on earth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "So go ahead. Eat your food with joy, and drink your wine with a happy heart, for God approves of this!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Wear fine clothes, with a splash of cologne!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Live happily with the woman you love through all the meaningless days of life that God has given you under the sun. The wife God gives you is your reward for all your earthly toil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Whatever you do, do well. For when you go to the grave, there will be no work or planning or knowledge or wisdom."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "I have observed something else under the sun. The fastest runner doesn’t always win the race, and the strongest warrior doesn’t always win the battle. The wise sometimes go hungry, and the skillful are not necessarily wealthy. And those who are educated don’t always lead successful lives. It is all decided by chance, by being in the right place at the right time."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "People can never predict when hard times might come. Like fish in a net or birds in a trap, people are caught by sudden tragedy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Thoughts on Wisdom and Folly"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Here is another bit of wisdom that has impressed me as I have watched the way our world works."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "There was a small town with only a few people, and a great king came with his army and besieged it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "A poor, wise man knew how to save the town, and so it was rescued. But afterward no one thought to thank him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "So even though wisdom is better than strength, those who are wise will be despised if they are poor. What they say will not be appreciated for long."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Better to hear the quiet words of a wise person",
+            "than the shouts of a foolish king."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Better to have wisdom than weapons of war,",
+            "but one sinner can destroy much that is good."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.10",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.10"
+        ],
+        "human": "Ecclesiastes 10"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.11"
+        ],
+        "human": "Ecclesiastes 11",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.9"
+        ],
+        "human": "Ecclesiastes 9",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "As dead flies cause even a bottle of perfume to stink,",
+            "so a little foolishness spoils great wisdom and honor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "A wise person chooses the right road;",
+            "a fool takes the wrong one."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "You can identify fools",
+            "just by the way they walk down the street!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "If your boss is angry at you, don’t quit!",
+            "A quiet spirit can overcome even great mistakes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Ironies of Life"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "There is another evil I have seen under the sun. Kings and rulers make a grave mistake"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "when they give great authority to foolish people and low positions to people of proven worth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "I have even seen servants riding horseback like princes—and princes walking like servants!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "When you dig a well,",
+            "you might fall in.",
+            "When you demolish an old wall,",
+            "you could be bitten by a snake."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "When you work in a quarry,",
+            "stones might fall and crush you.",
+            "When you chop wood,",
+            "there is danger with each stroke of your ax."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Using a dull ax requires great strength,",
+            "so sharpen the blade.",
+            "That’s the value of wisdom;",
+            "it helps you succeed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "If a snake bites before you charm it,",
+            "what’s the use of being a snake charmer?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Wise words bring approval,",
+            "but fools are destroyed by their own words."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Fools base their thoughts on foolish assumptions,",
+            "so their conclusions will be wicked madness;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "they chatter on and on.",
+            "No one really knows what is going to happen;",
+            "no one can predict the future."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Fools are so exhausted by a little work",
+            "that they can’t even find their way home."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "What sorrow for the land ruled by a servant,",
+            "the land whose leaders feast in the morning."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Happy is the land whose king is a noble leader",
+            "and whose leaders feast at the proper time",
+            "to gain strength for their work, not to get drunk."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Laziness leads to a sagging roof;",
+            "idleness leads to a leaky house."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "A party gives laughter,",
+            "wine gives happiness,",
+            "and money gives everything!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Never make light of the king, even in your thoughts.",
+            "And don’t make fun of the powerful, even in your own bedroom.",
+            "For a little bird might deliver your message",
+            "and tell them what you said."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.11",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.11"
+        ],
+        "human": "Ecclesiastes 11"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.12"
+        ],
+        "human": "Ecclesiastes 12",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.10"
+        ],
+        "human": "Ecclesiastes 10",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Uncertainties of Life"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Send your grain across the seas,",
+            "and in time, profits will flow back to you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "But divide your investments among many places,",
+            "for you do not know what risks might lie ahead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "When clouds are heavy, the rains come down.",
+            "Whether a tree falls north or south, it stays where it falls."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Farmers who wait for perfect weather never plant.",
+            "If they watch every cloud, they never harvest."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Just as you cannot understand the path of the wind or the mystery of a tiny baby growing in its mother’s womb, so you cannot understand the activity of God, who does all things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Plant your seed in the morning and keep busy all afternoon, for you don’t know if profit will come from one activity or another—or maybe both."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Advice for Young and Old"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Light is sweet; how pleasant to see a new day dawning."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "When people live to be very old, let them rejoice in every day of life. But let them also remember there will be many dark days. Everything still to come is meaningless."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Young people, it’s wonderful to be young! Enjoy every minute of it. Do everything you want to do; take it all in. But remember that you must give an account to God for everything you do."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "So refuse to worry, and keep your body healthy. But remember that youth, with a whole life before you, is meaningless."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.12",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.12"
+        ],
+        "human": "Ecclesiastes 12"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.1"
+        ],
+        "human": "Song of Songs 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.11"
+        ],
+        "human": "Ecclesiastes 11",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Don’t let the excitement of youth cause you to forget your Creator. Honor him in your youth before you grow old and say, “Life is not pleasant anymore.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Remember him before the light of the sun, moon, and stars is dim to your old eyes, and rain clouds continually darken your sky."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Remember him before your legs—the guards of your house—start to tremble; and before your shoulders—the strong men—stoop. Remember him before your teeth—your few remaining servants—stop grinding; and before your eyes—the women looking through the windows—see dimly."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Remember him before the door to life’s opportunities is closed and the sound of work fades. Now you rise at the first chirping of the birds, but then all their sounds will grow faint."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Remember him before you become fearful of falling and worry about danger in the streets; before your hair turns white like an almond tree in bloom, and you drag along without energy like a dying grasshopper, and the caperberry no longer inspires sexual desire. Remember him before you near the grave, your everlasting home, when the mourners will weep at your funeral."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Yes, remember your Creator now while you are young, before the silver cord of life snaps and the golden bowl is broken. Don’t wait until the water jar is smashed at the spring and the pulley is broken at the well."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "For then the dust will return to the earth, and the spirit will return to God who gave it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Concluding Thoughts about the Teacher"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "“Everything is meaningless,” says the Teacher, “completely meaningless.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Keep this in mind: The Teacher was considered wise, and he taught the people everything he knew. He listened carefully to many proverbs, studying and classifying them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "The Teacher sought to find just the right words to express truths clearly."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "But, my child, let me give you some further advice: Be careful, for writing books is endless, and much study wears you out."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "That’s the whole story. Here now is my final conclusion: Fear God and obey his commands, for this is everyone’s duty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "God will judge us for everything we do, including every secret thing, whether good or bad."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

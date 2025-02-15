@@ -1,0 +1,763 @@
+{
+  "book_usfm": "MAL",
+  "name": "Malaquías",
+  "local_title": "Nueva Versión Internacional - Español",
+  "local_abbreviation": "NVI",
+  "version_id": 128,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+    "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "MAL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.1"
+        ],
+        "human": "Malaquías 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEC.14"
+        ],
+        "human": "Zacarías 14",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Esta profecía es la palabra del Señor dirigida a Israel por medio de Malaquías."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "El amor de Dios por su pueblo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "«Yo los he amado», dice el Señor.",
+            "«“¿Y cómo nos has amado?”, preguntan ustedes.",
+            "»¿No era Esaú hermano de Jacob? Sin embargo, amé a Jacob,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "pero aborrecí a Esaú. Dejé sus montañas devastadas y entregué su heredad a los chacales del desierto»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Edom dice: «Aunque nos han hecho pedazos, reconstruiremos las ruinas». Pero el Señor de los Ejércitos dice: «Ustedes podrán reconstruir, pero yo derribaré. Serán llamados territorio malvado, pueblo que estará siempre bajo la ira del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Ustedes lo verán con sus propios ojos y dirán: “¡Se ha engrandecido el Señor aun más allá de las fronteras de Israel!”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "El culto al Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "»El hijo honra a su padre y el siervo a su señor. Ahora bien, si soy tu padre, ¿dónde está el honor que merezco? Y si soy señor, ¿dónde está el respeto que se me debe? Yo, el Señor de los Ejércitos, les pregunto a ustedes, sacerdotes que desprecian mi nombre.",
+            "»Y encima preguntan: “¿En qué hemos despreciado tu nombre?”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "»Pues en que ustedes traen a mi altar alimento contaminado.",
+            "»Y todavía preguntan: “¿En qué te hemos profanado?”.",
+            "»Pues en que tienen la mesa del Señor como algo despreciable."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Ustedes traen animales ciegos para el sacrificio y piensan que no tiene nada de malo; sacrifican animales lisiados o enfermos y piensan que no tiene nada de malo. ¿Por qué no tratan de ofrecérselos a su gobernante? ¿Creen que él estaría contento con ustedes? ¿Se ganarían su favor? —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "»Ahora pues, traten de suplicar a Dios para que se apiade de nosotros. ¿Creen que con esta clase de ofrendas los aceptará? —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "¡Cómo quisiera que alguno de ustedes cerrara las puertas del Templo, para que no encendieran en vano el fuego de mi altar! No estoy nada contento con ustedes —dice el Señor de los Ejércitos— y no voy a aceptar ni una sola ofrenda de sus manos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Porque desde donde nace el sol hasta donde se pone, grande es mi nombre entre las naciones. En todo lugar se ofrece incienso y ofrendas puras a mi nombre, porque grande es mi nombre entre las naciones —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Pero ustedes lo profanan cuando dicen que la mesa del Señor está contaminada y que su alimento es despreciable."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Y exclaman: “¡Qué carga!”. Y me desprecian —dice el Señor de los Ejércitos—. ¿Y creen que voy a aceptar de sus manos los animales robados, lisiados o enfermos que ustedes me traen como sacrificio? —dice el Señor—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "»¡Maldito sea el tramposo que, teniendo un macho aceptable en su rebaño, se lo dedica al Señor y luego le ofrece un animal mutilado! Porque yo soy el gran Rey —dice el Señor de los Ejércitos— y mi nombre es temido entre las naciones."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.1"
+        ],
+        "human": "Malaquías 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Juicio contra los sacerdotes"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "»Ahora, pues, este mandamiento es para ustedes, los sacerdotes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Si no me hacen caso ni se deciden a honrar mi nombre —dice el Señor de los Ejércitos—, les enviaré una maldición y maldeciré sus bendiciones. Ya las he maldecido, porque ustedes no se han decidido a honrarme."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "»Por esto, voy a reprender a sus descendientes. Les arrojaré a la cara el estiércol de los sacrificios de sus fiestas y los barreré junto con ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Entonces sabrán que les he dado este mandamiento, a fin de que continúe mi pacto con Leví —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Mi pacto con él era de vida y paz, y eso le di; era también de respeto y él me respetó y reverenció mi Nombre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "En su boca había instrucción veraz; en sus labios no se encontraba perversidad. En paz y rectitud caminó conmigo y apartó del pecado a muchos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "»Los labios de un sacerdote atesoran sabiduría y de su boca el pueblo busca instrucción, porque es mensajero del Señor de los Ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Pero ustedes se han desviado del camino y mediante su instrucción han hecho tropezar a muchos; ustedes han arruinado el pacto con Leví —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Por mi parte, yo he hecho que ustedes sean despreciables y viles ante todo el pueblo, porque no han guardado mis caminos, sino que son parciales cuando enseñan la Ley»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Deslealtad de Judá"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "¿No tenemos todos un solo Padre? ¿No nos creó un solo Dios? ¿Por qué, pues, profanamos el pacto de nuestros antepasados al traicionarnos unos a otros?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Judá ha sido infiel. En Israel y en Jerusalén se ha cometido algo detestable: al casarse con mujeres que adoran a un dios extraño, Judá ha profanado el santuario que el Señor ama."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "En cuanto al hombre que haga eso, quienquiera que sea, que el Señor de los Ejércitos lo excluya de los campamentos de Jacob, aun cuando le lleve ofrendas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Otra cosa que ustedes hacen es inundar de lágrimas el altar del Señor; lloran y se lamentan porque él ya no mira con agrado sus ofrendas ni las acepta con placer de sus manos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Y todavía preguntan: «¿Por qué?».",
+            "Pues porque el Señor actúa como testigo entre tú y la esposa de tu juventud, a la que traicionaste aunque es tu compañera, la esposa de tu pacto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "¿Acaso no hizo Dios un solo ser que es cuerpo y espíritu? Y ¿por qué es uno solo? Porque busca descendencia dada por Dios. Así que cuídense ustedes en su propio espíritu y no traicionen a la esposa de su juventud."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "«El hombre que aborrece y repudia a su esposa —dice el Señor, Dios de Israel—, cubre de violencia sus vestiduras», dice el Señor de los Ejércitos.",
+            "Así que cuídense en su espíritu y no sean infieles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Acusaciones contra Judá"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Ustedes han cansado al Señor con sus palabras.",
+            "Y encima preguntan: «¿En qué lo hemos cansado?».",
+            "En que dicen: «Todo el que hace lo malo agrada al Señor y él se complace con ellos». O se preguntan: «¿Dónde está el Dios de justicia?»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.4"
+        ],
+        "human": "Malaquías 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "«Yo estoy por enviar a mi mensajero para que prepare el camino delante de mí. De pronto vendrá a su Templo el Señor a quien ustedes buscan; vendrá el mensajero del pacto, a quien ustedes desean» —dice el Señor de los Ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Pero ¿quién podrá soportar el día de su venida? ¿Quién podrá mantenerse en pie cuando él aparezca? Porque será como fuego de fundidor o jabón de lavandero."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Se sentará como fundidor y purificador de plata; purificará a los levitas y los refinará como se refinan el oro y la plata. Entonces traerán al Señor ofrendas conforme a la justicia,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "y las ofrendas de Judá y Jerusalén serán aceptables al Señor, como en tiempos antiguos, como en años pasados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "«De modo que me acercaré a ustedes para juicio. Estaré presto a testificar contra los hechiceros, los adúlteros y los perjuros, contra los que explotan a sus jornaleros; contra los que oprimen a las viudas, a los huérfanos y niegan el derecho del extranjero, sin mostrarme ningún temor —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Fidelidad en las ofrendas"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "»Yo, el Señor, no cambio. Por eso ustedes, descendientes de Jacob, no han sido exterminados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Desde la época de sus antepasados se han apartado de mis estatutos y no los han guardado. Vuélvanse a mí y yo me volveré a ustedes —dice el Señor de los Ejércitos—.",
+            "»Pero ustedes preguntan: “¿En qué sentido tenemos que volvernos?”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "»¿Acaso roba el ser humano a Dios? ¡Ustedes me están robando!",
+            "»Y todavía preguntan: “¿En qué te robamos?”.",
+            "»En los diezmos y en las ofrendas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Ustedes —la nación entera—, están bajo gran maldición, pues es a mí a quien están robando."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "»Traigan íntegro el diezmo a la tesorería del Templo; así habrá alimento en mi casa. Pruébenme en esto —dice el Señor de los Ejércitos—, y vean si no abro las compuertas del cielo y derramo sobre ustedes bendición hasta que sobreabunde."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Reprenderé al devorador para que no arruine sus cultivos y las vides en los campos no pierdan su fruto —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Entonces todas las naciones los llamarán dichosos, porque ustedes tendrán una tierra maravillosa —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Insolencia de Judá"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "»Ustedes profieren insolencias contra mí —dice el Señor—.",
+            "»Y encima preguntan: “¿Qué hemos dicho contra ti?”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "»Ustedes han dicho: “Servir a Dios no vale la pena. ¿Qué ganamos con cumplir sus órdenes y vestirnos de luto delante del Señor de los Ejércitos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Por eso llamamos dichosos a los soberbios, pues prosperan los que hacen lo malo e incluso cuando desafían a Dios escapan ilesos”»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Los que temían al Señor hablaron entre sí, entonces él los escuchó y les prestó atención. Entonces se escribió en su presencia un libro de memorias de aquellos que temen al Señor y honran su nombre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "«El día que yo actúe ellos serán mi propiedad exclusiva —dice el Señor de los Ejércitos—. Tendré compasión de ellos, como se compadece un hombre del hijo que le sirve."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Y ustedes volverán a distinguir entre el justo y el malvado, entre el que sirve a Dios y el que no le sirve."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.4"
+        ],
+        "human": "Malaquías 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAT.1"
+        ],
+        "human": "Mateo 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "El día del Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "»Miren, ya viene el día, ardiente como un horno. Todos los soberbios y todos los malvados serán como paja; ese día les prenderá fuego hasta dejarlos sin raíz ni rama —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Pero para ustedes que temen mi nombre, se levantará el sol de justicia trayendo en sus rayos salud. Y ustedes saldrán saltando como becerros bien alimentados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "El día que yo actúe ustedes pisotearán a los malvados y, bajo sus pies, quedarán hechos polvo —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "»Acuérdense de la Ley de mi siervo Moisés. Recuerden los estatutos y las ordenanzas que di en Horeb para todo Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "»Estoy por enviarles al profeta Elías antes que llegue el día del Señor, día grande y terrible."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Él hará que los padres se reconcilien con sus hijos y los hijos con sus padres; así no vendré a herir la tierra con destrucción total»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

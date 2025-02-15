@@ -1,0 +1,889 @@
+{
+  "book_usfm": "ZEP",
+  "name": "Sofonías",
+  "local_title": "Nueva Versión Internacional - Español",
+  "local_abbreviation": "NVI",
+  "version_id": 128,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+    "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "ZEP.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Sofonías 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Sofonías 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habacuc 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Esta es la palabra del Señor que vino a Sofonías, hijo de Cusí, hijo de Guedalías, hijo de Amarías, hijo de Ezequías, durante el reinado de Josías, hijo de Amón, rey de Judá:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Advertencia sobre la destrucción venidera"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "«Arrasaré por completo",
+            "cuanto hay sobre la faz de la tierra»,",
+            "afirma el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "«Arrasaré con hombres y animales,",
+            "con las aves del cielo,",
+            "con los peces del mar",
+            "y con los ídolos que hacen caer a los malvados.",
+            "»Destruiré a toda la humanidad",
+            "de sobre la faz de la tierra»,",
+            "afirma el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Juicio contra Judá"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "«Extenderé mi mano contra Judá",
+            "y contra todos los habitantes de Jerusalén.",
+            "Exterminaré de este lugar todo rastro de Baal",
+            "y hasta el nombre de sus sacerdotes idólatras;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "a los que en las azoteas se postran en adoración",
+            "ante al ejército del cielo;",
+            "a los que, postrados en adoración,",
+            "juran lealtad al Señor",
+            "y al mismo tiempo a Moloc;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "a los que se apartan del Señor",
+            "y no lo buscan ni lo consultan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "»¡Silencio ante el Señor y Dios,",
+            "porque cercano está el día del Señor;",
+            "ha preparado el Señor un sacrificio",
+            "y ha consagrado a sus invitados!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "»En el día del sacrificio del Señor",
+            "castigaré a los oficiales y los hijos del rey,",
+            "y a cuantos se visten según modas extrañas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "En aquel día castigaré",
+            "a cuantos evitan pisar el umbral,",
+            "a los que llenan de violencia y engaño",
+            "la casa de sus dioses."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "»Aquel día se oirán gritos de auxilio,",
+            "desde la puerta del Pescado,",
+            "quejidos desde el Barrio Nuevo,",
+            "y gran quebranto desde las colinas»,",
+            "afirma el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "«¡Giman, habitantes del Barrio del Mercado!",
+            "Aniquilados serán todos sus mercaderes,",
+            "exterminados cuantos comercian con plata."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "En aquel tiempo registraré Jerusalén con lámparas",
+            "para castigar a los que reposan tranquilos",
+            "como vino en su sedimento,",
+            "a los que piensan: “El Señor no va a hacer nada,",
+            "ni para bien ni para mal”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "En botín se convertirán sus riquezas;",
+            "sus casas quedarán en ruinas:",
+            "“Edificarán casas,",
+            "pero no las habitarán;",
+            "plantarán viñas,",
+            "pero del vino no beberán”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "El gran día del Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "»Ya se acerca el gran día del Señor;",
+            "a toda prisa se acerca.",
+            "El clamor del día del Señor será amargo",
+            "y aun el más valiente gritará."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Día de ira será aquel día,",
+            "día de aflicción y angustia,",
+            "día de ruina y destrucción,",
+            "día de tinieblas y penumbra,",
+            "día de niebla y densa oscuridad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "día de trompeta y grito de batalla",
+            "contra las ciudades fortificadas,",
+            "contra las torres altas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "»Traeré tal angustia a todo el pueblo",
+            "que andarán como ciegos,",
+            "porque pecaron contra el Señor.",
+            "Su sangre será derramada como polvo",
+            "y sus entrañas como estiércol."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "No los podrán librar",
+            "ni su plata ni su oro",
+            "en el día de la ira del Señor.",
+            "»En el fuego de su celo",
+            "será toda la tierra consumida;",
+            "en un instante reducirá a la nada",
+            "a todos los habitantes de la tierra»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ZEP.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Sofonías 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Sofonías 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Sofonías 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Congréguense, sí, congréguense ustedes,",
+            "nación desvergonzada;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "antes que se cumpla lo que he determinado",
+            "y el día pase como paja arrastrada por el viento;",
+            "antes que caiga sobre ustedes la ira ardiente del Señor;",
+            "antes que venga sobre ustedes el día de la ira del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Busquen al Señor, todos ustedes,",
+            "los humildes de la tierra,",
+            "los que obedecen sus órdenes.",
+            "Busquen la justicia, busquen la humildad;",
+            "tal vez encontrarán refugio",
+            "en el día de la ira del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Juicio contra los filisteos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Gaza quedará abandonada",
+            "y Ascalón acabará en ruinas.",
+            "Asdod será expulsada a plena luz del día",
+            "y Ecrón será desarraigada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "¡Ay de la nación queretea",
+            "que habita a la costa del mar!",
+            "La palabra del Señor es contra ti,",
+            "Canaán, tierra de los filisteos:",
+            "«Te aniquilaré",
+            "hasta no dejar en ti habitante»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "La costa del mar se convertirá en praderas,",
+            "en campos de pastoreo y corrales de ovejas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Y esa tierra pertenecerá",
+            "al remanente del pueblo de Judá.",
+            "Allí pastarán sus ovejas",
+            "y al atardecer se echarán a descansar",
+            "en las casas de Ascalón;",
+            "porque los cuidará el Señor su Dios",
+            "para restaurarlos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Juicio contra Moab y Amón"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "«He oído las burlas de Moab",
+            "y el menosprecio de los amonitas,",
+            "que insultaron a mi pueblo",
+            "y se mostraron arrogantes contra su territorio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Tan cierto como que yo vivo»,",
+            "afirma el Señor de los Ejércitos, el Dios de Israel,",
+            "«Moab vendrá a ser como Sodoma",
+            "y los amonitas como Gomorra:",
+            "se volverán campos de espinos y minas de sal,",
+            "ruina perpetua.",
+            "El remanente de mi pueblo los saqueará;",
+            "los sobrevivientes de mi nación heredarán su tierra»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Este será el pago por su soberbia",
+            "y por insultar y ridiculizar",
+            "al pueblo del Señor de los Ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "El Señor será terrible contra ellos,",
+            "cuando destruya a todos los dioses de la tierra;",
+            "y así hasta las naciones más remotas",
+            "se postrarán en adoración ante él,",
+            "cada cual en su propia tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Juicio contra Cus"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "«También ustedes, cusitas,",
+            "serán atravesados por mi espada»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Juicio contra Asiria"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Él extenderá su mano contra el norte;",
+            "aniquilará a Asiria",
+            "y dejará a Nínive en ruinas,",
+            "árida como un desierto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Se tenderán en medio de ella los rebaños",
+            "y toda clase de animales salvajes.",
+            "Pasarán la noche sobre sus columnas",
+            "tanto el búho del desierto como la lechuza.",
+            "Resonarán por las ventanas sus graznidos,",
+            "habrá asolamiento en los umbrales,",
+            "las vigas de cedro quedarán al descubierto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Esta es la ciudad alegre",
+            "que habitaba segura,",
+            "la que se decía a sí misma:",
+            "«Yo y nadie más».",
+            "¡Cómo ha quedado convertida en espanto,",
+            "en guarida de fieras!",
+            "Todo el que pasa junto a ella",
+            "se mofa y le hace gestos con las manos."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ZEP.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Sofonías 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Hageo 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Sofonías 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "El futuro de Jerusalén"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¡Ay de la ciudad opresora,",
+            "rebelde y contaminada!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "No atiende a consejos",
+            "ni acepta corrección.",
+            "No confía en el Señor",
+            "ni se acerca a su Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Los oficiales que están en ella",
+            "son leones rugientes,",
+            "sus jueces son lobos nocturnos",
+            "que no dejan nada para la mañana."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Sus profetas son inescrupulosos,",
+            "personas traicioneras.",
+            "Sus sacerdotes profanan las cosas santas",
+            "y violan la Ley."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Pero el Señor que está en ella es justo",
+            "y no comete iniquidad.",
+            "Cada mañana imparte su justicia",
+            "y no deja de hacerlo cada nuevo día,",
+            "pero el inicuo no conoce la vergüenza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "«Exterminé naciones;",
+            "quedaron desoladas sus fortalezas.",
+            "Dejé sus calles desiertas",
+            "y nadie pasa por ellas.",
+            "Quedaron arrasadas sus ciudades,",
+            "sin ningún habitante."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Dije a la ciudad:",
+            "“¡Ciertamente me temerás;",
+            "aceptarás corrección!”.",
+            "Entonces no sería destruida su morada,",
+            "según todo lo que decreté contra ella.",
+            "A pesar de todo, se empeñaron",
+            "en corromper todas sus obras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Espérenme, por tanto,",
+            "hasta el día que me levante a buscar el botín»,",
+            "afirma el Señor,",
+            "«porque he decidido reunir a las naciones",
+            "y juntar a los reinos",
+            "para derramar sobre ellos mi indignación,",
+            "toda mi ardiente ira.",
+            "En el fuego de mi celo",
+            "toda la tierra será consumida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "»Purificaré los labios de los pueblos",
+            "para que todos invoquen el nombre del Señor",
+            "y lo sirvan de común acuerdo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Desde más allá de los ríos de Cus",
+            "me traerán ofrendas",
+            "mis adoradores, mi pueblo disperso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Aquel día no tendrás que avergonzarte más",
+            "de todas tus rebeliones contra mí.",
+            "Porque quitaré de en medio de ti",
+            "a esa gente altanera y jactanciosa,",
+            "y así nunca más volverás a ser arrogante",
+            "en mi santo monte."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Dejaré en medio de ti",
+            "un pueblo pobre y humilde,",
+            "que se refugia en el nombre del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "El remanente de Israel",
+            "no cometerá iniquidad,",
+            "no dirá mentiras",
+            "ni se hallará engaño en su boca.",
+            "Pastarán y descansarán",
+            "sin que nadie los espante»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "¡Lanza gritos de alegría, hija de Sión!",
+            "¡Da gritos de victoria, Israel!",
+            "¡Regocíjate y alégrate de todo corazón,",
+            "hija de Jerusalén!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "El Señor te ha levantado el castigo;",
+            "ha puesto en retirada a tus enemigos.",
+            "El Señor, rey de Israel, está en medio de ti:",
+            "nunca más temerás mal alguno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Aquel día dirán a Jerusalén:",
+            "«No temas, Sión, ni te desanimes,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "porque el Señor tu Dios, está en medio de ti",
+            "como poderoso guerrero que salva.",
+            "Se deleitará en ti con gozo,",
+            "te renovará con su amor,",
+            "se alegrará por ti con cantos»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "«Yo te libraré de las tristezas,",
+            "que son para ti una carga deshonrosa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "En aquel tiempo yo mismo me ocuparé",
+            "de todos los que te oprimen;",
+            "salvaré a la oveja que cojea",
+            "y juntaré a la descarriada.",
+            "Les daré fama y renombre",
+            "en los países donde fueron avergonzados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "En aquel tiempo yo los traeré;",
+            "en aquel tiempo los reuniré.",
+            "Daré a ustedes fama y renombre",
+            "entre todos los pueblos de la tierra",
+            "cuando yo los restaure",
+            "ante sus mismos ojos».",
+            "Así lo ha dicho el Señor."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

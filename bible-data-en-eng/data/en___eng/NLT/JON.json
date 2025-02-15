@@ -1,0 +1,671 @@
+{
+  "book_usfm": "JON",
+  "name": "Jonah",
+  "local_title": "New Living Translation",
+  "local_abbreviation": "NLT",
+  "version_id": 116,
+  "publisher": {
+    "name": "Tyndale House Publishers Inc."
+  },
+  "copyright": {
+    "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+    "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "JON.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.1"
+        ],
+        "human": "Jonah 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonah 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "OBA.1"
+        ],
+        "human": "Obadiah 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Jonah Runs from the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "The Lord gave this message to Jonah son of Amittai:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "“Get up and go to the great city of Nineveh. Announce my judgment against it because I have seen how wicked its people are.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "But Jonah got up and went in the opposite direction to get away from the Lord. He went down to the port of Joppa, where he found a ship leaving for Tarshish. He bought a ticket and went on board, hoping to escape from the Lord by sailing to Tarshish."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "But the Lord hurled a powerful wind over the sea, causing a violent storm that threatened to break the ship apart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Fearing for their lives, the desperate sailors shouted to their gods for help and threw the cargo overboard to lighten the ship.",
+            "But all this time Jonah was sound asleep down in the hold."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "So the captain went down after him. “How can you sleep at a time like this?” he shouted. “Get up and pray to your god! Maybe he will pay attention to us and spare our lives.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Then the crew cast lots to see which of them had offended the gods and caused the terrible storm. When they did this, the lots identified Jonah as the culprit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "“Why has this awful storm come down on us?” they demanded. “Who are you? What is your line of work? What country are you from? What is your nationality?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Jonah answered, “I am a Hebrew, and I worship the Lord, the God of heaven, who made the sea and the land.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "The sailors were terrified when they heard this, for he had already told them he was running away from the Lord. “Oh, why did you do it?” they groaned."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "And since the storm was getting worse all the time, they asked him, “What should we do to you to stop this storm?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "“Throw me into the sea,” Jonah said, “and it will become calm again. I know that this terrible storm is all my fault.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Instead, the sailors rowed even harder to get the ship to the land. But the stormy sea was too violent for them, and they couldn’t make it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Then they cried out to the Lord, Jonah’s God. “O Lord,” they pleaded, “don’t make us die for this man’s sin. And don’t hold us responsible for his death. O Lord, you have sent this storm upon him for your own good reasons.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Then the sailors picked Jonah up and threw him into the raging sea, and the storm stopped at once!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "The sailors were awestruck by the Lord’s great power, and they offered him a sacrifice and vowed to serve him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Now the Lord had arranged for a great fish to swallow Jonah. And Jonah was inside the fish for three days and three nights."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonah 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonah 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.1"
+        ],
+        "human": "Jonah 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Jonah’s Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Then Jonah prayed to the Lord his God from inside the fish."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "He said,",
+            "“I cried out to the Lord in my great trouble,",
+            "and he answered me.",
+            "I called to you from the land of the dead,",
+            "and Lord, you heard me!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "You threw me into the ocean depths,",
+            "and I sank down to the heart of the sea.",
+            "The mighty waters engulfed me;",
+            "I was buried beneath your wild and stormy waves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Then I said, ‘O Lord, you have driven me from your presence.",
+            "Yet I will look once more toward your holy Temple.’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "“I sank beneath the waves,",
+            "and the waters closed over me.",
+            "Seaweed wrapped itself around my head."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "I sank down to the very roots of the mountains.",
+            "I was imprisoned in the earth,",
+            "whose gates lock shut forever.",
+            "But you, O Lord my God,",
+            "snatched me from the jaws of death!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "As my life was slipping away,",
+            "I remembered the Lord.",
+            "And my earnest prayer went out to you",
+            "in your holy Temple."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Those who worship false gods",
+            "turn their backs on all God’s mercies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "But I will offer sacrifices to you with songs of praise,",
+            "and I will fulfill all my vows.",
+            "For my salvation comes from the Lord alone.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Then the Lord ordered the fish to spit Jonah out onto the beach."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonah 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.4"
+        ],
+        "human": "Jonah 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonah 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Jonah Goes to Nineveh"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Then the Lord spoke to Jonah a second time:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "“Get up and go to the great city of Nineveh, and deliver the message I have given you.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "This time Jonah obeyed the Lord’s command and went to Nineveh, a city so large that it took three days to see it all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "On the day Jonah entered the city, he shouted to the crowds: “Forty days from now Nineveh will be destroyed!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "The people of Nineveh believed God’s message, and from the greatest to the least, they declared a fast and put on burlap to show their sorrow."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "When the king of Nineveh heard what Jonah was saying, he stepped down from his throne and took off his royal robes. He dressed himself in burlap and sat on a heap of ashes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Then the king and his nobles sent this decree throughout the city:",
+            "“No one, not even the animals from your herds and flocks, may eat or drink anything at all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "People and animals alike must wear garments of mourning, and everyone must pray earnestly to God. They must turn from their evil ways and stop all their violence."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Who can tell? Perhaps even yet God will change his mind and hold back his fierce anger from destroying us.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "When God saw what they had done and how they had put a stop to their evil ways, he changed his mind and did not carry out the destruction he had threatened."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.4"
+        ],
+        "human": "Jonah 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.1"
+        ],
+        "human": "Micah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonah 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Jonah’s Anger at the Lord’s Mercy"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "This change of plans greatly upset Jonah, and he became very angry."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "So he complained to the Lord about it: “Didn’t I say before I left home that you would do this, Lord? That is why I ran away to Tarshish! I knew that you are a merciful and compassionate God, slow to get angry and filled with unfailing love. You are eager to turn back from destroying people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Just kill me now, Lord! I’d rather be dead than alive if what I predicted will not happen.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "The Lord replied, “Is it right for you to be angry about this?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Then Jonah went out to the east side of the city and made a shelter to sit under as he waited to see what would happen to the city."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "And the Lord God arranged for a leafy plant to grow there, and soon it spread its broad leaves over Jonah’s head, shading him from the sun. This eased his discomfort, and Jonah was very grateful for the plant."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "But God also arranged for a worm! The next morning at dawn the worm ate through the stem of the plant so that it withered away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "And as the sun grew hot, God arranged for a scorching east wind to blow on Jonah. The sun beat down on his head until he grew faint and wished to die. “Death is certainly better than living like this!” he exclaimed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Then God said to Jonah, “Is it right for you to be angry because the plant died?”",
+            "“Yes,” Jonah retorted, “even angry enough to die!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Then the Lord said, “You feel sorry about the plant, though you did nothing to put it there. It came quickly and died quickly."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "But Nineveh has more than 120,000 people living in spiritual darkness, not to mention all the animals. Shouldn’t I feel sorry for such a great city?”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

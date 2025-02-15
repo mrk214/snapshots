@@ -1,0 +1,398 @@
+{
+  "book_usfm": "OBA",
+  "name": "Abdías",
+  "local_title": "Biblia Dios Habla Hoy",
+  "local_abbreviation": "DHH94I",
+  "version_id": 52,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+    "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "OBA.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "OBA.1"
+        ],
+        "human": "Abdías 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.1"
+        ],
+        "human": "Jonás 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.9"
+        ],
+        "human": "Amós 9",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "I. AMENAZAS CONTRA EDOM A CAUSA DE SU ARROGANCIA Y SU VIOLENCIA"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "section2",
+          "verse_numbers": [],
+          "lines": [
+            "(1.1-15a)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La humillación de Edom"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Profecía que Abdías recibió del Señor por revelación.",
+            "Hemos oído un mensaje del Señor;",
+            "un mensajero ha ido a las naciones, a decirles:",
+            "«¡En marcha! ¡Vamos a la guerra contra Edom!»",
+            "Dios el Señor le dice a Edom:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "«Voy a hacerte pequeño entre las naciones",
+            "y a humillarte en gran manera."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Tu orgullo te ha engañado.",
+            "Vives en las grietas de las peñas",
+            "y habitas en las alturas,",
+            "y por eso has llegado a creer",
+            "que nadie puede derribarte."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Pero aunque te eleves como el águila",
+            "y pongas tu nido en las estrellas,",
+            "de allí te haré caer.»,",
+            "El Señor afirma:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "«Si los ladrones vinieran de noche a robarte,",
+            "no se lo llevarían todo;",
+            "si vinieran a ti los vendimiadores,",
+            "algunos racimos dejarían.",
+            "En cambio, tus enemigos",
+            "te han destrozado por completo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "¡Cómo te han saqueado, Esaú!",
+            "¡Han robado hasta el último de tus tesoros!,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Todos tus aliados te engañaron;",
+            "te echaron de tu propia tierra.",
+            "Aun tus propios amigos",
+            "se han puesto en contra tuya,",
+            "y tus amigos de confianza te han tendido trampas.",
+            "¡Edom no tiene inteligencia!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "El Señor afirma:",
+            "«El día en que yo castigue a Edom,",
+            "destruiré a todos sus sabios",
+            "y quitaré la inteligencia",
+            "a los de la región montañosa de Esaú."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Los guerreros de Temán temblarán de miedo,",
+            "y en la región montañosa de Esaú",
+            "no quedará nadie con vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Las culpas de Edom"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "»Quedarás cubierto de vergüenza y destruido para siempre,",
+            "por haber maltratado y matado a tu hermano Jacob."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Cuando el enemigo saqueó las riquezas de la ciudad,",
+            "cuando los soldados extranjeros",
+            "rompieron las puertas de Jerusalén,",
+            "¡tú te hiciste a un lado!",
+            "Cuando se rifaron sus despojos",
+            "y se llevaron sus riquezas,",
+            "¡tú te portaste como uno de ellos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "No debiste alegrarte de ver a tu hermano",
+            "en el día de su desgracia,",
+            "ni debiste alegrarte de ver a Judá",
+            "en el día de su ruina,",
+            "ni debiste burlarte de ellos",
+            "en el día de su angustia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "No debiste entrar en mi ciudad",
+            "el día de su sufrimiento,",
+            "ni debiste alegrarte de su desgracia",
+            "el día de su infortunio,",
+            "ni debiste robar sus riquezas",
+            "el día de su calamidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "No te debiste parar en las encrucijadas",
+            "para matar a los que escapaban,",
+            "ni debiste entregar a los que huían",
+            "en el día de la angustia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Lo mismo que hiciste con otros, se hará contigo:",
+            "¡recibirás tu merecido!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "II. EL DÍA DEL SEÑOR Y EL JUICIO DE LAS NACIONES"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "section2",
+          "verse_numbers": [],
+          "lines": [
+            "(1.15b-18)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La exaltación de Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "»Ya está cerca el día del Señor",
+            "para todas las naciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Como fue de amarga la copa que ustedes",
+            "bebieron en mi santo monte,",
+            "así de amarga será la copa que las demás naciones",
+            "beberán sorbo a sorbo;",
+            "y desaparecerán por completo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Pero el monte Sión será un lugar santo",
+            "adonde algunos lograrán escapar.",
+            "Los descendientes de Jacob",
+            "recobrarán sus tierras;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "los descendientes de Jacob y de José",
+            "serán fuego y serán llama,",
+            "y los de Esaú serán estopa",
+            "que aquel fuego devorará completamente.",
+            "¡Ninguno de los de Esaú se salvará!",
+            "Yo, el Señor, lo he dicho.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "III. EPÍLOGO"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "section2",
+          "verse_numbers": [],
+          "lines": [
+            "(19-21)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19,
+            20
+          ],
+          "lines": [
+            "Los israelitas del Négueb tomarán posesión de la región montañosa de Esaú, y los de la llanura se apoderarán del territorio de los filisteos. También tomarán posesión de las tierras de Efraín y del territorio de Samaria, y los de Benjamín se apoderarán de Galaad. Esta multitud de israelitas desterrados tomará posesión del territorio de los cananeos hasta Sarepta, y los cautivos de Jerusalén que están en Sefarad tomarán posesión de las ciudades del Négueb."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Subirán victoriosos al monte Sión para dictar sentencia contra los de la región montañosa de Esaú, y el Señor será quien reine."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

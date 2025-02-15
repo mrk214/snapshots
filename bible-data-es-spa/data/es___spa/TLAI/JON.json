@@ -1,0 +1,670 @@
+{
+  "book_usfm": "JON",
+  "name": "Jonás",
+  "local_title": "Traducción en Lenguaje Actual Interconfesional",
+  "local_abbreviation": "TLAI",
+  "version_id": 178,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+    "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "JON.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.1"
+        ],
+        "human": "Jonás 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonás 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "OBA.1"
+        ],
+        "human": "Abdías 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Jonás desobedece a Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Cierto día, un hombre llamado Jonás hijo de Amitai recibió un mensaje de parte de Dios:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "«¡Levántate, ve a la gran ciudad de Nínive y diles que ya he visto lo malvados que son!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Pero en vez de ir a Nínive, Jonás decidió irse lo más lejos posible, a un lugar donde Dios no pudiera encontrarlo. Llegó al puerto de Jope y encontró un barco que estaba a punto de salir. Pagó su pasaje y se embarcó, contento de irse lo más lejos posible de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Cuando ya estaban en alta mar, Dios mandó un viento muy fuerte que pronto se convirtió en una terrible tempestad. El barco estaba a punto de romperse en pedazos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Cada uno de los marineros, temblando de miedo, llamaba a gritos a su dios. Ya desesperados, arrojaron al mar toda la carga del barco para quitarle peso. Mientras tanto, Jonás dormía plácidamente en la bodega del barco."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "El capitán se le acercó y le dijo:",
+            "—¡Qué haces aquí, dormilón! ¡Levántate y pide ayuda a tu dios! ¡Tal vez nos salve al ver que estamos en peligro!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Al mismo tiempo, los marineros decían:",
+            "—Echemos suertes para saber quién tiene la culpa de nuestra desgracia.",
+            "Echaron suertes, y Jonás resultó culpable."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Entonces, los marineros preguntaron a Jonás:",
+            "—¡Dinos ya por qué estamos sufriendo todo esto! ¿En qué trabajas? ¿De dónde vienes? ¿Cuál es tu país? ¿De qué nacionalidad eres?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Jonás respondió:",
+            "—Soy hebreo y adoro a nuestro Dios, soberano y creador de todas las cosas. Lo que está pasando es culpa mía, pues estoy huyendo de él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10,
+            11
+          ],
+          "lines": [
+            "Los marineros, llenos de terror, le dijeron:",
+            "—¿Por qué has hecho esto? ¿Qué podemos hacer contigo? ¡El agua se nos viene encima y la tormenta se está poniendo más violenta!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "—Échenme al mar, y el mar se calmará —contestó Jonás—. Esta terrible tempestad cayó sobre ustedes por mi culpa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Los marineros comenzaron a remar con todas sus fuerzas, tratando de acercar el barco a tierra; pero no pudieron. Las olas eran cada vez más altas, y la tormenta casi los destruía."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Desesperados, los marineros gritaron: «¡Dios! ¡Por favor, no nos dejes morir por matar a un hombre inocente! No nos culpes de su muerte, pues eres tú, Dios mío, quien ha querido hacer todo esto»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Entonces los marineros tomaron a Jonás y lo tiraron al mar. De inmediato el mar se calmó."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Al ver lo sucedido, los marineros reconocieron al Dios de Israel como su Dios, le presentaron una ofrenda y prometieron seguir adorándolo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "17 (2.1) Entonces Dios mandó un pez enorme, que se tragó a Jonás. Y Jonás estuvo dentro del pez tres días y tres noches."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonás 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonás 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.1"
+        ],
+        "human": "Jonás 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Jonás ora a Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "1 (2) Desde allí, Jonás oró a Dios:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "2 (3) «Cuando estaba sufriendo,",
+            "tú, mi Dios, me ayudaste.",
+            "Cuando estaba casi muerto,",
+            "pedí ayuda y me la diste."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "3 (4) »Me arrojaste a lo más hondo del mar.",
+            "Solo agua veía yo por todos lados;",
+            "grandes olas cruzaban sobre mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "4 (5) »Llegué a pensar que ya no me querías,",
+            "que no volvería a entrar en tu templo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "5 (6) »Me había hundido por completo.",
+            "El mar me cubría todo,",
+            "y las algas se enredaban en mi cabeza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "6 (7) »Creí que ya nunca saldría del fondo del mar.",
+            "Pero tú, Dios mío, me salvaste la vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "7 (8) »Cuando ya estaba sin fuerzas,",
+            "me acordé de ti, y oré.",
+            "Mi oración llegó hasta tu santuario."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "8 (9) »Los que adoran a otros dioses,",
+            "a los ídolos sin vida,",
+            "no pueden decir que tú eres su Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "9 (10) »Pero yo voy a adorarte",
+            "y a cantarte con alegría.",
+            "Cumpliré las promesas que te hice.",
+            "¡Porque solo tú puedes salvar!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "10 (11) Por fin, Dios le ordenó al pez: «¡Arroja a Jonás en la orilla del mar!»"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonás 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.4"
+        ],
+        "human": "Jonás 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonás 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Jonás obedece a Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Dios volvió a hablarle a Jonás, y le dio esta orden:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "«¡Levántate, ve a la gran ciudad de Nínive! Anúnciales el mensaje que voy a darte»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Esta vez Jonás sí obedeció a Dios: se levantó y se fue a Nínive. Aquella ciudad era tan grande que para recorrerla toda se necesitaban tres días completos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Jonás entró en la ciudad, y durante todo un día estuvo anunciando: «¡Dentro de cuarenta días Dios va a destruir esta ciudad!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Entonces toda la gente de Nínive dejó de hacer lo malo y decidió obedecer solo a Dios. Y como querían demostrar que deseaban cambiar su manera de vivir, se pusieron ropa de tela áspera y ayunaron. Todos ellos, desde el más rico hasta el más pobre, no comieron nada ese día."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Cuando el rey de Nínive supo esto, se levantó de su trono. Luego se quitó sus ropas finas, se puso ropas ásperas, y se sentó en el suelo. Todo esto lo hizo en señal de humildad ante Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "De inmediato el rey envió un anuncio a toda la gente de Nínive:",
+            "«Esta es una orden del rey y de sus ministros: Que nadie coma nada. Se prohíbe que la gente, las vacas y las ovejas coman o beban."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Todo el mundo está obligado a ponerse ropas ásperas, y deberán cubrir los animales con mantas ásperas.",
+            "»Además, les pedimos a todos ustedes que oren a Dios con todas sus fuerzas, que dejen de hacer lo malo, y que ya no se peleen ni maltraten a nadie."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Si dejamos de hacer lo malo, tal vez a Dios se le pase el enojo, y no nos destruirá»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Y al ver que toda la gente de Nínive dejó de hacer lo malo, Dios decidió no destruirlos."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.4"
+        ],
+        "human": "Jonás 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.1"
+        ],
+        "human": "Miqueas 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonás 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Jonás discute con Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Jonás se enojó muchísimo, pues no le gustó que Dios hubiera perdonado a la gente de Nínive."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Muy molesto, le dijo a Dios:",
+            "—¡Ya lo decía yo, mi Dios, ya lo decía yo! Hiciste lo que pensé que harías cuando aún estaba en mi tierra. Por eso quise huir lejos de ti.",
+            "»Yo sé que eres un Dios muy bueno; te compadeces de todos y es difícil que te enojes. Eres tan cariñoso que, cuando dices que vas a castigar, después cambias de opinión y no lo haces."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "A mí me molesta eso; prefiero que me quites la vida. Si vas a ser así, mejor mátame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Dios le preguntó a Jonás:",
+            "—¿Qué razón tienes para enojarte así?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Jonás salió de la ciudad y se fue a un lugar desde donde podía verlo todo. Luego cortó unas ramas y construyó un refugio para protegerse del sol. Se sentó bajo la sombra, y se puso a esperar lo que iba a pasarle a la ciudad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Por su parte, Dios hizo brotar una planta; esta creció y cubrió el refugio de Jonás. Así Dios le dio a Jonás una sombra mejor para que no sintiera tanto calor. ¡Jonás quedó muy contento con aquella planta!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Pero después, Dios hizo que un gusano viniera al otro día, y picara la planta. Esta pronto se secó,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "y cuando salió el sol, Dios mandó un viento tan caliente que el pobre Jonás casi se desmayaba. Era tanto el calor que Jonás quería morirse; por eso gritó:",
+            "—¡Prefiero morir que seguir viviendo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Entonces Dios le preguntó a Jonás:",
+            "—¿Crees que es justo que te enojes tanto porque se secó esa planta?",
+            "—Por supuesto que sí —dijo Jonás—. Sin ella, prefiero morirme."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Dios le respondió a Jonás:",
+            "—Estás preocupado por una planta que no sembraste ni hiciste crecer. En una noche creció, y en la otra se secó."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "¿No crees que yo debo preocuparme y tener compasión por la ciudad de Nínive? En esta gran ciudad viven ciento veinte mil personas que no saben qué hacer para salvarse, y hay muchos animales."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

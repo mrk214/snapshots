@@ -1,0 +1,376 @@
+{
+  "book_usfm": "OBA",
+  "name": "Obadiah",
+  "local_title": "New Living Translation",
+  "local_abbreviation": "NLT",
+  "version_id": 116,
+  "publisher": {
+    "name": "Tyndale House Publishers Inc."
+  },
+  "copyright": {
+    "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+    "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "OBA.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "OBA.1"
+        ],
+        "human": "Obadiah 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.1"
+        ],
+        "human": "Jonah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.9"
+        ],
+        "human": "Amos 9",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "This is the vision that the Sovereign Lord revealed to Obadiah concerning the land of Edom."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Edom’s Judgment Announced"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "We have heard a message from the Lord",
+            "that an ambassador was sent to the nations to say,",
+            "“Get ready, everyone!",
+            "Let’s assemble our armies and attack Edom!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "The Lord says to Edom,",
+            "“I will cut you down to size among the nations;",
+            "you will be greatly despised."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "You have been deceived by your own pride",
+            "because you live in a rock fortress",
+            "and make your home high in the mountains.",
+            "‘Who can ever reach us way up here?’",
+            "you ask boastfully."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "But even if you soar as high as eagles",
+            "and build your nest among the stars,",
+            "I will bring you crashing down,”",
+            "says the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "“If thieves came at night and robbed you",
+            "(what a disaster awaits you!),",
+            "they would not take everything.",
+            "Those who harvest grapes",
+            "always leave a few for the poor.",
+            "But your enemies will wipe you out completely!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Every nook and cranny of Edom",
+            "will be searched and looted.",
+            "Every treasure will be found and taken."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "“All your allies will turn against you.",
+            "They will help to chase you from your land.",
+            "They will promise you peace",
+            "while plotting to deceive and destroy you.",
+            "Your trusted friends will set traps for you,",
+            "and you won’t even know about it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "At that time not a single wise person",
+            "will be left in the whole land of Edom,”",
+            "says the Lord.",
+            "“For on the mountains of Edom",
+            "I will destroy everyone who has understanding."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "The mightiest warriors of Teman",
+            "will be terrified,",
+            "and everyone on the mountains of Edom",
+            "will be cut down in the slaughter."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Reasons for Edom’s Punishment"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "“Because of the violence you did",
+            "to your close relatives in Israel,",
+            "you will be filled with shame",
+            "and destroyed forever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "When they were invaded,",
+            "you stood aloof, refusing to help them.",
+            "Foreign invaders carried off their wealth",
+            "and cast lots to divide up Jerusalem,",
+            "but you acted like one of Israel’s enemies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "“You should not have gloated",
+            "when they exiled your relatives to distant lands.",
+            "You should not have rejoiced",
+            "when the people of Judah suffered such misfortune.",
+            "You should not have spoken arrogantly",
+            "in that terrible time of trouble."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "You should not have plundered the land of Israel",
+            "when they were suffering such calamity.",
+            "You should not have gloated over their destruction",
+            "when they were suffering such calamity.",
+            "You should not have seized their wealth",
+            "when they were suffering such calamity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "You should not have stood at the crossroads,",
+            "killing those who tried to escape.",
+            "You should not have captured the survivors",
+            "and handed them over in their terrible time of trouble."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Edom Destroyed, Israel Restored"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "“The day is near when I, the Lord,",
+            "will judge all godless nations!",
+            "As you have done to Israel,",
+            "so it will be done to you.",
+            "All your evil deeds",
+            "will fall back on your own heads."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Just as you swallowed up my people",
+            "on my holy mountain,",
+            "so you and the surrounding nations",
+            "will swallow the punishment I pour out on you.",
+            "Yes, all you nations will drink and stagger",
+            "and disappear from history."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "“But Jerusalem will become a refuge for those who escape;",
+            "it will be a holy place.",
+            "And the people of Israel will come back",
+            "to reclaim their inheritance."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "The people of Israel will be a raging fire,",
+            "and Edom a field of dry stubble.",
+            "The descendants of Joseph will be a flame",
+            "roaring across the field, devouring everything.",
+            "There will be no survivors in Edom.",
+            "I, the Lord, have spoken!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "“Then my people living in the Negev",
+            "will occupy the mountains of Edom.",
+            "Those living in the foothills of Judah",
+            "will possess the Philistine plains",
+            "and take over the fields of Ephraim and Samaria.",
+            "And the people of Benjamin",
+            "will occupy the land of Gilead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "The exiles of Israel will return to their land",
+            "and occupy the Phoenician coast as far north as Zarephath.",
+            "The captives from Jerusalem exiled in the north",
+            "will return home and resettle the towns of the Negev."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Those who have been rescued will go up to Mount Zion in Jerusalem",
+            "to rule over the mountains of Edom.",
+            "And the Lord himself will be king!”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

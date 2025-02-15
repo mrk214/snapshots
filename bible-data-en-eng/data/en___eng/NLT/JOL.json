@@ -1,0 +1,1091 @@
+{
+  "book_usfm": "JOL",
+  "name": "Joel",
+  "local_title": "New Living Translation",
+  "local_abbreviation": "NLT",
+  "version_id": 116,
+  "publisher": {
+    "name": "Tyndale House Publishers Inc."
+  },
+  "copyright": {
+    "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+    "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "JOL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.14"
+        ],
+        "human": "Hosea 14",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "The Lord gave this message to Joel son of Pethuel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Mourning over the Locust Plague"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Hear this, you leaders of the people.",
+            "Listen, all who live in the land.",
+            "In all your history,",
+            "has anything like this happened before?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Tell your children about it in the years to come,",
+            "and let your children tell their children.",
+            "Pass the story down from generation to generation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "After the cutting locusts finished eating the crops,",
+            "the swarming locusts took what was left!",
+            "After them came the hopping locusts,",
+            "and then the stripping locusts, too!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Wake up, you drunkards, and weep!",
+            "Wail, all you wine-drinkers!",
+            "All the grapes are ruined,",
+            "and all your sweet wine is gone."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "A vast army of locusts has invaded my land,",
+            "a terrible army too numerous to count.",
+            "Its teeth are like lions’ teeth,",
+            "its fangs like those of a lioness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "It has destroyed my grapevines",
+            "and ruined my fig trees,",
+            "stripping their bark and destroying it,",
+            "leaving the branches white and bare."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Weep like a bride dressed in black,",
+            "mourning the death of her husband."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "For there is no grain or wine",
+            "to offer at the Temple of the Lord.",
+            "So the priests are in mourning.",
+            "The ministers of the Lord are weeping."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "The fields are ruined,",
+            "the land is stripped bare.",
+            "The grain is destroyed,",
+            "the grapes have shriveled,",
+            "and the olive oil is gone."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Despair, all you farmers!",
+            "Wail, all you vine growers!",
+            "Weep, because the wheat and barley—",
+            "all the crops of the field—are ruined."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "The grapevines have dried up,",
+            "and the fig trees have withered.",
+            "The pomegranate trees, palm trees, and apple trees—",
+            "all the fruit trees—have dried up.",
+            "And the people’s joy has dried up with them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Dress yourselves in burlap and weep, you priests!",
+            "Wail, you who serve before the altar!",
+            "Come, spend the night in burlap,",
+            "you ministers of my God.",
+            "For there is no grain or wine",
+            "to offer at the Temple of your God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Announce a time of fasting;",
+            "call the people together for a solemn meeting.",
+            "Bring the leaders",
+            "and all the people of the land",
+            "into the Temple of the Lord your God,",
+            "and cry out to him there."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "The day of the Lord is near,",
+            "the day when destruction comes from the Almighty.",
+            "How terrible that day will be!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Our food disappears before our very eyes.",
+            "No joyful celebrations are held in the house of our God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "The seeds die in the parched ground,",
+            "and the grain crops fail.",
+            "The barns stand empty,",
+            "and granaries are abandoned."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "How the animals moan with hunger!",
+            "The herds of cattle wander about confused,",
+            "because they have no pasture.",
+            "The flocks of sheep and goats bleat in misery."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Lord, help us!",
+            "The fire has consumed the wilderness pastures,",
+            "and flames have burned up all the trees."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Even the wild animals cry out to you",
+            "because the streams have dried up,",
+            "and fire has consumed the wilderness pastures."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Locusts Invade like an Army"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Sound the trumpet in Jerusalem!",
+            "Raise the alarm on my holy mountain!",
+            "Let everyone tremble in fear",
+            "because the day of the Lord is upon us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "It is a day of darkness and gloom,",
+            "a day of thick clouds and deep blackness.",
+            "Suddenly, like dawn spreading across the mountains,",
+            "a great and mighty army appears.",
+            "Nothing like it has been seen before",
+            "or will ever be seen again."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Fire burns in front of them,",
+            "and flames follow after them.",
+            "Ahead of them the land lies",
+            "as beautiful as the Garden of Eden.",
+            "Behind them is nothing but desolation;",
+            "not one thing escapes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "They look like horses;",
+            "they charge forward like warhorses."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Look at them as they leap along the mountaintops.",
+            "Listen to the noise they make—like the rumbling of chariots,",
+            "like the roar of fire sweeping across a field of stubble,",
+            "or like a mighty army moving into battle."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Fear grips all the people;",
+            "every face grows pale with terror."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "The attackers march like warriors",
+            "and scale city walls like soldiers.",
+            "Straight forward they march,",
+            "never breaking rank."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "They never jostle each other;",
+            "each moves in exactly the right position.",
+            "They break through defenses",
+            "without missing a step."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "They swarm over the city",
+            "and run along its walls.",
+            "They enter all the houses,",
+            "climbing like thieves through the windows."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "The earth quakes as they advance,",
+            "and the heavens tremble.",
+            "The sun and moon grow dark,",
+            "and the stars no longer shine."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "The Lord is at the head of the column.",
+            "He leads them with a shout.",
+            "This is his mighty army,",
+            "and they follow his orders.",
+            "The day of the Lord is an awesome, terrible thing.",
+            "Who can possibly survive?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "A Call to Repentance"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "That is why the Lord says,",
+            "“Turn to me now, while there is time.",
+            "Give me your hearts.",
+            "Come with fasting, weeping, and mourning."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Don’t tear your clothing in your grief,",
+            "but tear your hearts instead.”",
+            "Return to the Lord your God,",
+            "for he is merciful and compassionate,",
+            "slow to get angry and filled with unfailing love.",
+            "He is eager to relent and not punish."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Who knows? Perhaps he will give you a reprieve,",
+            "sending you a blessing instead of this curse.",
+            "Perhaps you will be able to offer grain and wine",
+            "to the Lord your God as before."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Blow the ram’s horn in Jerusalem!",
+            "Announce a time of fasting;",
+            "call the people together",
+            "for a solemn meeting."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Gather all the people—",
+            "the elders, the children, and even the babies.",
+            "Call the bridegroom from his quarters",
+            "and the bride from her private room."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Let the priests, who minister in the Lord’s presence,",
+            "stand and weep between the entry room to the Temple and the altar.",
+            "Let them pray, “Spare your people, Lord!",
+            "Don’t let your special possession become an object of mockery.",
+            "Don’t let them become a joke for unbelieving foreigners who say,",
+            "‘Has the God of Israel left them?’”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Lord’s Promise of Restoration"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Then the Lord will pity his people",
+            "and jealously guard the honor of his land."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "The Lord will reply,",
+            "“Look! I am sending you grain and new wine and olive oil,",
+            "enough to satisfy your needs.",
+            "You will no longer be an object of mockery",
+            "among the surrounding nations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "I will drive away these armies from the north.",
+            "I will send them into the parched wastelands.",
+            "Those in the front will be driven into the Dead Sea,",
+            "and those at the rear into the Mediterranean.",
+            "The stench of their rotting bodies will rise over the land.”",
+            "Surely the Lord has done great things!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Don’t be afraid, O land.",
+            "Be glad now and rejoice,",
+            "for the Lord has done great things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Don’t be afraid, you animals of the field,",
+            "for the wilderness pastures will soon be green.",
+            "The trees will again be filled with fruit;",
+            "fig trees and grapevines will be loaded down once more."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "Rejoice, you people of Jerusalem!",
+            "Rejoice in the Lord your God!",
+            "For the rain he sends demonstrates his faithfulness.",
+            "Once more the autumn rains will come,",
+            "as well as the rains of spring."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "The threshing floors will again be piled high with grain,",
+            "and the presses will overflow with new wine and olive oil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "The Lord says, “I will give you back what you lost",
+            "to the swarming locusts, the hopping locusts,",
+            "the stripping locusts, and the cutting locusts.",
+            "It was I who sent this great destroying army against you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "Once again you will have all the food you want,",
+            "and you will praise the Lord your God,",
+            "who does these miracles for you.",
+            "Never again will my people be disgraced."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "Then you will know that I am among my people Israel,",
+            "that I am the Lord your God, and there is no other.",
+            "Never again will my people be disgraced."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Lord’s Promise of His Spirit"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            28
+          ],
+          "lines": [
+            "“Then, after doing all those things,",
+            "I will pour out my Spirit upon all people.",
+            "Your sons and daughters will prophesy.",
+            "Your old men will dream dreams,",
+            "and your young men will see visions."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            29
+          ],
+          "lines": [
+            "In those days I will pour out my Spirit",
+            "even on servants—men and women alike."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            30
+          ],
+          "lines": [
+            "And I will cause wonders in the heavens and on the earth—",
+            "blood and fire and columns of smoke."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            31
+          ],
+          "lines": [
+            "The sun will become dark,",
+            "and the moon will turn blood red",
+            "before that great and terrible day of the Lord arrives."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            32
+          ],
+          "lines": [
+            "But everyone who calls on the name of the Lord",
+            "will be saved,",
+            "for some on Mount Zion in Jerusalem will escape,",
+            "just as the Lord has said.",
+            "These will be among the survivors",
+            "whom the Lord has called."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amos 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Judgment against Enemy Nations"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "“At the time of those events,” says the Lord,",
+            "“when I restore the prosperity of Judah and Jerusalem,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "I will gather the armies of the world",
+            "into the valley of Jehoshaphat.",
+            "There I will judge them",
+            "for harming my people, my special possession,",
+            "for scattering my people among the nations,",
+            "and for dividing up my land."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "They threw dice to decide which of my people",
+            "would be their slaves.",
+            "They traded boys to obtain prostitutes",
+            "and sold girls for enough wine to get drunk."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "“What do you have against me, Tyre and Sidon and you cities of Philistia? Are you trying to take revenge on me? If you are, then watch out! I will strike swiftly and pay you back for everything you have done."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "You have taken my silver and gold and all my precious treasures, and have carried them off to your pagan temples."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "You have sold the people of Judah and Jerusalem to the Greeks, so they could take them far from their homeland."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "“But I will bring them back from all the places to which you sold them, and I will pay you back for everything you have done."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "I will sell your sons and daughters to the people of Judah, and they will sell them to the people of Arabia, a nation far away. I, the Lord, have spoken!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Say to the nations far and wide:",
+            "“Get ready for war!",
+            "Call out your best warriors.",
+            "Let all your fighting men advance for the attack."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Hammer your plowshares into swords",
+            "and your pruning hooks into spears.",
+            "Train even your weaklings to be warriors."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Come quickly, all you nations everywhere.",
+            "Gather together in the valley.”",
+            "And now, O Lord, call out your warriors!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "“Let the nations be called to arms.",
+            "Let them march to the valley of Jehoshaphat.",
+            "There I, the Lord, will sit",
+            "to pronounce judgment on them all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Swing the sickle,",
+            "for the harvest is ripe.",
+            "Come, tread the grapes,",
+            "for the winepress is full.",
+            "The storage vats are overflowing",
+            "with the wickedness of these people.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Thousands upon thousands are waiting in the valley of decision.",
+            "There the day of the Lord will soon arrive."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "The sun and moon will grow dark,",
+            "and the stars will no longer shine."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "The Lord’s voice will roar from Zion",
+            "and thunder from Jerusalem,",
+            "and the heavens and the earth will shake.",
+            "But the Lord will be a refuge for his people,",
+            "a strong fortress for the people of Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Blessings for God’s People"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "“Then you will know that I, the Lord your God,",
+            "live in Zion, my holy mountain.",
+            "Jerusalem will be holy forever,",
+            "and foreign armies will never conquer her again."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "In that day the mountains will drip with sweet wine,",
+            "and the hills will flow with milk.",
+            "Water will fill the streambeds of Judah,",
+            "and a fountain will burst forth from the Lord’s Temple,",
+            "watering the arid valley of acacias."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "But Egypt will become a wasteland",
+            "and Edom will become a wilderness,",
+            "because they attacked the people of Judah",
+            "and killed innocent people in their land."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "“But Judah will be filled with people forever,",
+            "and Jerusalem will endure through all generations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "I will pardon my people’s crimes,",
+            "which I have not yet pardoned;",
+            "and I, the Lord, will make my home",
+            "in Jerusalem with my people.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

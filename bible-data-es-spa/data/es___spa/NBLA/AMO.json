@@ -1,0 +1,2102 @@
+{
+  "book_usfm": "AMO",
+  "name": "Amós",
+  "local_title": "Nueva Biblia de las Américas",
+  "local_abbreviation": "NBLA",
+  "version_id": 103,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+    "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "AMO.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amós 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.2"
+        ],
+        "human": "Amós 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Juicio contra las naciones vecinas"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Palabras de Amós, que fue uno de los pastores de Tecoa, de lo que vio en visión acerca de Israel en días de Uzías, rey de Judá, y en días de Jeroboam, hijo de Joás, rey de Israel, dos años antes del terremoto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Amós dijo:",
+            "«El Señor ruge desde Sión,",
+            "Y desde Jerusalén da Su voz;",
+            "Los pastizales de los pastores están de duelo,",
+            "Y se seca la cumbre del monte Carmelo»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "¶Así dice el Señor:",
+            "«Por tres transgresiones de Damasco, y por cuatro,",
+            "No revocaré su castigo,",
+            "Porque trillaron a Galaad con trillos de hierro."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "-»Por eso enviaré fuego sobre la casa de Hazael,",
+            "Que consumirá los palacios de Ben Adad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "-»También romperé el cerrojo de Damasco,",
+            "Exterminaré al morador del valle de Avén",
+            "Y al que empuña el cetro de Bet Edén.",
+            "El pueblo de Aram será desterrado a Kir»,",
+            "Dice el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "¶Así dice el Señor:",
+            "«Por tres transgresiones de Gaza, y por cuatro,",
+            "No revocaré su castigo,",
+            "Por haber deportado a todo un pueblo",
+            "Para entregarlo a Edom."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "-»Enviaré, pues, fuego sobre la muralla de Gaza,",
+            "Que consumirá sus palacios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "-»También exterminaré al morador de Asdod,",
+            "Y al que empuña el cetro de Ascalón;",
+            "Desataré Mi poder contra Ecrón,",
+            "Y el remanente de los filisteos perecerá»,",
+            "Dice el Señor Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "¶Así dice el Señor:",
+            "«Por tres transgresiones de Tiro, y por cuatro,",
+            "No revocaré su castigo,",
+            "Por haber entregado todo un pueblo cautivo a Edom",
+            "Sin acordarse del pacto de hermanos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "-»Enviaré, pues, fuego sobre la muralla de Tiro,",
+            "Que consumirá sus palacios»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "¶Así dice el Señor:",
+            "«Por tres transgresiones de Edom, y por cuatro,",
+            "No revocaré su castigo,",
+            "Porque con espada persiguió a su hermano,",
+            "Y suprimió su compasión;",
+            "Su ira continuó despedazando",
+            "Y mantuvo su furor para siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "-»Enviaré, pues, fuego sobre Temán,",
+            "Que consumirá los palacios de Bosra»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "¶Así dice el Señor:",
+            "«Por tres transgresiones de los amonitas, y por cuatro,",
+            "No revocaré su castigo,",
+            "Porque abrieron los vientres de las mujeres encinta de Galaad",
+            "Para ensanchar sus fronteras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "-»Encenderé, pues, fuego en la muralla de Rabá,",
+            "Que consumirá sus palacios",
+            "En medio de gritos de guerra en el día de la batalla,",
+            "En medio de una tempestad en el día de la tormenta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "-»Su rey irá al destierro,",
+            "Él y sus príncipes con él», dice el Señor."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.2"
+        ],
+        "human": "Amós 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.3"
+        ],
+        "human": "Amós 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amós 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Así dice el Señor:",
+            "«Por tres transgresiones de Moab, y por cuatro,",
+            "No revocaré su castigo,",
+            "Porque quemó los huesos del rey de Edom hasta calcinarlos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "-»Enviaré, pues, fuego sobre Moab,",
+            "Que consumirá los palacios de Queriot,",
+            "Y Moab morirá entre el tumulto,",
+            "Entre gritos de guerra y sonido de trompeta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "-»También exterminaré al juez de en medio de ella,",
+            "Y mataré a todos sus príncipes con él», dice el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Juicio contra Judá e Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "¶Así dice el Señor:",
+            "«Por tres transgresiones de Judá, y por cuatro,",
+            "No revocaré su castigo,",
+            "Porque desecharon la ley del Señor",
+            "Y no guardaron Sus estatutos;",
+            "También les han hecho errar sus mentiras,",
+            "Tras las cuales anduvieron sus padres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "-»Enviaré, pues, fuego sobre Judá,",
+            "Y consumirá los palacios de Jerusalén»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "¶Así dice el Señor:",
+            "«Por tres transgresiones de Israel, y por cuatro,",
+            "No revocaré su castigo,",
+            "Porque venden al justo por dinero",
+            "Y al necesitado por un par de sandalias."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "-»Los que pisotean en el polvo de la tierra la cabeza de los desvalidos,",
+            "También tuercen el camino de los humildes.",
+            "Un hombre y su padre se llegan a la misma joven",
+            "Profanando Mi santo nombre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "-»Sobre ropas empeñadas se tienden junto a cualquier altar,",
+            "Y el vino de los que han sido multados lo beben en la casa de su Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "¶»Yo mismo destruí a los amorreos delante de ellos,",
+            "Cuya altura era como la altura de los cedros,",
+            "Y era fuerte como las encinas;",
+            "Destruí su fruto arriba y su raíz abajo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "-»Y a ustedes Yo los hice subir de la tierra de Egipto,",
+            "Y los conduje por el desierto cuarenta años",
+            "Para que tomaran posesión de la tierra del amorreo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "-»Y levanté profetas de entre sus hijos",
+            "Y nazareos de entre sus jóvenes.",
+            "¿No es así, israelitas?», declara el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "«Pero ustedes hicieron beber vino a los nazareos,",
+            "Y a los profetas les ordenaron: “No profeticen”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "-»Así que yo estoy oprimido debajo de ustedes",
+            "Como está oprimida una carreta llena de gavillas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "-»La huida le fallará al ligero,",
+            "Y el fuerte no fortalecerá su poder,",
+            "Ni el valiente salvará su vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "-»El que empuña el arco no resistirá,",
+            "El ligero de pies no escapará,",
+            "Ni el que monta a caballo salvará su vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "-»Aun el más intrépido entre los valientes huirá desnudo aquel día», declara el Señor."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.3"
+        ],
+        "human": "Amós 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.4"
+        ],
+        "human": "Amós 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.2"
+        ],
+        "human": "Amós 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Castigo de Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Oigan esta palabra que el Señor ha hablado contra ustedes, israelitas, contra toda la familia que Él sacó de la tierra de Egipto:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "«Solo a ustedes he escogido de todas las familias de la tierra;",
+            "Por eso los castigaré por todas sus iniquidades»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "¿Andan dos hombres juntos si no se han puesto de acuerdo?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "¿Ruge un león en la selva sin tener presa?",
+            "¿Gruñe un leoncillo desde su guarida si no ha apresado algo?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "¿Cae un ave en la trampa en la tierra si no hay cebo en ella?",
+            "¿Se levanta la trampa del suelo si no ha atrapado algo?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Si se toca la trompeta en la ciudad, ¿no temblará el pueblo?",
+            "Si sucede una calamidad en la ciudad, ¿no la ha causado el Señor?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Ciertamente el Señor Dios no hace nada",
+            "Sin revelar Su secreto",
+            "A Sus siervos los profetas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Ha rugido un león, ¿quién no temerá?",
+            "Ha hablado el Señor Dios, ¿quién no profetizará?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Proclamen en los palacios de Asdod y en los palacios de la tierra de Egipto, y digan: «Congréguense en los montes de Samaria y vean los grandes tumultos dentro de ella y la opresión en medio suyo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "No saben hacer lo recto», declara el Señor, «los que acumulan violencia y destrucción en sus palacios»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "¶Por tanto, así dice el Señor Dios:",
+            "«Un enemigo, rodeando la tierra,",
+            "Echará abajo tu poder",
+            "Y serán saqueados tus palacios»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Así dice el Señor:",
+            "«Como el pastor rescata de la boca del león dos patas o un pedazo de oreja,",
+            "Así serán rescatados los israelitas que moran en Samaria,",
+            "En la esquina de una cama y en la cubierta de un sofá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "-»Oigan y testifiquen contra la casa de Jacob»,",
+            "Declara el Señor Dios, el Dios de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "«Porque el día que Yo castigue las transgresiones de Israel,",
+            "Castigaré también los altares de Betel;",
+            "Los cuernos del altar serán cortados",
+            "Y caerán a tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "-»Derribaré también la casa de invierno junto con la casa de verano;",
+            "También perecerán las casas de marfil,",
+            "Y muchas casas serán destruidas»,",
+            "Declara el Señor."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.4"
+        ],
+        "human": "Amós 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.5"
+        ],
+        "human": "Amós 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.3"
+        ],
+        "human": "Amós 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Oigan esta palabra, vacas de Basán, ustedes que están en el monte de Samaria,",
+            "Que oprimen a los pobres, quebrantan a los menesterosos,",
+            "Y dicen a sus maridos: «Traigan ahora, para que bebamos»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "El Señor Dios ha jurado por Su santidad:",
+            "«Vendrán días sobre ustedes",
+            "En que las llevarán con garfios,",
+            "Y a su remanente con anzuelos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "-»Saldrán por las brechas,",
+            "Una tras otra,",
+            "Y serán expulsadas al Harmón», declara el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "¶«Entren en Betel y pequen,",
+            "Multipliquen en Gilgal las transgresiones;",
+            "Traigan sus sacrificios cada mañana,",
+            "Sus diezmos cada tres días."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "-»Ofrezcan también pan leudado en ofrenda de gratitud,",
+            "Y proclamen ofrendas voluntarias, denlas a conocer,",
+            "Puesto que así les place, israelitas»,",
+            "Declara el Señor Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "¶«Pero yo también los he puesto a diente limpio en todas sus ciudades,",
+            "Y a falta de pan en todos sus lugares.",
+            "Sin embargo, ustedes no se han vuelto a Mí», declara el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "«Y además les retuve la lluvia",
+            "Cuando aún faltaban tres meses para la siega.",
+            "Hice llover sobre una ciudad",
+            "Y sobre otra ciudad no hice llover;",
+            "Sobre una parte llovía,",
+            "Y la parte donde no llovía, se secó."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "-»Así que de dos o tres ciudades iban tambaleándose a otra ciudad para beber agua,",
+            "Y no se saciaban.",
+            "Sin embargo, ustedes no se han vuelto a Mí», declara el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "«Los herí con viento abrasador y con plagas;",
+            "Y la oruga ha devorado",
+            "Sus muchos huertos y viñedos, sus higueras y sus olivos.",
+            "Sin embargo, ustedes no se han vuelto a Mí», declara el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "«Envié contra ustedes una plaga, como la plaga de Egipto,",
+            "Maté a espada a sus jóvenes, junto con sus caballos capturados,",
+            "E hice subir hasta sus narices el hedor de su campamento.",
+            "Sin embargo, ustedes no se han vuelto a Mí», declara el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "«Los destruí como Dios destruyó a Sodoma y a Gomorra,",
+            "Y fueron como tizón arrebatado de la hoguera.",
+            "Sin embargo, ustedes no se han vuelto a Mí», declara el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "«Por tanto, así haré contigo, Israel;",
+            "Y porque te he de hacer esto,",
+            "Prepárate para encontrarte con tu Dios, oh Israel»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Pues el que forma los montes, crea el viento",
+            "Y declara al hombre cuáles son Sus pensamientos,",
+            "El que del alba hace tinieblas",
+            "Y camina sobre las alturas de la tierra:",
+            "El Señor, Dios de los ejércitos, es Su nombre."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.5"
+        ],
+        "human": "Amós 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.6"
+        ],
+        "human": "Amós 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.4"
+        ],
+        "human": "Amós 4",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Exhortación al arrepentimiento"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Oigan esta palabra que yo pronuncio como lamentación sobre ustedes, casa de Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Ha caído, no volverá a levantarse",
+            "La virgen de Israel.",
+            "Abandonada yace en su tierra,",
+            "No hay quien la levante."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Porque así dice el Señor Dios:",
+            "«La ciudad que sale con mil,",
+            "Se quedará con cien;",
+            "Y la que sale con cien,",
+            "Se quedará con diez en la casa de Israel»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "¶Porque así dice el Señor a la casa de Israel:",
+            "«Búsquenme, y vivirán."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "-»Pero no busquen a Betel,",
+            "Ni vayan a Gilgal,",
+            "Ni pasen a Beerseba;",
+            "Porque ciertamente Gilgal será llevada cautiva,",
+            "Y Betel caerá en desgracia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "-»Busquen al Señor y vivirán,",
+            "No sea que Él les caiga como fuego, oh casa de José,",
+            "Y consuma a Betel sin que haya quien lo apague;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Consuma a los que convierten el juicio en ajenjo",
+            "Y echan por tierra la justicia»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "¶El que hizo las Pléyades y el Orión,",
+            "Cambia las densas tinieblas en aurora,",
+            "Y hace oscurecer el día en noche;",
+            "El que llama a las aguas del mar,",
+            "Y las derrama sobre la superficie de la tierra:",
+            "El Señor es Su nombre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Él es quien desencadena destrucción sobre el fuerte,",
+            "Y hace que la ruina venga sobre la fortaleza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "¶Ellos odian en la puerta al que reprende,",
+            "Y aborrecen al que habla con integridad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Por tanto, ya que imponen fuertes impuestos sobre el pobre",
+            "Y exigen de él tributo de grano,",
+            "Las casas de piedra labrada que han edificado,",
+            "No las habitarán;",
+            "Han plantado viñas escogidas, pero no beberán su vino."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Pues yo sé que muchas son sus transgresiones y graves sus pecados:",
+            "Oprimen al justo, aceptan soborno",
+            "Y rechazan a los pobres en la puerta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Por tanto, el prudente se calla en ese tiempo, pues es tiempo malo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "¶Busquen lo bueno y no lo malo, para que vivan;",
+            "Y así sea con ustedes el Señor, Dios de los ejércitos.",
+            "¡Tal como han dicho!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Aborrezcan el mal, amen el bien,",
+            "Y establezcan la justicia en la puerta.",
+            "Tal vez el Señor, Dios de los ejércitos,",
+            "Sea misericordioso con el remanente de José."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "¶Por tanto, así dice el Señor, el Señor Dios de los ejércitos:",
+            "«En todas las plazas hay llanto,",
+            "Y en todas las calles dicen: “¡Ay! ¡Ay!”.",
+            "Llaman a duelo al labrador,",
+            "Y a lamentación a los llorones profesionales."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "-»En todas las viñas habrá llanto,",
+            "Porque pasaré por en medio de ti», dice el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "¶¡Ay de los que ansían el día del Señor!",
+            "¿De qué les servirá el día del Señor?",
+            "Será tinieblas, y no luz;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Como cuando uno huye de un león,",
+            "Y se encuentra con un oso,",
+            "O va a casa, apoya la mano en la pared,",
+            "Y lo muerde una culebra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "¿No será tinieblas el día del Señor, y no luz,",
+            "Oscuridad, y no resplandor?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "¶«Aborrezco, desprecio sus fiestas,",
+            "Tampoco me agradan sus asambleas solemnes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "-»Aunque ustedes me ofrezcan holocaustos y sus ofrendas de grano,",
+            "No los aceptaré;",
+            "Ni miraré a las ofrendas de paz de sus animales cebados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "-»Aparten de Mí el ruido de sus cánticos,",
+            "Pues no escucharé ni siquiera la música de sus arpas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "-»Pero corra el juicio como las aguas",
+            "Y la justicia como una corriente inagotable."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "»¿Acaso me ofrecieron sacrificios y ofrendas de cereal por cuarenta años en el desierto, oh casa de Israel?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "Más bien, llevaron a Sicut, su rey, y a Quiyún, sus ídolos, la estrella de sus dioses que ustedes se hicieron."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "Yo los haré, pues, deportar más allá de Damasco», dice el Señor, cuyo nombre es Dios de los ejércitos."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.6"
+        ],
+        "human": "Amós 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.7"
+        ],
+        "human": "Amós 7",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.5"
+        ],
+        "human": "Amós 5",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Contra la falsa seguridad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¡Ay de los que viven reposadamente en Sión,",
+            "Y de los que se sienten seguros en el monte de Samaria,",
+            "Los notables de las naciones principales,",
+            "A quienes acude la casa de Israel!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Pasen a Calne y miren,",
+            "Y de allí vayan a Hamat la grande,",
+            "Desciendan luego a Gat de los filisteos.",
+            "¿Son ustedes mejores que estos reinos,",
+            "O es su territorio mayor que el de ustedes?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "¿Alejan ustedes el día de la calamidad,",
+            "Y acercan la silla de la violencia?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "¶Los que se acuestan en camas de marfil,",
+            "Se tienden sobre sus lechos,",
+            "Comen corderos del rebaño",
+            "Y terneros de en medio del establo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Que improvisan al son del arpa,",
+            "Y como David han compuesto cantos para sí;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Que beben vino en tazones del altar",
+            "Y se ungen con los óleos más finos,",
+            "Pero no se lamentan por la ruina de José,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Irán por tanto ahora al destierro a la cabeza de los desterrados,",
+            "Y se acabarán los banquetes de los disolutos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "¶El Señor Dios ha jurado por Sí mismo, ha declarado el Señor, Dios de los ejércitos:",
+            "«Aborrezco la arrogancia de Jacob,",
+            "Y odio sus palacios;",
+            "Así que entregaré la ciudad y cuanto hay en ella»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Y si diez hombres quedan en una misma casa, morirán."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Entonces su tío, o su incinerador, levantará a cada uno para sacar sus huesos de la casa, y dirá al que está en el fondo de la casa: «¿Hay alguien más contigo?». Y este responderá: «Nadie». Entonces aquel dirá: «¡Guarda silencio!, porque no se debe hacer mención del nombre del Señor»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Porque el Señor ordenará que la casa grande sea reducida a escombros y que la casa pequeña sea hecha pedazos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "¶¿Corren los caballos por la peña?",
+            "¿Se ara en ella con bueyes?",
+            "Pues ustedes han convertido el derecho en veneno,",
+            "Y el fruto de la justicia en amargura;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Ustedes que se alegran por Lo Debar,",
+            "Que dicen: «¿No hemos tomado para nosotros Carnáyim",
+            "Con nuestra propia fuerza?»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "«Por tanto, voy a levantar contra ustedes, oh casa de Israel»,",
+            "Declara el Señor, Dios de los ejércitos,",
+            "«Una nación que los afligirá desde la entrada de Hamat",
+            "Hasta el arroyo del Arabá»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.7",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.7"
+        ],
+        "human": "Amós 7"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.8"
+        ],
+        "human": "Amós 8",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.6"
+        ],
+        "human": "Amós 6",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Visiones de la langosta, del fuego y de la plomada"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Esto me mostró el Señor Dios: Él formaba enjambre de langostas cuando comenzaba a brotar la cosecha de primavera. Y la cosecha de primavera era después de la siega del rey."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Sucedió que cuando habían terminado de devorar la hierba de la tierra, yo dije:",
+            "«Señor Dios, te ruego que perdones.",
+            "¿Cómo podrá resistir Jacob",
+            "Si es tan pequeño?»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "El Señor se apiadó de esto:",
+            "«No sucederá», dijo el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Esto me mostró el Señor Dios: El Señor Dios llamaba para juzgarlos con fuego, y consumió el gran abismo y empezó a consumir el campo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Entonces dije:",
+            "«Señor Dios, te ruego que ceses.",
+            "¿Cómo podrá resistir Jacob",
+            "Si es tan pequeño?»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "El Señor se apiadó de esto:",
+            "«Esto tampoco sucederá», dijo el Señor Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Esto Él me mostró: El Señor estaba junto a un muro hecho a plomo, y tenía en Su mano una plomada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Y el Señor me dijo: «¿Qué ves, Amós?». «Una plomada», le respondí. Entonces el Señor dijo:",
+            "«Voy a poner una plomada",
+            "En medio de Mi pueblo Israel.",
+            "Ya no volveré a dejarlos sin castigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "-»Los lugares altos de Isaac serán asolados",
+            "Y los santuarios de Israel destruidos;",
+            "Y Yo me levantaré con espada contra la casa de Jeroboam»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Amós acusado por Amasías"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Entonces Amasías, sacerdote de Betel, envió palabra a Jeroboam, rey de Israel: «Amós conspira contra ti en medio de la casa de Israel; la tierra ya no puede soportar todas sus palabras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Porque así dice Amós: “Jeroboam morirá a espada y ciertamente Israel saldrá en cautiverio de su tierra” »."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Entonces Amasías dijo a Amós: «Vete, vidente, huye a la tierra de Judá, come allí pan y allí profetiza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Pero en Betel no vuelvas a profetizar más, porque es santuario del rey y residencia real»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Entonces Amós le respondió a Amasías: «Yo no soy profeta, ni hijo de profeta, sino que soy boyero y cultivador de higueras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Pero el Señor me tomó cuando pastoreaba el rebaño, y me dijo: “Ve, profetiza a Mi pueblo Israel”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Ahora pues, escucha la palabra del Señor: Tú dices: “No profetices contra Israel ni hables contra la casa de Isaac”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Por tanto, así dice el Señor: “Tu mujer se prostituirá en la ciudad, tus hijos y tus hijas caerán a espada, tu tierra será repartida a cordel, y tú morirás en una tierra inmunda. Además, Israel ciertamente saldrá de su tierra en cautiverio” »."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.8",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.8"
+        ],
+        "human": "Amós 8"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.9"
+        ],
+        "human": "Amós 9",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.7"
+        ],
+        "human": "Amós 7",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Los inevitables juicios de Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Esto me mostró el Señor Dios: Miré una canasta de fruta de verano,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "y Él me preguntó: «¿Qué ves, Amós?». «Una canasta de fruta de verano», respondí. Entonces el Señor me dijo: «Ha llegado el fin para Mi pueblo Israel. Ya no volveré a dejarlos sin castigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Los cantos del palacio se convertirán en gemido en aquel día», declara el Señor Dios. «Muchos serán los cadáveres; en todo lugar los echarán fuera en silencio»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Oigan esto, los que pisotean a los menesterosos, y quieren exterminar a los pobres de la tierra,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "diciendo:",
+            "«¿Cuándo pasará la luna nueva",
+            "Para vender el grano,",
+            "Y el día de reposo para abrir el mercado de trigo,",
+            "Achicar el efa (una medida de 22 litros), aumentar el siclo (moneda hebrea, 11.4 gramos de plata)",
+            "Y engañar con balanzas falsas;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Para comprar por dinero a los desvalidos",
+            "Y a los pobres por un par de sandalias,",
+            "Y vender los desechos del trigo?»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "¶El Señor ha jurado por el orgullo de Jacob:",
+            "«Ciertamente, nunca me olvidaré de ninguna de sus obras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "-»¿No temblará por esto la tierra,",
+            "Y hará duelo todo aquel que habita en ella?",
+            "Subirá toda ella como el Nilo,",
+            "Se agitará",
+            "Y disminuirá como el Nilo de Egipto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "-»Y sucederá que en aquel día», declara el Señor Dios,",
+            "«Yo haré que el sol se ponga al mediodía",
+            "Y que la tierra en pleno día se oscurezca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "-»Entonces cambiaré sus fiestas en llanto",
+            "Y todos sus cantos en lamento.",
+            "Pondré cilicio sobre todo lomo",
+            "Y calvicie sobre toda cabeza.",
+            "Haré que sea como duelo por hijo único,",
+            "Y su fin, como día de amargura."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "¶»Vienen días», declara el Señor Dios,",
+            "«En que enviaré hambre sobre la tierra,",
+            "No hambre de pan, ni sed de agua,",
+            "Sino de oír las palabras del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "-»La gente vagará de mar a mar,",
+            "Y del norte hasta el oriente;",
+            "Andarán de aquí para allá en busca de la palabra del Señor,",
+            "Pero no la encontrarán."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "-»En aquel día las vírgenes hermosas",
+            "Y los jóvenes desfallecerán de sed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "-»Los que juran por el pecado de Samaria,",
+            "Y dicen: “Viva tu dios, oh Dan”,",
+            "Y “Viva el camino de Beerseba”,",
+            "Caerán y nunca más se levantarán»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.9",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.9"
+        ],
+        "human": "Amós 9"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "OBA.1"
+        ],
+        "human": "Abdías 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.8"
+        ],
+        "human": "Amós 8",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Vi al Señor de pie junto al altar, y me dijo:",
+            "«Golpea los capiteles para que se estremezcan los umbrales,",
+            "Y rómpelos sobre la cabeza de todos.",
+            "Entonces mataré a espada al resto de ellos;",
+            "No habrá entre ellos fugitivo que huya,",
+            "Ni refugiado de ellos que escape."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "-»Aunque caven hasta el Seol,",
+            "De allí los tomará Mi mano;",
+            "Y aunque suban al cielo,",
+            "De allí los haré bajar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "-»Aunque se escondan en la cumbre del Carmelo,",
+            "Allí los buscaré y los tomaré;",
+            "Aunque se oculten de Mis ojos en el fondo del mar,",
+            "Allí ordenaré a la serpiente que los muerda."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "-»Aunque vayan al cautiverio delante de sus enemigos,",
+            "Allí ordenaré a la espada que los mate,",
+            "Y pondré sobre ellos Mis ojos para mal y no para bien»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "¶El Señor, Dios de los ejércitos,",
+            "El que toca la tierra, y esta se derrite,",
+            "Y se lamentan todos los que en ella habitan,",
+            "Sube toda ella como el Nilo",
+            "Y disminuye como el Nilo de Egipto;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "El que edifica en los cielos Sus altos aposentos,",
+            "Y sobre la tierra ha establecido Su bóveda;",
+            "El que llama a las aguas del mar",
+            "Y las derrama sobre la superficie de la tierra:",
+            "El Señor es Su nombre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "¶«¿No son ustedes para Mí como hijos de Etiopía,",
+            "Oh israelitas?», declara el Señor.",
+            "«¿No hice Yo subir a Israel de la tierra de Egipto",
+            "Y a los filisteos de Caftor y a los arameos de Kir?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "-»Por eso los ojos del Señor Dios están sobre el reino pecador,",
+            "Y voy a destruirlo de sobre la superficie de la tierra;",
+            "Sin embargo, no destruiré totalmente a la casa de Jacob», declara el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "«Porque Yo daré un mandato,",
+            "Y zarandearé a la casa de Israel entre todas las naciones,",
+            "Como se zarandea el grano en la criba,",
+            "Sin que caiga ni un grano en tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "-»A espada morirán todos los pecadores de Mi pueblo,",
+            "Los que dicen: “No nos alcanzará ni se nos acercará la desgracia”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Restauración del pueblo de Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "¶»En aquel día levantaré el tabernáculo caído de David,",
+            "Repararé sus brechas,",
+            "Levantaré sus ruinas,",
+            "Y lo reedificaré como en el tiempo pasado,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Para que tomen posesión del remanente de Edom",
+            "Y de todas las naciones donde se invoca Mi nombre»,",
+            "Declara el Señor, que hace esto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "¶«Vienen días», declara el Señor,",
+            "«Cuando el arador alcanzará al segador,",
+            "Y el que pisa la uva al que siembra la semilla;",
+            "Cuando destilarán vino dulce los montes,",
+            "Y todas las colinas se derretirán."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "-»Restauraré el bienestar de Mi pueblo Israel,",
+            "Y ellos reedificarán las ciudades asoladas y habitarán en ellas;",
+            "También plantarán viñas y beberán su vino,",
+            "Y cultivarán huertos y comerán sus frutos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "-»Los plantaré en su tierra,",
+            "Y no serán arrancados jamás de la tierra",
+            "Que les he dado»,",
+            "Dice el Señor tu Dios."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

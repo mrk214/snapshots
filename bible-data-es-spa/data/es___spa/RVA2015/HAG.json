@@ -1,0 +1,506 @@
+{
+  "book_usfm": "HAG",
+  "name": "Hageo",
+  "local_title": "Reina Valera Actualizada",
+  "local_abbreviation": "RVA2015",
+  "version_id": 1782,
+  "publisher": {
+    "name": "Editorial Mundo Hispano"
+  },
+  "copyright": {
+    "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+    "text": "Copyright © 2015 by Editorial Mundo Hispano"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "HAG.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Hageo 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAG.2"
+        ],
+        "human": "Hageo 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Sofonías 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Exhortación a reedificar el templo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "En el primer día del mes sexto del segundo año del rey Darío, vino por medio del profeta Hageo la palabra del SEÑOR para Zorobabel hijo de Salatiel, gobernador de Judá, y para Josué hijo de Josadac, sumo sacerdote, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "“Así ha dicho el SEÑOR de los Ejércitos: ‘Este pueblo dice que aún no ha llegado el tiempo en que sea reedificada la casa del SEÑOR’”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Vino, pues, la palabra del SEÑOR por medio del profeta Hageo, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "“¿Acaso es tiempo de que ustedes habiten en sus casas enmaderadas mientras que esta casa está en ruinas?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Así ha dicho el SEÑOR de los Ejércitos: ‘Reflexionen acerca de sus caminos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Han sembrado mucho pero han recogido poco; comen pero no se sacian; beben pero no quedan satisfechos; se visten pero no se abrigan; y el jornalero recibe su jornal en bolsa rota’”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Así ha dicho el SEÑOR de los Ejércitos: “Reflexionen acerca de sus caminos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Suban al monte, traigan madera y reedifiquen el templo. Yo tendré satisfacción en ello y seré honrado, ha dicho el SEÑOR."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Pero ustedes buscan mucho y hallan poco; y lo que llevan a casa, de un soplo yo lo hago desaparecer. ¿Por qué?, dice el SEÑOR de los Ejércitos. Porque mi casa está en ruinas, mientras que cada uno de ustedes se ocupa de su propia casa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Por eso, por causa de ustedes, los cielos retuvieron la lluvia y la tierra retuvo su fruto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Además, llamé la sequía sobre la tierra y sobre los montes; sobre el trigo, sobre el vino nuevo, sobre el aceite y sobre todo lo que la tierra produce; sobre los hombres, sobre el ganado y sobre todo trabajo de las manos”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Dirigentes y pueblo emprenden la obra"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Zorobabel hijo de Salatiel, el sumo sacerdote Josué hijo de Josadac, y todo el remanente del pueblo escucharon la voz del SEÑOR su Dios y las palabras del profeta Hageo, como lo había enviado el SEÑOR su Dios. Y el pueblo temió ante la presencia del SEÑOR."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Entonces Hageo, mensajero del SEÑOR, habló al pueblo con el mensaje del SEÑOR, diciendo: “Yo estoy con ustedes”, dice el SEÑOR."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Y el SEÑOR despertó el espíritu de Zorobabel hijo de Salatiel, gobernador de Judá, el espíritu de Josué, hijo de Josadac, sumo sacerdote, y el espíritu de todo el remanente del pueblo, y ellos acudieron y emprendieron la obra de la casa del SEÑOR de los Ejércitos, su Dios,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "en el día veinticuatro del mes sexto del segundo año del rey Darío."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAG.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAG.2"
+        ],
+        "human": "Hageo 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEC.1"
+        ],
+        "human": "Zacarías 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Hageo 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La gloria del nuevo templo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "En el día veintiuno del mes séptimo, vino la palabra del SEÑOR por medio del profeta Hageo, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "“Habla, pues, a Zorobabel hijo de Salatiel, gobernador de Judá; a Josué hijo de Josadac, sumo sacerdote; y al resto del pueblo, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "‘¿Quién de los que han quedado entre ustedes vio este templo en su primera gloria? ¿Y cómo lo ven ahora? ¿No es este como nada delante de sus ojos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Ahora pues, esfuérzate, oh Zorobabel, dice el SEÑOR; esfuérzate también tú, oh Josué hijo de Josadac, sumo sacerdote. Esfuércese todo el pueblo de la tierra, dice el SEÑOR, y actúen; porque yo estoy con ustedes, dice el SEÑOR de los Ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Según el pacto que hice con ustedes cuando salieron de Egipto, mi Espíritu estará en medio de ustedes. No teman,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "porque así ha dicho el SEÑOR de los Ejércitos: Dentro de poco yo estremeceré los cielos y la tierra, el mar y la parte seca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Estremeceré todas las naciones, y vendrán los tesoros deseados de las naciones. Y llenaré este templo de gloria, ha dicho el SEÑOR de los Ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Mía es la plata y mío es el oro, dice el SEÑOR de los Ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "La gloria de este último templo será mayor que la del primero, ha dicho el SEÑOR de los Ejércitos. Y daré la paz en este lugar’”, dice el SEÑOR de los Ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Llamado a actuar con manos santas"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "En el día veinticuatro del mes noveno del segundo año de Darío, vino la palabra del SEÑOR por medio del profeta Hageo, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "“Así ha dicho el SEÑOR de los Ejércitos: ‘Pregunta, pues, a los sacerdotes acerca de la ley, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Si alguien lleva carne sagrada en el extremo de su vestidura y con el extremo de la misma toca pan, guiso, vino, aceite o cualquier otra comida, ¿llegarán estas cosas a ser sagradas?’”.",
+            "Los sacerdotes respondieron diciendo:",
+            "—No."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Hageo dijo:",
+            "—Si alguna persona impura a causa de contacto con un cadáver toca alguna de estas cosas, ¿llegará esta a ser impura?",
+            "Le respondieron:",
+            "—Sí, será impura."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Y Hageo respondió:",
+            "—“Lo mismo sucede delante de mí con este pueblo y con esta nación”, dice el SEÑOR, “de manera que toda la obra de sus manos y todo lo que ofrecen aquí es impuro."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Ahora pues, reflexionen desde este día en adelante, antes de poner piedra sobre piedra en el templo del SEÑOR:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "¿Qué les pasa? Vienen a un montón de veinte medidas y hay solo diez; y vienen al lagar para sacar cincuenta medidas y hay solo veinte."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Los he golpeado en toda la obra de su manos con tizón, hongos y granizo, pero no se han vuelto a mí, dice el SEÑOR."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Reflexionen desde este día en adelante, desde el día veinticuatro del mes noveno, el día en que son puestos los cimientos del templo del SEÑOR. Reflexionen:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "¿Todavía hay semilla en el granero? Si bien ni la vid ni la higuera ni el granado ni el árbol de olivo han producido todavía, desde este día les daré bendición”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Expectativa centrada en Zorobabel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "En el día veinticuatro del mismo mes, vino por segunda vez la palabra del SEÑOR a Hageo, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "“Habla a Zorobabel, gobernador de Judá, diciendo: ‘Yo estremeceré los cielos y la tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Trastornaré el trono de los reinos y destruiré la fuerza del reino de las naciones. Trastornaré el carro y a los que suben en él. Caerán los caballos y los que montan en ellos, cada cual por la espada de su hermano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "En aquel día, dice el SEÑOR de los Ejércitos, te tomaré a ti, oh Zorobabel hijo de Salatiel, siervo mío, y te pondré como anillo de sellar porque yo te he escogido’”, dice el SEÑOR de los Ejércitos."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

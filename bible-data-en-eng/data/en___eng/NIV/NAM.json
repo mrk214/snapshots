@@ -1,0 +1,775 @@
+{
+  "book_usfm": "NAM",
+  "name": "Nahum",
+  "local_title": "New International Version",
+  "local_abbreviation": "NIV",
+  "version_id": 111,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+    "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "NAM.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "NAM.INTRO1"
+        ],
+        "human": "Nahum Intro"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahum 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.7"
+        ],
+        "human": "Micah 7",
+        "toc": true
+      },
+      "items": []
+    },
+    {
+      "chapter_usfm": "NAM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahum 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahum 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "NAM.INTRO1"
+        ],
+        "human": "Nahum Intro",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "A prophecy concerning Nineveh. The book of the vision of Nahum the Elkoshite."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "The Lord’s Anger Against Nineveh"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "The Lord is a jealous and avenging God;",
+            "the Lord takes vengeance and is filled with wrath.",
+            "The Lord takes vengeance on his foes",
+            "and vents his wrath against his enemies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "The Lord is slow to anger but great in power;",
+            "the Lord will not leave the guilty unpunished.",
+            "His way is in the whirlwind and the storm,",
+            "and clouds are the dust of his feet."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "He rebukes the sea and dries it up;",
+            "he makes all the rivers run dry.",
+            "Bashan and Carmel wither",
+            "and the blossoms of Lebanon fade."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "The mountains quake before him",
+            "and the hills melt away.",
+            "The earth trembles at his presence,",
+            "the world and all who live in it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Who can withstand his indignation?",
+            "Who can endure his fierce anger?",
+            "His wrath is poured out like fire;",
+            "the rocks are shattered before him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "The Lord is good,",
+            "a refuge in times of trouble.",
+            "He cares for those who trust in him,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "but with an overwhelming flood",
+            "he will make an end of Nineveh;",
+            "he will pursue his foes into the realm of darkness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Whatever they plot against the Lord",
+            "he will bring to an end;",
+            "trouble will not come a second time."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "They will be entangled among thorns",
+            "and drunk from their wine;",
+            "they will be consumed like dry stubble."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "From you, Nineveh, has one come forth",
+            "who plots evil against the Lord",
+            "and devises wicked plans."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "This is what the Lord says:",
+            "“Although they have allies and are numerous,",
+            "they will be destroyed and pass away.",
+            "Although I have afflicted you, Judah,",
+            "I will afflict you no more."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Now I will break their yoke from your neck",
+            "and tear your shackles away.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "The Lord has given a command concerning you, Nineveh:",
+            "“You will have no descendants to bear your name.",
+            "I will destroy the images and idols",
+            "that are in the temple of your gods.",
+            "I will prepare your grave,",
+            "for you are vile.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Look, there on the mountains,",
+            "the feet of one who brings good news,",
+            "who proclaims peace!",
+            "Celebrate your festivals, Judah,",
+            "and fulfill your vows.",
+            "No more will the wicked invade you;",
+            "they will be completely destroyed."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahum 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahum 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahum 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Nineveh to Fall"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "An attacker advances against you, Nineveh.",
+            "Guard the fortress,",
+            "watch the road,",
+            "brace yourselves,",
+            "marshal all your strength!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "The Lord will restore the splendor of Jacob",
+            "like the splendor of Israel,",
+            "though destroyers have laid them waste",
+            "and have ruined their vines."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "The shields of the soldiers are red;",
+            "the warriors are clad in scarlet.",
+            "The metal on the chariots flashes",
+            "on the day they are made ready;",
+            "the spears of juniper are brandished."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "The chariots storm through the streets,",
+            "rushing back and forth through the squares.",
+            "They look like flaming torches;",
+            "they dart about like lightning."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Nineveh summons her picked troops,",
+            "yet they stumble on their way.",
+            "They dash to the city wall;",
+            "the protective shield is put in place."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "The river gates are thrown open",
+            "and the palace collapses."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "It is decreed that Nineveh",
+            "be exiled and carried away.",
+            "Her female slaves moan like doves",
+            "and beat on their breasts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Nineveh is like a pool",
+            "whose water is draining away.",
+            "“Stop! Stop!” they cry,",
+            "but no one turns back."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Plunder the silver!",
+            "Plunder the gold!",
+            "The supply is endless,",
+            "the wealth from all its treasures!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "She is pillaged, plundered, stripped!",
+            "Hearts melt, knees give way,",
+            "bodies tremble, every face grows pale."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Where now is the lions’ den,",
+            "the place where they fed their young,",
+            "where the lion and lioness went,",
+            "and the cubs, with nothing to fear?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "The lion killed enough for his cubs",
+            "and strangled the prey for his mate,",
+            "filling his lairs with the kill",
+            "and his dens with the prey."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "“I am against you,”",
+            "declares the Lord Almighty.",
+            "“I will burn up your chariots in smoke,",
+            "and the sword will devour your young lions.",
+            "I will leave you no prey on the earth.",
+            "The voices of your messengers",
+            "will no longer be heard.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahum 3"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "HAB.INTRO1"
+        ],
+        "human": "Habakkuk Intro",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahum 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Woe to Nineveh"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Woe to the city of blood,",
+            "full of lies,",
+            "full of plunder,",
+            "never without victims!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "The crack of whips,",
+            "the clatter of wheels,",
+            "galloping horses",
+            "and jolting chariots!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Charging cavalry,",
+            "flashing swords",
+            "and glittering spears!",
+            "Many casualties,",
+            "piles of dead,",
+            "bodies without number,",
+            "people stumbling over the corpses—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "all because of the wanton lust of a prostitute,",
+            "alluring, the mistress of sorceries,",
+            "who enslaved nations by her prostitution",
+            "and peoples by her witchcraft."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "“I am against you,” declares the Lord Almighty.",
+            "“I will lift your skirts over your face.",
+            "I will show the nations your nakedness",
+            "and the kingdoms your shame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "I will pelt you with filth,",
+            "I will treat you with contempt",
+            "and make you a spectacle."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "All who see you will flee from you and say,",
+            "‘Nineveh is in ruins—who will mourn for her?’",
+            "Where can I find anyone to comfort you?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Are you better than Thebes,",
+            "situated on the Nile,",
+            "with water around her?",
+            "The river was her defense,",
+            "the waters her wall."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Cush and Egypt were her boundless strength;",
+            "Put and Libya were among her allies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Yet she was taken captive",
+            "and went into exile.",
+            "Her infants were dashed to pieces",
+            "at every street corner.",
+            "Lots were cast for her nobles,",
+            "and all her great men were put in chains."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "You too will become drunk;",
+            "you will go into hiding",
+            "and seek refuge from the enemy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "All your fortresses are like fig trees",
+            "with their first ripe fruit;",
+            "when they are shaken,",
+            "the figs fall into the mouth of the eater."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Look at your troops—",
+            "they are all weaklings.",
+            "The gates of your land",
+            "are wide open to your enemies;",
+            "fire has consumed the bars of your gates."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Draw water for the siege,",
+            "strengthen your defenses!",
+            "Work the clay,",
+            "tread the mortar,",
+            "repair the brickwork!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "There the fire will consume you;",
+            "the sword will cut you down—",
+            "they will devour you like a swarm of locusts.",
+            "Multiply like grasshoppers,",
+            "multiply like locusts!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "You have increased the number of your merchants",
+            "till they are more numerous than the stars in the sky,",
+            "but like locusts they strip the land",
+            "and then fly away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Your guards are like locusts,",
+            "your officials like swarms of locusts",
+            "that settle in the walls on a cold day—",
+            "but when the sun appears they fly away,",
+            "and no one knows where."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "King of Assyria, your shepherds slumber;",
+            "your nobles lie down to rest.",
+            "Your people are scattered on the mountains",
+            "with no one to gather them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Nothing can heal you;",
+            "your wound is fatal.",
+            "All who hear the news about you",
+            "clap their hands at your fall,",
+            "for who has not felt",
+            "your endless cruelty?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

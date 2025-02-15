@@ -1,0 +1,689 @@
+{
+  "book_usfm": "NAM",
+  "name": "Nahúm",
+  "local_title": "Traducción en Lenguaje Actual Interconfesional",
+  "local_abbreviation": "TLAI",
+  "version_id": 178,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+    "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "NAM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahúm 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.7"
+        ],
+        "human": "Miqueas 7",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Mensaje contra Nínive, la capital de Asiria"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Yo soy Nahúm de Elcós. En un sueño Dios me habló acerca de Nínive, y este es el mensaje que escribí contra esa ciudad:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Nuestro Dios exige",
+            "que le seamos fieles.",
+            "Cuando se enoja, toma venganza",
+            "de sus enemigos y de sus contrarios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Nuestro Dios es muy poderoso",
+            "y siempre castiga a quien lo merece,",
+            "pero también es un Dios paciente,",
+            "y no se enoja con facilidad.",
+            "Nuestro Dios camina entre las tormentas;",
+            "las nubes son el polvo que levanta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Si reprende al mar y a los ríos,",
+            "estos se quedan secos por completo",
+            "y se marchitan las flores del Líbano,",
+            "los campos de Basán y el monte Carmelo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "En presencia de nuestro Dios",
+            "tiemblan la tierra y sus habitantes,",
+            "y los cerros y las montañas se sacuden."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Cuando nuestro Dios se enoja,",
+            "las piedras se hacen polvo,",
+            "como si las partiera un rayo;",
+            "cuando nuestro Dios se enoja,",
+            "nadie puede mantenerse firme."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Nuestro Dios es bondadoso",
+            "y cuida de los que en él confían.",
+            "En momentos de angustia,",
+            "él nos brinda protección."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Pero también destruye a sus enemigos;",
+            "los arrastra como un río desbordado,",
+            "¡los persigue hasta en la oscuridad!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9,
+            10,
+            11
+          ],
+          "lines": [
+            "Ustedes, habitantes de Nínive,",
+            "¿por qué hacen planes malvados?",
+            "Hay entre ustedes un consejero malvado,",
+            "que hace planes contra nuestro Dios,",
+            "pero Dios acabará con ustedes;",
+            "los destruirá por completo,",
+            "y no les dará otra oportunidad;",
+            "les prenderá fuego, como a la paja,",
+            "como si fueran un montón de espinas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Mensaje al pueblo de Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12,
+            13,
+            14
+          ],
+          "lines": [
+            "Nuestro Dios ha dicho:",
+            "«Asiria es un país poderoso,",
+            "pero yo lo voy a destruir.",
+            "Destruiré su templo,",
+            "sus ídolos y sus imágenes,",
+            "y todos se olvidarán de él.",
+            "Dejaré ese país en ruinas,",
+            "pues solo merece mi desprecio.",
+            "»Y aunque a ti, pueblo de Judá,",
+            "te hice sufrir al principio,",
+            "ya no te haré sufrir más.",
+            "Al contrario, te pondré en libertad",
+            "y no volverás a ser esclavo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "15 (2.1) »Miren, habitantes de Judá:",
+            "¡ya vienen sobre los montes",
+            "los que traen buenas noticias!",
+            "¡Ya es tiempo de que hagan fiesta",
+            "y de que me cumplan sus promesas!",
+            "Porque yo destruiré a esos malvados,",
+            "y nunca más los volverán a atacar»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahúm 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahúm 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Asiria será destruida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1,
+            2
+          ],
+          "lines": [
+            "1-2 (2-3) Habitantes de Asiria,",
+            "ustedes atacaron a mi pueblo;",
+            "lo dejaron como a un arbusto",
+            "con las ramas rotas,",
+            "pero Dios le devolverá su grandeza",
+            "al reino de Israel.",
+            "¡Prepárate, Asiria,",
+            "tu destructor ya va en camino!",
+            "¡Reúne a tu ejército!",
+            "¡Pon guardias en tus murallas!",
+            "¡Vigila el camino",
+            "y prepara tus armas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3,
+            4
+          ],
+          "lines": [
+            "3-4 (4-5) ¡Ya llega tu enemigo!",
+            "Viene agitando sus lanzas;",
+            "sus soldados visten de rojo,",
+            "y del mismo color son sus escudos;",
+            "sus carros son veloces como el rayo",
+            "y brillantes como el relámpago;",
+            "ya están listos para la batalla,",
+            "y recorren calles y plazas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "5 (6) Los generales dan órdenes,",
+            "y los soldados corren a cumplirlas;",
+            "ya colocan las torres para el asalto,",
+            "pero caen al trepar por las murallas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "6 (7) ¡Asiria,",
+            "tus enemigos derriban las puertas",
+            "de tu ciudad capital!",
+            "Los soldados llenan la ciudad",
+            "y en el palacio todos tiemblan de miedo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "7 (8) Toman presa a la reina,",
+            "y junto con sus sirvientas",
+            "se la llevan a otro país.",
+            "¡Todas ellas gimen",
+            "y lloran de dolor!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "8 (9) Tus habitantes huyen de la ciudad;",
+            "¡son como el agua que se escapa",
+            "de un estanque roto!",
+            "El enemigo intenta detenerlos,",
+            "pero sin éxito alguno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "9 (10) Los soldados enemigos gritan:",
+            "«Tomemos el oro y la plata;",
+            "¡son tantas las riquezas de Asiria",
+            "que parecen no tener fin!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "10 (11) Asiria,",
+            "tu capital ha quedado destruida,",
+            "arruinada y con poca gente;",
+            "los que quedaron tiemblan de miedo,",
+            "las fuerzas los abandonan,",
+            "y el terror los deja pálidos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11,
+            12
+          ],
+          "lines": [
+            "11-12 (12-13) Asiria parecía un león feroz:",
+            "mataba y despedazaba a sus enemigos,",
+            "luego tomaba sus riquezas",
+            "y las repartía entre su gente.",
+            "Nadie invadía su territorio.",
+            "¿Pero dónde está ahora su poder?",
+            "¿Dónde están sus feroces soldados?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "13 (14) Así dice nuestro Dios:",
+            "«Asiria, yo estoy contra ti.",
+            "Voy a quemar tus carros de guerra;",
+            "voy a matar a todos tus habitantes.",
+            "Pondré fin a todos tus robos,",
+            "y no volverán a escucharse",
+            "las amenazas de tus mensajeros.",
+            "Yo soy el Dios de Israel,",
+            "y te juro que así lo haré»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahúm 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habacuc 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Un canto fúnebre"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Así dice nuestro Dios:",
+            "«¡Pobrecita de ti,",
+            "capital de Asiria!",
+            "¡Estás llena de asesinos,",
+            "de mentirosos y ladrones",
+            "que no se cansan de robar!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "»¡Ya se escuchan los látigos",
+            "y el estruendo de las ruedas!",
+            "¡Ya se oye el galopar de los caballos",
+            "y el ruido de los carros de guerra!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "¡Ya ataca la caballería,",
+            "y deslumbran las espadas y las lanzas!",
+            "¡No es posible contar los heridos",
+            "ni saber cuántos son los muertos!",
+            "¡Los cadáveres se amontonan!",
+            "¡La gente tropieza con ellos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "»Asiria, esto te ha pasado",
+            "por engañar a los pueblos.",
+            "Las naciones se enamoraron",
+            "de tus dioses y brujerías,",
+            "y entraron en tratos contigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "»Pero yo estoy en contra tuya,",
+            "y haré que las naciones y reinos",
+            "se den cuenta de lo que en verdad eres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Voy a embarrarte de excremento,",
+            "y quedarás en vergüenza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Todos los que te vean",
+            "se alejarán de ti, diciendo:",
+            "“¡Asiria está destruida!",
+            "¿Habrá alguien que la consuele?",
+            "¿Habrá quién le tenga compasión?”",
+            "Yo soy el Dios de Israel,",
+            "y juro que así lo haré."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8,
+            9,
+            10
+          ],
+          "lines": [
+            "»Nínive, capital de Asiria,",
+            "tú no eres mejor que Tebas.",
+            "A esa ciudad la protegía el río Nilo.",
+            "La protección que le brindaban",
+            "Etiopía, Egipto, Fut y Libia",
+            "aumentaba su poder.",
+            "»Pero Tebas fue conquistada.",
+            "A sus pobres niños",
+            "los estrellaron contra el suelo.",
+            "A la gente importante",
+            "se la repartieron en sorteo,",
+            "y a sus jefes se los llevaron",
+            "a un país lejano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "»También tú, Asiria,",
+            "te quedarás tambaleando",
+            "como si estuvieras borracha.",
+            "Tratarás de esconderte de tus enemigos,",
+            "pero no lo conseguirás."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Tus murallas se caerán;",
+            "serán como higueras",
+            "cargadas de higos maduros,",
+            "que si alguien las sacude,",
+            "sus higos caen al suelo",
+            "y la gente se los come."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "»El fuego ha quemado tus portones,",
+            "y el enemigo ya está por entrar;",
+            "por eso tus soldados se acobardan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Aunque guardes mucha agua",
+            "para resistir el ataque,",
+            "de nada te servirá.",
+            "Aunque hagas muchos ladrillos",
+            "para reforzar tus murallas,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "morirás quemada por el fuego",
+            "y destrozada por la guerra;",
+            "el enemigo acabará contigo",
+            "como una plaga de saltamontes.",
+            "De nada te servirán",
+            "tu fuerza militar y tus muchos soldados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16,
+            17
+          ],
+          "lines": [
+            "»Tus comerciantes y tus generales",
+            "son tantos como las estrellas del cielo,",
+            "¡pero en cuanto ven el peligro",
+            "huyen como saltamontes!",
+            "Todos conocemos a estos insectos:",
+            "en cuanto cambian de piel, vuelan;",
+            "en un día frío se paran a calentarse;",
+            "pero en cuanto sale el sol",
+            "emprenden vuelo y desaparecen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18,
+            19
+          ],
+          "lines": [
+            "»Rey de Asiria,",
+            "tú hiciste sufrir a muchas naciones.",
+            "Pero ahora van a morir",
+            "tus generales y tus jefes principales.",
+            "Tu ejército andará perdido por los montes,",
+            "y no habrá quien pueda reunirlo.",
+            "Tú estás herido de muerte,",
+            "y ya nadie podrá sanarte.",
+            "Todos los que oyen la noticia",
+            "aplauden de alegría»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

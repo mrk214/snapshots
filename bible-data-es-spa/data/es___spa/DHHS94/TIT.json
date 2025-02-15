@@ -1,0 +1,608 @@
+{
+  "book_usfm": "TIT",
+  "name": "Tito",
+  "local_title": "Dios habla Hoy Estándar",
+  "local_abbreviation": "DHHS94",
+  "version_id": 1846,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+    "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "TIT.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.1"
+        ],
+        "human": "Tito 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Tito 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.4"
+        ],
+        "human": "2 Timoteo 4",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Carta de Pablo, siervo de Dios y apóstol de Jesucristo, enviado por él para que los elegidos de Dios lleguen a la fe y al conocimiento de la verdad que se encuentra en nuestra religión,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "sostenidos por la esperanza de la vida eterna. Dios, que no miente, prometió esta vida desde la eternidad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "y ahora, a su debido tiempo, ha dado a conocer su mensaje por medio de la predicación que me ha sido confiada por mandato de Dios nuestro Salvador."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "A Tito, verdadero hijo en la fe común a los dos. Que Dios nuestro Padre y Jesucristo nuestro Salvador derramen su gracia y su paz sobre ti."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Con los que presiden la comunidad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Cuando te dejé en la isla de Creta, lo hice para que arreglaras lo que quedaba por arreglar y para que, en cada pueblo, nombraras ancianos de la iglesia, de acuerdo con lo que yo te encargué."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Un anciano debe llevar una vida irreprochable. Debe ser esposo de una sola mujer, y sus hijos deben ser creyentes y no estar acusados de mala conducta o de ser rebeldes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Pues el que preside la comunidad está encargado de las cosas de Dios, y por eso es necesario que lleve una vida irreprochable. No debe ser terco, ni de mal genio; no debe ser borracho, ni amigo de peleas, ni desear ganancias mal habidas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Al contrario, siempre debe estar dispuesto a hospedar gente en su casa, y debe ser un hombre de bien, de buen juicio, justo, santo y disciplinado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Debe apegarse al verdadero mensaje que se le enseñó, para que también pueda animar a otros con la sana enseñanza y convencer a los que contradicen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Frente a los falsos maestros"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Porque hay muchos rebeldes, sobre todo entre los que vienen del judaísmo, que dicen cosas sin sentido y engañan a la gente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "A esos hay que taparles la boca, pues trastornan familias enteras, enseñando lo que no deben para obtener ganancias mal habidas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Fue un profeta de la misma isla de Creta quien dijo de sus paisanos: «Los cretenses, siempre mentirosos, salvajes, glotones y perezosos.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Y dijo la verdad; por eso, repréndelos duramente, para que sean sanos en su fe"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "y para que no hagan caso de cuentos inventados por los judíos, ni de lo que ordenan los que dan la espalda a la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Para los puros todas las cosas son puras; pero para los que son impuros y no aceptan la fe, nada hay puro, pues tienen impuras la mente y la conciencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Dicen conocer a Dios, pero con sus hechos lo niegan; son odiosos y rebeldes, incapaces de ninguna obra buena."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "TIT.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Tito 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Tito 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.1"
+        ],
+        "human": "Tito 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Frente a los miembros de la comunidad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Lo que digas debe estar siempre de acuerdo con la sana enseñanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Los ancianos deben ser serios, respetables y de buen juicio; sanos en su fe, en su amor y en su fortaleza para soportar el sufrimiento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Igualmente, las ancianas deben portarse con reverencia, y no ser chismosas, ni emborracharse. Deben dar buen ejemplo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "y enseñar a las jóvenes a amar a sus esposos y a sus hijos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "a ser juiciosas, puras, cuidadosas del hogar, bondadosas y sujetas a sus esposos, para que nadie pueda hablar mal del mensaje de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Anima igualmente a los jóvenes a ser juiciosos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "en todo, y dales tú mismo ejemplo de cómo hacer el bien. Al enseñarles, hazlo con toda pureza y dignidad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "hablando de una manera sana, que nadie pueda condenar. Así sentirá vergüenza cualquiera que se ponga en contra, pues no podrá decir nada malo de nosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Aconseja a los siervos que obedezcan en todo a sus amos; que sean amables y no respondones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Que no roben, sino que sean completamente honrados, para mostrar en todo qué hermosa es la enseñanza de Dios nuestro Salvador."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Pues Dios ha mostrado su bondad, al ofrecer la salvación a toda la humanidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Esa bondad de Dios nos enseña a renunciar a la maldad y a los deseos mundanos, y a llevar en el tiempo presente una vida de buen juicio, rectitud y piedad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "mientras llega el feliz cumplimiento de nuestra esperanza: el regreso glorioso de nuestro gran Dios y Salvador Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Él se entregó a la muerte por nosotros, para rescatarnos de toda maldad y limpiarnos completamente, haciendo de nosotros el pueblo de su propiedad, empeñados en hacer el bien."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Esto es lo que tienes que enseñar, animando y reprendiendo con toda autoridad. Que nadie te desprecie."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "TIT.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Tito 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHM.1"
+        ],
+        "human": "Filemón 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Tito 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Deberes de todos los creyentes"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Recuerda a los otros que se sometan al gobierno y a las autoridades, que sean obedientes y que siempre estén dispuestos a hacer lo bueno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Que no hablen mal de nadie, que sean pacíficos y bondadosos, y que se muestren humildes de corazón en su trato con todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Porque antes también nosotros éramos insensatos y rebeldes; andábamos perdidos y éramos esclavos de toda clase de deseos y placeres. Vivíamos en maldad y envidia, odiados y odiándonos unos a otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Pero Dios nuestro Salvador mostró su bondad y su amor por la humanidad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "y, sin que nosotros hubiéramos hecho nada bueno, por pura misericordia nos salvó lavándonos y regenerándonos, y dándonos nueva vida por el Espíritu Santo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Pues por medio de Jesucristo nuestro Salvador nos dio en abundancia el Espíritu Santo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "para que, después de hacernos justos por su bondad, tengamos la esperanza de recibir en herencia la vida eterna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Esto es muy cierto, y quiero que insistas mucho en ello, para que los que creen en Dios se ocupen en hacer el bien. Estas cosas son buenas y útiles para todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Pero evita las discusiones tontas, las leyendas acerca de los antepasados, las discordias y las peleas por cuestiones de la ley de Moisés. Son cosas inútiles y sin sentido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Si alguien causa divisiones en la iglesia, llámale la atención una y dos veces; pero si no te hace caso, expúlsalo de ella,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "pues debes saber que esa persona se ha pervertido y que su mismo pecado la está condenando."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Recomendaciones personales"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Cuando yo te mande a Artemas o a Tíquico, haz lo posible por ir a Nicópolis a verme, porque he decidido pasar allí el invierno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Ayuda en todo lo que puedas al abogado Zenas y a Apolo, dándoles lo necesario para que sigan su viaje y no les falte nada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Y que los nuestros aprendan también a hacer el bien y a ayudar en casos de necesidad, para que sus vidas sean útiles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Todos los que están conmigo te mandan saludos. Saluda a nuestros queridos amigos en la fe. Que Dios derrame su gracia sobre todos ustedes."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}
