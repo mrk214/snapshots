@@ -47,6 +47,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Introducción"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -157,6 +165,14 @@
           ],
           "lines": [
             "Lo he dicho antes y ahora lo repito: Si alguien les anuncia un evangelio diferente del que ya recibieron, que caiga sobre él la maldición de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "1. El evangelio anunciado por Pablo"
           ],
           "rlw_lines": []
         },
@@ -599,6 +615,14 @@
         "toc": true
       },
       "items": [
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "2. Dios nos hace libres por la fe"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "section2",
           "verse_numbers": [],
@@ -1452,6 +1476,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "3. El uso de la libertad"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -1748,6 +1780,14 @@
           ],
           "lines": [
             "Por eso, siempre que podamos, hagamos bien a todos, y especialmente a nuestros hermanos en la fe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Conclusión"
           ],
           "rlw_lines": []
         },

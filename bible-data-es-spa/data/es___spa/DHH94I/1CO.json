@@ -47,6 +47,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Introducción"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -168,6 +176,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "1. Las divisiones son contra la unidad de Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -252,6 +268,14 @@
           ],
           "lines": [
             "pues Cristo no me mandó a bautizar, sino a anunciar el evangelio, y no con alardes de sabiduría y retórica, para no quitarle valor a la muerte de Cristo en la cruz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "2. La sabiduría de Dios y la sabiduría humana"
           ],
           "rlw_lines": []
         },
@@ -697,6 +721,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "3. Qué es ser Apóstol"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -977,6 +1009,14 @@
           ],
           "lines": [
             "Por lo tanto, no juzguen ustedes nada antes de tiempo; esperen a que el Señor venga y saque a la luz lo que ahora está en la oscuridad y dé a conocer las intenciones del corazón. Entonces Dios dará a cada uno la alabanza que merezca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "4. Orgullo de los corintios"
           ],
           "rlw_lines": []
         },
@@ -2959,6 +2999,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "1. Las mujeres en el culto"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -3113,6 +3161,14 @@
           ],
           "lines": [
             "En todo caso, si alguno quiere discutir este asunto, debe saber que ni nosotros ni las iglesias de Dios conocemos otra costumbre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "2. Celebración de la cena del Señor"
           ],
           "rlw_lines": []
         },
@@ -4987,6 +5043,14 @@
         "toc": true
       },
       "items": [
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Conclusión"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "section2",
           "verse_numbers": [],

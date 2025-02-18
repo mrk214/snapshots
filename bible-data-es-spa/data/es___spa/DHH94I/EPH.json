@@ -47,6 +47,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Saludo"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -1463,6 +1471,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Los esposos"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_numbers": [
             21
@@ -1621,6 +1637,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Hijos y padres"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_numbers": [
             1
@@ -1657,6 +1681,14 @@
           ],
           "lines": [
             "Y ustedes, padres, no hagan enojar a sus hijos, sino más bien edúquenlos con la disciplina y la instrucción que quiere el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Esclavos y amos"
           ],
           "rlw_lines": []
         },
@@ -1825,6 +1857,14 @@
           ],
           "lines": [
             "Dios me ha enviado como embajador de este mensaje, por el cual estoy preso ahora. Oren para que yo hable de él sin temor alguno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Despedida (6.21-24)"
           ],
           "rlw_lines": []
         },

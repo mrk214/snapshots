@@ -2535,10 +2535,30 @@
       },
       "items": [
         {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "1a (8.23a) Y el oprimido no podrá escapar."
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "heading1",
           "verse_numbers": [],
           "lines": [
             "Nacimiento y reinado del Príncipe de la paz"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "1b (8.23b) Al principio Dios humilló a Galilea, tierra de Zabulón y de Neftalí, región vecina a los paganos, que se extiende desde el otro lado del Jordán hasta la orilla del mar; pero después le concedió mucho honor."
           ],
           "rlw_lines": []
         },

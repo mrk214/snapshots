@@ -47,6 +47,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Introducción"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -177,6 +185,14 @@
           ],
           "lines": [
             "pues ustedes presentarán una abundante cosecha de buenas acciones gracias a Jesucristo, para honra y gloria de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "1. El progreso del evangelio"
           ],
           "rlw_lines": []
         },
@@ -336,6 +352,14 @@
           ],
           "lines": [
             "Así me tendrán otra vez entre ustedes, y haré que aumente su orgullo en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "2. Deberes de los cristianos"
           ],
           "rlw_lines": []
         },
@@ -639,6 +663,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "3. Los colaboradores de Pablo"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -810,6 +842,14 @@
         "toc": true
       },
       "items": [
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "4. Advertencias a la comunidad"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "section2",
           "verse_numbers": [],
@@ -1091,6 +1131,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "5. Exhortaciones"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -1191,6 +1239,14 @@
           ],
           "lines": [
             "Sigan practicando lo que les enseñé y las instrucciones que les di, lo que me oyeron decir y lo que me vieron hacer: háganlo así y el Dios de paz estará con ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "6. Agradecimientos"
           ],
           "rlw_lines": []
         },
@@ -1309,6 +1365,14 @@
           ],
           "lines": [
             "¡Gloria para siempre a nuestro Dios y Padre! Amén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Conclusión"
           ],
           "rlw_lines": []
         },

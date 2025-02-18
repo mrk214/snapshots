@@ -47,6 +47,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Introducción"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -3720,6 +3728,14 @@
           ],
           "lines": [
             "Pido especialmente sus oraciones para que Dios me permita volver a estar pronto con ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Conclusión"
           ],
           "rlw_lines": []
         },

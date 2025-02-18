@@ -47,6 +47,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Introducción"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -147,6 +155,14 @@
           ],
           "lines": [
             "Él nos ha traído noticias de ustedes y del amor que el Espíritu les inspira."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "1. La obra salvadora de Dios"
           ],
           "rlw_lines": []
         },
@@ -317,6 +333,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "2. La misión de Pablo"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -459,6 +483,14 @@
           ],
           "lines": [
             "Pues aunque no estoy presente entre ustedes en persona, lo estoy en espíritu, y me alegra ver que tienen orden y que se mantienen firmes en su fe en Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "3. La nueva vida"
           ],
           "rlw_lines": []
         },
@@ -1045,6 +1077,14 @@
           ],
           "lines": [
             "Su conversación debe ser siempre agradable y de buen gusto, y deben saber también cómo contestar a cada uno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Despedida"
           ],
           "rlw_lines": []
         },

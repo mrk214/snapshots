@@ -89,6 +89,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "a) Queja del profeta por los crímenes y la violencia"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -132,6 +140,14 @@
             "se pisotea el derecho,",
             "el malo persigue al bueno",
             "y se tuerce la justicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "b) Respuesta del Señor y anuncio del castigo (1.5-11)"
           ],
           "rlw_lines": []
         },
@@ -221,6 +237,14 @@
           "lines": [
             "Pasan como un huracán;",
             "no reconocen más dios que su propia fuerza.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "c) Nueva queja del profeta"
           ],
           "rlw_lines": []
         },
@@ -336,6 +360,14 @@
         "toc": true
       },
       "items": [
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "d) Respuesta final de Dios (2.1-4)"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "verse",
           "verse_numbers": [

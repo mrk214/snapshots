@@ -47,6 +47,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Introducción"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -4023,6 +4031,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "1. Sucesos preliminares"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -5224,6 +5240,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "2. Primer viaje misionero de Pablo"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -6143,6 +6167,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "3. La reunión en Jerusalén"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -6514,6 +6546,14 @@
           ],
           "lines": [
             "Pero Pablo y Bernabé se quedaron en Antioquía y, junto con otros muchos, siguieron enseñando y anunciando el mensaje de la buena noticia del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "4. Segundo viaje misionero de Pablo"
           ],
           "rlw_lines": []
         },
@@ -7727,6 +7767,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "5. Tercer viaje misionero de Pablo"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -8730,6 +8778,14 @@
         "toc": true
       },
       "items": [
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "6. Prisión de Pablo y viaje a Roma"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "section2",
           "verse_numbers": [],

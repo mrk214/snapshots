@@ -47,6 +47,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Introducción"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -193,6 +201,14 @@
           "verse_numbers": [],
           "lines": [
             "(1.12—7.16)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "1. La actitud de Pablo"
           ],
           "rlw_lines": []
         },
@@ -592,6 +608,14 @@
         "toc": true
       },
       "items": [
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "2. El servicio apostólico"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "section2",
           "verse_numbers": [],
@@ -1394,6 +1418,14 @@
           ],
           "lines": [
             "Parecemos tristes, pero siempre estamos contentos; parecemos pobres, pero enriquecemos a muchos; parece que no tenemos nada, pero lo tenemos todo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "3. Reconciliación con la comunidad"
           ],
           "rlw_lines": []
         },
@@ -3180,6 +3212,14 @@
           ],
           "lines": [
             "Les escribo esta carta antes de ir a verlos, para que cuando vaya no tenga que ser tan duro en el uso de mi autoridad, la cual el Señor me dio, no para destruirlos, sino para edificación de la comunidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Despedida"
           ],
           "rlw_lines": []
         },

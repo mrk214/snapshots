@@ -63,6 +63,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Prólogo"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_numbers": [
             1
@@ -239,6 +247,14 @@
           ],
           "lines": [
             "Nadie ha visto jamás a Dios; el Hijo único, que es Dios y que vive en íntima comunión con el Padre, es quien nos lo ha dado a conocer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "1. Revelación de Jesús con hechos y palabras: respuesta de fe"
           ],
           "rlw_lines": []
         },
@@ -1414,6 +1430,14 @@
         "toc": true
       },
       "items": [
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "2. Diversas actitudes frente a Jesús"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "section2",
           "verse_numbers": [],
@@ -3345,6 +3369,14 @@
         "toc": true
       },
       "items": [
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "3. Jesús es rechazado por su propio pueblo"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "section2",
           "verse_numbers": [],
@@ -6935,6 +6967,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "1. Cena de despedida con los discípulos"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -8741,6 +8781,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "2. Pasión y muerte"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -9786,6 +9834,14 @@
         "toc": true
       },
       "items": [
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "3. Apariciones de Jesús resucitado"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "section2",
           "verse_numbers": [],

@@ -2582,10 +2582,32 @@
       },
       "items": [
         {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "»Sin embargo,",
+            "no durarán para siempre",
+            "su angustia y su dolor.»"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "heading1",
           "verse_numbers": [],
           "lines": [
             "El reinado del Príncipe de paz"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "1b (8.23b) La tierra de Zabulón y Neftalí es una región de Galilea, cerca de donde habitan pueblos que no adoran a nuestro Dios. Esa región se extiende desde el otro lado del río Jordán hasta la orilla del mar. Hace mucho tiempo, Dios humilló a esa región de Galilea, pero después le concedió un gran honor, el cual Isaías anunció así:"
           ],
           "rlw_lines": []
         },

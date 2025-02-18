@@ -47,6 +47,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Introducción"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -253,6 +261,14 @@
           "verse_numbers": [],
           "lines": [
             "(1.16—8.30)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "1. Enseña con plena autoridad"
           ],
           "rlw_lines": []
         },
@@ -1139,6 +1155,14 @@
           ],
           "lines": [
             "Pero Jesús les ordenaba severamente que no hablaran de él en público."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "2. Los secretos del reino de Dios"
           ],
           "rlw_lines": []
         },
@@ -2501,6 +2525,14 @@
           ],
           "lines": [
             "Y estaba asombrado porque aquella gente no creía en él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "3. «Tú eres el Mesías»"
           ],
           "rlw_lines": []
         },
@@ -3903,6 +3935,14 @@
           "verse_numbers": [],
           "lines": [
             "(8.31—16.20)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "1. Jesús anuncia su muerte (8.31—11.11)"
           ],
           "rlw_lines": []
         },
@@ -5351,6 +5391,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "2. En Jerusalén"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -6600,6 +6648,14 @@
         "toc": true
       },
       "items": [
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "3. Pasión, muerte y resurrección"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "section2",
           "verse_numbers": [],

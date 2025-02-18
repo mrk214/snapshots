@@ -47,6 +47,14 @@
       },
       "items": [
         {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Saludo"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "section2",
           "verse_numbers": [],
           "lines": [
@@ -91,6 +99,14 @@
           ],
           "lines": [
             "A Tito, verdadero hijo en la fe común a los dos. Que Dios nuestro Padre y Jesucristo nuestro Salvador derramen su gracia y su paz sobre ti."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Responsabilidades de Tito en Creta"
           ],
           "rlw_lines": []
         },
@@ -605,6 +621,14 @@
           ],
           "lines": [
             "Y que los nuestros aprendan también a hacer el bien y a ayudar en casos de necesidad, para que sus vidas sean útiles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_numbers": [],
+          "lines": [
+            "Despedida"
           ],
           "rlw_lines": []
         },
