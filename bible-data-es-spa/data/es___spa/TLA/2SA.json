@@ -18,7 +18,7 @@
     "local_name": "Español (América Latina)",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
   "chapters": [
     {
       "chapter_usfm": "2SA.INTRO1",
