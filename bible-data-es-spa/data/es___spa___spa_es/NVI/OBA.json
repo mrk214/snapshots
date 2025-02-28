@@ -1,0 +1,347 @@
+{
+  "book_usfm": "OBA",
+  "name": "Abdías",
+  "local_title": "Nueva Versión Internacional - Castellano",
+  "local_abbreviation": "NVI",
+  "version_id": 1637,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+    "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa_es",
+    "local_name": "Español (España)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "OBA.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "OBA.1"
+        ],
+        "human": "Abdías 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.1"
+        ],
+        "human": "Jonás 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.9"
+        ],
+        "human": "Amós 9",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Visión de Abdías."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Orgullo y caída de Edom"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Hemos oído una noticia de parte del Señor y un mensajero ha sido enviado a las naciones, diciendo: «¡Vamos, marchemos a la guerra contra ella!»",
+            "Así dice el Señor omnipotente acerca de Edom:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "«¡Te haré insignificante entre las naciones,",
+            "serás tremendamente despreciado!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Tu carácter soberbio te ha engañado.",
+            "Como habitas en las hendiduras de los desfiladeros,",
+            "en la altura de tu morada,",
+            "te dices a ti mismo:",
+            "¿Quién podrá arrojarme a tierra?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Pero, aunque vueles a lo alto como águila,",
+            "y tu nido esté puesto en las estrellas,",
+            "de allí te arrojaré",
+            "—afirma el Señor—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Si vinieran a ti ladrones",
+            "o saqueadores nocturnos,",
+            "¿no robarían solo lo que les bastara?",
+            "¡Pero tú, cómo serás destruido!",
+            "Si vinieran a ti vendimiadores,",
+            "¿no dejarían algunos racimos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "¡Pero cómo registrarán a Esaú!",
+            "¡Cómo rebuscarán sus escondrijos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Hasta la frontera te expulsarán",
+            "tus propios aliados,",
+            "te engañarán y dominarán",
+            "tus propios amigos.",
+            "Los que se sientan a tu mesa",
+            "te pondrán una trampa.",
+            "¡Es que Edom ya no tiene inteligencia!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "¿Acaso no destruiré yo en aquel día",
+            "a los sabios de Edom,",
+            "a la inteligencia del monte de Esaú?",
+            "—afirma el Señor—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Ciudad de Temán, tus guerreros se caerán de miedo,",
+            "a fin de que todo hombre sea exterminado",
+            "del monte de Esaú por la masacre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "»Por la violencia hecha contra tu hermano Jacob,",
+            "te cubrirá la vergüenza",
+            "y serás exterminado para siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "En el día que te mantuviste aparte,",
+            "en el día que extranjeros llevaron su ejército cautivo,",
+            "cuando extraños entraron por su puerta",
+            "y sobre Jerusalén echaron suerte,",
+            "tú eras como uno de ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "No debiste reírte de tu hermano en su mal día,",
+            "en el día de su desgracia.",
+            "No debiste alegrarte a costa del pueblo de Judá",
+            "en el día de su ruina.",
+            "No debiste proferir arrogancia",
+            "en el día de su angustia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "No debiste entrar por la puerta de mi pueblo",
+            "en el día de su calamidad.",
+            "No debiste recrear la vista con su desgracia",
+            "en el día de su calamidad.",
+            "No debiste echar mano a sus riquezas",
+            "en el día de su calamidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "No debiste aguardar en los angostos caminos",
+            "para matar a los que huían.",
+            "No debiste entregar a los sobrevivientes",
+            "en el día de su angustia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "»Porque cercano está el día del Señor",
+            "contra todas las naciones.",
+            "¡Edom, como hiciste, se te hará!",
+            "¡sobre tu cabeza recaerá tu merecido!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Pues sin duda que así como vosotros, israelitas,",
+            "bebisteis de mi copa en mi santo monte,",
+            "así también la beberán sin cesar todas las naciones;",
+            "beberán y engullirán,",
+            "y entonces serán como si nunca hubieran existido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Pero en el monte Sión habrá liberación, y será sagrado.",
+            "El pueblo de Jacob recuperará sus posesiones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Los descendientes de Jacob serán fuego,",
+            "y los de José, llama;",
+            "pero la casa real de Esaú será estopa:",
+            "le pondrán fuego y la consumirán,",
+            "de tal forma que no quedará sobreviviente",
+            "entre los descendientes de Esaú».",
+            "El Señor lo ha dicho."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Restauración del pueblo de Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Los del Néguev poseerán el monte de Esaú, y los de la Sefelá poseerán Filistea. Los israelitas poseerán los campos de Efraín y de Samaria, y los de Benjamín poseerán Galaad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Los exiliados, este ejército de israelitas que viven entre los cananeos, poseerán la tierra hasta Sarepta. Los desterrados de Jerusalén, que viven en Sefarad, poseerán las ciudades del Néguev,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "y los libertadores subirán al monte Sión para gobernar la región montañosa de Esaú. Y el reino será del Señor."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}
