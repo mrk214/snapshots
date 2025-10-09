@@ -39,3 +39,17 @@
 
 ---
 
+### bible-data-pt-por ([source repo](https://github.com/mrk214/bible-data-pt-por))
+
+| abbr | name | books | file |
+| --- | --- | :---: | --- |
+| `A21` | Biblia Almeida Século 21 | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/A21.json) |
+| `ARA` | Almeida Revista e Atualizada | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/ARA.json) |
+| `ARC` | Almeida Revista e Corrigida | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/ARC.json) |
+| `NAA` | Nova Almeida Atualizada | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/NAA.json) |
+| `NTLH` | Nova Tradução na Linguagem de Hoje | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/NTLH.json) |
+| `NVI` | Nova Versão Internacional 2011 | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/NVI.json) |
+| `ARC` | Almeida Revista e Corrigida (Portugal) | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por_pt/ARC.json) |
+
+---
+
