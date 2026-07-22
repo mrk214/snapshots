@@ -1,14 +1,16 @@
-👉 [Available versions](https://mrk214.github.io/snapshots/data.json) data (`JSON file`).
+🧭 [Overview](https://github.com/mrk214)
 
-👉 [TypeScript types](https://github.com/mrk214/reading-json-files/blob/main/src/types.ts) of the JSON files.
+👉 [Available versions](https://mrk214.github.io/snapshots/data.json)
 
-👉 [Code example](https://github.com/mrk214/reading-json-files) (`how to use the JSON files`).
+👉 [TypeScript types](https://github.com/mrk214/reading-json-files/blob/main/src/types.ts) of the JSON files
 
-# 🚀 File Links
+📚 [Code example](https://github.com/mrk214/reading-json-files) (`how to use the JSON files`)
 
-### bible-data-en-eng ([source repo](https://github.com/mrk214/bible-data-en-eng))
+# 🚀 JSON files
 
-| abbr | name | books | file |
+### bible-data-en-eng
+
+| abbr | name | books | link |
 | --- | --- | :---: | --- |
 | `CSB` | Christian Standard Bible | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/CSB_vid_1713.json) |
 | `ESV` | English Standard Version 2016 | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/ESV_vid_59.json) |
@@ -20,9 +22,9 @@
 
 ---
 
-### bible-data-es-spa ([source repo](https://github.com/mrk214/bible-data-es-spa))
+### bible-data-es-spa
 
-| abbr | name | books | file |
+| abbr | name | books | link |
 | --- | --- | :---: | --- |
 | `DHH94I` | Biblia Dios Habla Hoy | **75** | [json](https://mrk214.github.io/snapshots/es___spa___spa/DHH94I_vid_52.json) |
 | `DHHS94` | Dios habla Hoy Estándar | **75** | [json](https://mrk214.github.io/snapshots/es___spa___spa/DHHS94_vid_1846.json) |
@@ -39,9 +41,9 @@
 
 ---
 
-### bible-data-pt-por ([source repo](https://github.com/mrk214/bible-data-pt-por))
+### bible-data-pt-por
 
-| abbr | name | books | file |
+| abbr | name | books | link |
 | --- | --- | :---: | --- |
 | `A21` | Biblia Almeida Século 21 | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/A21_vid_2645.json) |
 | `ARA` | Almeida Revista e Atualizada | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/ARA_vid_1608.json) |
